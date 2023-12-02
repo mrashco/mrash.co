@@ -1,14 +1,15 @@
 ---
 title: TryHackMe Nmap Room Notes
 author: Mr Ash
-type: "post"
+type: note
 published: 2022-03-12
 lastUpdated: 2022-11-04
-url: "/tryhackme-nmap-room-notes/"
+url: tryhackme-nmap-room-notes
 image: https://p146.p4.n0.cdn.getcloudapp.com/items/X6uEAEkx/1eadb440-2474-4e54-aa4b-8d44ba446101.jpeg?v=66cc324e4f0c17fcae9c0502df29cfe4
-categories: Cyber
+categories: note
 tags:
     - Hacking
+    - Cyber
     - TryHackMe
 ---
 

@@ -3,12 +3,13 @@ title: 100 Days Of Hacking
 author: Mr Ash
 published: 2022-10-17
 lastUpdated: 2022-11-04
-url: "/100daysofhacking/"
+url: 100daysofhacking
 image: https://images.unsplash.com/photo-1541176447985-6bb45fb77a14?ixid=MnwxNTI0MzJ8MHwxfGFsbHx8fHx8fHx8fDE2MTY3NjU5MTk&ixlib=rb-1.2.1&fm=jpg&q=85&fit=crop&w=1707&h=2560
-categories: Cyber
+type: post
+categories: post
 tags:
-    - 100DaysOfHacking
-    - Project
+    - Hacking
+    - Cyber
 ---
 
 <!-- <iframe frameborder="0" height="102px" loading="lazy" scrolling="no" src="https://anchor.fm/mrashleyball/embed/episodes/100-Days-Of-Hacking-e16j8d7" width="400px"></iframe> -->

@@ -1,12 +1,12 @@
 ---
-title: "Linux Fundamentals 3 \u2022 TryHackMe Walkthrough"
+title: "Linux Fundamentals 3 TryHackMe Walkthrough"
 author: Mr Ash
-type: "post"
+type: post
 published: 2022-02-28
 lastUpdated: 2022-11-04
-url: "/linux-fundamentals-3-tryhackme-walkthrough/"
+url: linux-fundamentals-3-tryhackme-walkthrough
 image: https://p146.p4.n0.cdn.getcloudapp.com/items/OAu861Ql/3f8ff5cc-1163-42dd-9247-12a8b69e38ab.png?v=61e5c730b66d4aab28aae1fddc850862
-categories: Cyber
+categories: post
 tags:
     - Linux
     - TryHackMe

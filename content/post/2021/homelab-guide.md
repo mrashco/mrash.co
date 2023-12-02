@@ -1,12 +1,12 @@
 ---
-title: "Homelabs \u2022 Beginner&#8217;s Guide To Homelabbing"
+title: "Homelabs 2022 Beginner's Guide To Homelabbing"
 author: Mr Ash
-type: "post"
+type: post
 published: 2021-11-07
 lastUpdated: 2022-11-04
-url: "/homelabs-beginners-guide-to-homelabbing/"
+url: homelabs-beginners-guide-to-homelabbing
 image: https://images.unsplash.com/flagged/photo-1579274216947-86eaa4b00475?ixid=MnwxNTI0MzJ8MHwxfGFsbHx8fHx8fHx8fDE2MzYyNzM2OTg&ixlib=rb-1.2.1&fm=jpg&q=85&fit=crop&w=1440&h=2560
-categories: Cyber 
+categories: post 
 tags:
     - Homelab
     - Networking

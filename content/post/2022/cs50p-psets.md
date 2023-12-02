@@ -1,14 +1,15 @@
 ---
 title: CS50P Problem Set Guide
 author: Mr Ash
-type: "post"
+type: post
 published: 2022-07-17
-lastUpdated: 2022-11-05
-url: "/cs50-python-problem-set-guide/"
+# lastUpdated: 2022-11-05
+url: cs50-python-problem-set-guide
 image: https://p146.p4.n0.cdn.getcloudapp.com/items/ApuJqjpQ/00d66ae7-9d96-44e0-9459-3fc3f4fae991.jpeg?v=60d7c8ba4915850993c1d0f2bdf76cf4
-categories: Programming
+categories: post
 tags:
-    - CS50P
+    - Programming
+    - CS50
     - Python
 ---
 
