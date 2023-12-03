@@ -1,12 +1,13 @@
 ---
 title: "Intro To Python \u2022 Free Python Starter Guide"
 author: Mr Ash
-type: "post"
 published: 2021-10-09
 lastUpdate: 2022-11-04
-url: "/intro-to-python-free-python-starter-guide/"
+url: python-intro
+alias: intro-to-python-free-python-starter-guide
 image: https://images.unsplash.com/photo-1538439907460-1596cafd4eff?ixid=MnwxNTI0MzJ8MHwxfGFsbHx8fHx8fHx8fDE2MzM3NTQ3Mzg&ixlib=rb-1.2.1&fm=jpg&q=85&fit=crop&w=2560&h=1735
-categories: Programming
+type: Post
+categories: Post
 tags:
     - Python
 ---

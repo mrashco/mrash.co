@@ -1,17 +1,16 @@
 ---
 title: Hackers Beginner Guide To Online Anonymity
-author: Mr Ash
+# author: Mr Ash
 type: post
 published: 2021-05-21
 lastUpdated: 2022-11-02
-url: "/hackers-beginner-guide-to-online-anonymity/"
-
+url: anonymity
+alias: hackers-beginner-guide-to-online-anonymity
 image: https://p146.p4.n0.cdn.getcloudapp.com/items/nOubxrjR/c906d962-1817-457c-be13-769207ae7c27.jpeg?v=5bba9db8ac60e028ca814a0ecff40bfa
 
-categories: 
-    - Cyber
+categories: Post
 tags:
-    - 100DaysOfHacking
+    - Anonymity
     - TOR
 ---
 

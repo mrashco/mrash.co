@@ -1,13 +1,13 @@
 ---
 title: CyberWox CyberSec Homelab on Virtual Box
-author: Mr Ash
-type: "post"
+author: Ash
 published: 2021-08-21
 lastUpdated: 2022-11-02
-url: "/cyberwox-cybersec-homelab-virtual-box/"
-image: /wp-content/uploads/2021/08/pexels-photo-3861969.jpeg
-categories:
-    - Cyber
+url: cyberwox
+alias: cyberwox-cybersec-homelab-virtual-box
+# image: /wp-content/uploads/2021/08/pexels-photo-3861969.jpeg
+type: Post
+categories: Post
 tags:
     - Homelab
     - Networking

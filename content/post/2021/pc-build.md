@@ -1,12 +1,16 @@
 ---
-title: How To Build A PC
-author: Mr Ash
-type: "post"
+title: How To Build A PC 2023
+# author: Mr Ash
 published: 2022-01-29
 lastUpdated: 2022-11-04
-url: "/how-to-build-a-pc-2022/"
+url: pc-build
+alias: 
+    - how-to-build-a-pc-2022
+    - how-to-build-a-pc-2023
+    - how-to-build-a-pc-2024
 image: https://p146.p4.n0.cdn.getcloudapp.com/items/2NuzlRlo/00465411-cf21-4fe7-b6d8-430d2721bf61.jpeg?v=e7a9ee15e574fafde52051db4b6f392a
-categories: Cyber
+type: Post
+categories: Post
 tags:
     - Hardware
 ---

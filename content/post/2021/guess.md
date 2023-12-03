@@ -1,17 +1,15 @@
 ---
 title: "Beginner Python Project - Guessing Game"
-author: Mr Ash
+# author: Mr Ash
 published: 2021-05-02
 lastUpdate: 2022-11-02
-type: post
-url: /beginner-python-project-guessing-game/
+url: guess
+alias: /beginner-python-project-guessing-game/
 # image: /wp-content/uploads/2021/05/pexels-photo-4762442.jpeg
-categories: 
-    - Programming
+type: Post
+categories: Post
 tags:
     - Python
-    - Automate The Boring Stuff
-    - 100DaysOfHacking
 ---
 
 Do you want a beginner Python project to keep you on your programming journey?

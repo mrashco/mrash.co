@@ -1,16 +1,16 @@
 ---
 title: Linux Quick Start Guide
-author: Mr Ash
-type: "post"
+# author: Mr Ash
 published: 2021-08-14
 lastUpdated: 2022-11-02
-url: "/linux-quick-start-guide/"
+url: quick-linux
+alias: linux-quick-start-guide
 image: https://images.unsplash.com/photo-1599227577308-4323e4e2c946?ixid=MnwxNTI0MzJ8MHwxfGFsbHx8fHx8fHx8fDE2Mjg5MTIxMzU&ixlib=rb-1.2.1&fm=jpg&q=85&fit=crop&w=2560&h=1704
-categories: 
-    - Cyber
+type: Post
+categories: Post
 tags:
     - Linux
-    - BASH
+    - Bash
 ---
 
 <!-- <iframe frameborder="0" height="102px" loading="lazy" scrolling="no" src="https://anchor.fm/mrashleyball/embed/episodes/Linux-Quick-Start-Guide-e16j882" width="400px"></iframe> -->

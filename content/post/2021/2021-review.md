@@ -1,14 +1,14 @@
 ---
 title: "2021 Review \u2022 2022 Plan"
 author: Mr Ash
-type: "post"
 published: 2022-01-22
 lastUpdated: 2022-11-04
-url: "/2021-review-2022-plan/"
-image: /wp-content/uploads/2022/01/270799717_474210737634913_4162806776516902679_n-scaled.jpg
-categories: Work-life
+url: 2021-review
+alias: 2021-review-2022-plan
+# image: /wp-content/uploads/2022/01/270799717_474210737634913_4162806776516902679_n-scaled.jpg
+categories: Post
+type: Post
 tags:
-    - Events
     - Annual Review
 ---
 

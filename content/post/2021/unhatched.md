@@ -1,16 +1,16 @@
 ---
 title: Linux Unhatched Cisco Course Review and Notes
 author: Mr Ash
-type: "post"
 published: 2021-07-21
 lastUpdated: 2022-11-02
-url: "/linux-unhatched-cisco-course-review-and-notes/"
+url: unhatched
+alias: linux-unhatched-cisco-course-review-and-notes
 image: https://images.unsplash.com/photo-1580706483913-b6ea7db483a0?ixid=MnwxNTI0MzJ8MHwxfGFsbHx8fHx8fHx8fDE2MjY4NjcwNTI&ixlib=rb-1.2.1&fm=jpg&q=85&fit=crop&w=2560&h=2011
-categories: 
-    - Cyber
+type: Post
+categories: Post
 tags:
     - Linux
-    - BASH
+    - Bash
 ---
 
 Learning Linux?

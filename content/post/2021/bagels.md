@@ -1,15 +1,15 @@
 ---
 title: "Bagels \u2022 Beginner Python Project"
-author: Mr Ash
-type: "post"
+# author: Mr Ash
 published: 2021-10-16
 lastUpdated: 2022-11-04
-url: "/bagels-beginner-python-project/"
+url: bagels
+alias: bagels-beginner-python-project
 # image: /wp-content/uploads/2021/10/background.png
-categories: Programming
+type: Post
+categories: Post
 tags:
     - Python
-    - Automate The Boring Stuff
 ---
 
 Want a beginner Python Project that’s going to test you? A program longer than 40 lines of code?
