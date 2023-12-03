@@ -1,14 +1,11 @@
 ---
 title: Network Services 2 TryHackMe Part 1 NFS
-author: Mr Ash
-type: "post"
-url: "/network-services-2-tryhackme-part-1-nfs/"
-fifu_image_url:
-- https://www.youtube.com/watch?v=lBWxgGQObuo
-ekit_post_views_count:
-- '202'
-image: https://www.youtube.com/watch?v=lBWxgGQObuo
-categories: "['Hacking']"
+url: thm-nfs-1
+alias: network-services-2-tryhackme-part-1-nfs
+# image: https://www.youtube.com/watch?v=lBWxgGQObuo
+type: Post
+categories: Post 
+draft: true
 ---
 
 <figure class="wp-block-embed is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio"><div class="wp-block-embed__wrapper"><iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="450" loading="lazy" src="https://www.youtube.com/embed/lBWxgGQObuo?feature=oembed" title="Network Services 2 TryHackMe Part 1 NFS" width="800"></iframe></div></figure><div id="hs-embed-container" style="position:relative;display:flex;width:100%;height:600px;"><div id="hs-embed-placeholder" style="position:absolute;top:0;bottom:0;left:0;right:0;margin:10px;overflow:auto;font-size: 14px !important">## [ Network Services 2 TryHackMe Part 1 NFS](https://www.happyscribe.com/?utm_source=embed-player&utm_term=72e624b2836b40ad8f26e458c5fb59e7 "Network Services 2 TryHackMe Part 1 NFS")

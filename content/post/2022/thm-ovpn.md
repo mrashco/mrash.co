@@ -3,7 +3,9 @@ title: "How To Fix TryHackMe VPN Not Working"
 published: 2022-10-22
 lastUpdated: 2022-11-01
 type: post
-image: https://p146.p4.n0.cdn.getcloudapp.com/items/geuyG2Qe/5c47342b-3538-44ff-a654-719076a0902f.jpeg?v=286811a9d1a35788922a9ace8194e936
+cover:
+    image: https://p146.p4.n0.cdn.getcloudapp.com/items/geuyG2Qe/5c47342b-3538-44ff-a654-719076a0902f.jpeg? #v=286811a9d1a35788922a9ace8194e936
+    relative: true
 url: /how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/ 
 categories: 
     - Cyber
