@@ -1,8 +1,9 @@
 ---
 title: "Vanguard vs Pearler 2023 Best Aussie FIRE Broker"
-author: Mr Ash
-published: 29/09/2021
-url: "/vanguard-vs-pearler-best-aussie-fire-broker/"
+published: 2021-09-29 # 29/09/2021
+url: pearler
+alias:
+    - vanguard-vs-pearler-best-aussie-fire-broker
 ---
 
 <!-- <iframe frameborder="0" height="102px" loading="lazy" scrolling="no" src="https://anchor.fm/mrashleyball/embed/episodes/Vanguard-Vs-Pearler--Best-Aussie-FIRE-Broker-e181ei2" width="400px"></iframe>You’re looking to move from Vanguard to [Pearler](https://go.mrash.co/pearler)?  -->
@@ -27,7 +28,7 @@ They charged $0 trades, now, $9 per trade, most brokers are around this price po
 
 Here’s a look at Pearler vs other popular platforms.
 
-<figure class="wp-block-image">![https://p146.p4.n0.cdn.getcloudapp.com/items/eDuRdol5/aff604b2-4fb4-4958-b1d1-f94d2e6be44f.jpeg?v=dda11fbe7cbba51730868065b1fe7a7f](https://p146.p4.n0.cdn.getcloudapp.com/items/eDuRdol5/aff604b2-4fb4-4958-b1d1-f94d2e6be44f.jpeg?v=dda11fbe7cbba51730868065b1fe7a7f)</figure>If you keep the same investment strategy, i.e. you invest in the same Vanguard ETFs, then management fees are identical.
+![https://p146.p4.n0.cdn.getcloudapp.com/items/eDuRdol5/aff604b2-4fb4-4958-b1d1-f94d2e6be44f.jpeg?v=dda11fbe7cbba51730868065b1fe7a7f](https://p146.p4.n0.cdn.getcloudapp.com/items/eDuRdol5/aff604b2-4fb4-4958-b1d1-f94d2e6be44f.jpeg?v=dda11fbe7cbba51730868065b1fe7a7f)If you keep the same investment strategy, i.e. you invest in the same Vanguard ETFs, then management fees are identical.
 
 I don’t invest in single stocks and shares, but from what I can see, there are the same options available, if not more.
 
@@ -56,7 +57,9 @@ Another difference comes in how each broker handles dividends, more on that soon
 
 ## Making The Switch to Pearler
 
-<figure class="wp-block-image size-large">![person using iMac](https://images.unsplash.com/photo-1555421689-491a97ff2040?ixid=MnwxNTI0MzJ8MHwxfGFsbHx8fHx8fHx8fDE2MzE3NjY3MzI&ixlib=rb-1.2.1&fm=jpg&q=85&fit=crop&w=1024&h=683)</figure>Great, now we’re ready to make the switch from Vanguard to Pearler, let’s go.
+![person using iMac](https://images.unsplash.com/photo-1555421689-491a97ff2040?ixid=MnwxNTI0MzJ8MHwxfGFsbHx8fHx8fHx8fDE2MzE3NjY3MzI&ixlib=rb-1.2.1&fm=jpg&q=85&fit=crop&w=1024&h=683)
+
+Great, now we’re ready to make the switch from Vanguard to Pearler, let’s go.
 
 Step 1, set up a Pearler account by following this link and the on-screen instructions. It’s painless, just have your driver’s licence on hand and follow the prompts.
 
