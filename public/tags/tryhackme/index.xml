@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>TryHackMe on Mr Ash Co</title>
+    <link>/tags/tryhackme/</link>
+    <description>Recent content in TryHackMe on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>How To Fix TryHackMe VPN Not Working</title>
+      <link>/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</guid>
+      <description>Is your TryHackMe OpenVPN not working?
+Let’s fix it, here’s what you’ll need:
+Some computer networking knowledge. A TryHackMe account. An OpenVPN config file via Network Access. Alright, so your there’s a few problems when trying to connect with OpenVPN to TryHackMe. Let’s cover them and learn how to fix connection problems in TryHackMe, let’s go.
+How Do I Use OpenVPN On TryHackMe? First you need to have an active account with an OpenVPN config file generated and downloaded to your system.</description>
+    </item>
+    
+    <item>
+      <title>Crack The Hash TryHackMe Walkthrough</title>
+      <link>/crack-the-hash-tryhackme-walkthrough/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/crack-the-hash-tryhackme-walkthrough/</guid>
+      <description>Let’s tackle Crack The Hash, another TryHackMe room full of hash-cracking challenges.
+If you’d like a video walkthrough, then see the linked video below for a full guide to Crack The Hash.
+Quickly, what is a hash and hashing in general?
+“Hashing serves the purpose of ensuring integrity, i.e. making it so that if something is changed you can know that it’s changed. Technically, hashing takes arbitrary input and produce a fixed-length string…” — Daniel Miessler, Hashing vs.</description>
+    </item>
+    
+    <item>
+      <title>Agent Sudo TryHackMe Walkthrough</title>
+      <link>/agent-sudo/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/agent-sudo/</guid>
+      <description>Welcome back to another TryHackMe room, the challenge today is Agent Sudo.
+No spoilers below within the hints, just some good ol’ fashion hints to help you out on your agent sudo journey. For more detail, with some spoilers, see the steps section, and for everything I did, see my notes. If you prefer a video walkthrough, well that’s linked below, and if you want my personal thoughts on the room, check out the reflection via the video.</description>
+    </item>
+    
+    <item>
+      <title>OhSINT Writeup TryHackMe</title>
+      <link>/ohsint/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/ohsint/</guid>
+      <description>Let’s go for another TryHackMe room, this time we’re tackling OhSINT, which begs the question “are you able to use open-source intelligence to solve this challenge?”
+This was a fun, different room for me, I love the idea of OSINT and using the web to solve challenges. Despite having a few initial issues along the way, it was fun to answer “what information can you possible get with just one photo?</description>
+    </item>
+    
+    <item>
+      <title>THM SimpleCTF Hints, Writeup &amp;#038; Notes</title>
+      <link>/simplectf/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/simplectf/</guid>
+      <description>Welcome back to TryHackMe, this time it’s SimpleCTF… or as I’d call it ‘Not So SimpleCTF’… as I had a few issues getting this CTF to work.
+Let’s dive into it.
+Hints How many services are running under port 1000? nmap What is running on the higher port? Check the nmap scan results. What’s the CVE you’re using against the application? CVE-****-**** don’t forget to include CVE- at the beginning. To what kind of vulnerability is the application vulnerable?</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Network Services 1 Part 2 Telnet</title>
+      <link>/tryhackme-network-services-1-part-2-telnet/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tryhackme-network-services-1-part-2-telnet/</guid>
+      <description>Welcome to TryHackMe Network Services Walkthrough Part 2, oh yeah! Let’s learn, then enumerate and exploit a variety of network services and misconfigurations, second up is telnet. Watch this Network Services Walkthrough for TryHackMe’s room, Part 2 Telnet.
+Task 5 Understanding Telnet Questions:
+What is Telnet? application protocol What has slowly replaced Telnet? ssh How would you connect to a Telnet server with the IP 10.10.10.3 on port 23? telnet 10.</description>
+    </item>
+    
+    <item>
+      <title>Cowsays What CTF - A Beginner Linux Project</title>
+      <link>/cowsays-what-ctf/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/cowsays-what-ctf/</guid>
+      <description>Want a beginner Linux CTF (Capture The Flag)? Moove over, here’s Cowsays What CTF. A simple question-based python program to test your beginner Linux level skills.
+This simple CTF will use Linux commands to install a program, execute it and interact with it. Cowsays What CTF is inspired by TryHackMe and OverTheWire’s Bandit.
+*Disclaimer, if you need help getting started with Linux, see Linux Quick Start Guide.
+Getting Started Before you tackle the challenge, understand the scope, here’s what you need to know:</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Network Services Room Notes</title>
+      <link>/tryhackme-network-services-room-notes/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tryhackme-network-services-room-notes/</guid>
+      <description>Are you going through TryHackMe’s Network Services 1 Room? Need help taking notes? I got you covered. Here are my Network Services 1 room notes from TryHackMe, use them as much as you need!
+Disclaimer, this is written in shorthand format, meaning, full sentences and proper grammar are not always used. For writeups, see SMB Part 1, for help with Linux, see Quick Start Guide.
+SMB: Understanding, Enumerating, Exploiting Server Message Block (SMB) Protocol: client/server comms for file/printer/serial ports/others for MS Windows.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Nmap Walkthrough</title>
+      <link>/tryhackme-nmap-walkthrough/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tryhackme-nmap-walkthrough/</guid>
+      <description>Welcome to another TryHackeMe Walkthrough, this time the Nmap room from TryHackMe’s Beginner Learning Path. In this TryHackMe Nmap Walkthrough, we’ll go over all 15 tasks and you’ll see every detail you need to not only complete the Nmap room but understand it too.
+For a quicker look at the Nmap Room, see TryHackMe Nmap Room Notes, enjoy the TryHackMe Nmap Walkthrough, happy hacking.
+Disclaimer, see the video version or the previous Linux Fundamentals Part 1, Part 2, or Part 3 if needed.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Network Services Walkthrough SMB Part 1/3</title>
+      <link>/tryhackme-network-services-walkthrough-smb-part-1-3/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tryhackme-network-services-walkthrough-smb-part-1-3/</guid>
+      <description>Task 1 Get Connected Questions
+Ready? Let’s get going! – No answer needed, carry on. Offline checklist to track your learning path, become a great hacker and stay on task.
+Task 2 Understanding SMB What does SMB stand for? – Server Message Block What type of protocol is SMB? – response-request What do clients connect to servers using? – TCP/IP What systems does Samba run on? – Unix Task 3 Enumerating SMB Run nmap scan.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Nmap Room Notes</title>
+      <link>/tryhackme-nmap-room-notes/</link>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tryhackme-nmap-room-notes/</guid>
+      <description>Are you going through TryHackMe’s Nmap Room? Did you forget to take notes? I got you covered. Here are my Nmap room notes from TryHackMe, use them as much as you need!
+Disclaimer, this is written in shorthand format, meaning, full sentences and proper grammar are always not used. For a full writeup, see TryHackMe Nmap Walkthrough, for help with Linux, see Quick Start Guide.
+Task 1 Deploy &amp;amp; Task 2 Introduction Ports: allow multiple network services, ensure correct device communication, 65535 total.</description>
+    </item>
+    
+    <item>
+      <title>Linux Fundamentals 1 - TryHackMe Walkthrough</title>
+      <link>/linux-fundamentals-1-tryhackme-walkthrough/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/linux-fundamentals-1-tryhackme-walkthrough/</guid>
+      <description>Learning Linux? Great, me too!
+Here’s the Linux Fundamentals 1 Walkthrough from TryHackMe. Let’s take a look at some of the fundamentals of Linux including common commands, the terminal, your prompt and more. There’s lots to love in Linux, as there’s so many flavours or distributions, the possibilities are endless.
+I hope you learn something on your Linux journey! Enjoy TryHcakMe’s Linux Fundamentals 1.
+Disclaimer, for more TryHackMe walkthroughs, see Linux Fundamentals 2 or Linux Fundamentals 3.</description>
+    </item>
+    
+    <item>
+      <title>Linux Fundamentals 2 - TryHackMe Walkthrough</title>
+      <link>/linux-fundamentals-2-tryhackme-walkthrough/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/linux-fundamentals-2-tryhackme-walkthrough/</guid>
+      <description>So you’re learning Linux aye? Welcome aboard!
+Here’s the Linux Fundamentals 2 Walkthrough from TryHackMe. Let’s take a look at some of the fundamentals of Linux including some more commands, ssh, bash scripting and more.
+There’s lots to love in Linux, I hope you learn something here on your Linux journey! Enjoy TryHackMe’s Linux Fundamentals 2.
+Disclaimer, for more, see Linux Fundamentals 1, Linux Fundamentals 3 and Linux Quick Start Guide.</description>
+    </item>
+    
+    <item>
+      <title>Linux Fundamentals 3 TryHackMe Walkthrough</title>
+      <link>/linux-fundamentals-3-tryhackme-walkthrough/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/linux-fundamentals-3-tryhackme-walkthrough/</guid>
+      <description>Welcome to Linux Fundamentals 3 TryHackMe Walkthrough, the finale of the Linux Fundamental rooms on TryHackMe.
+Let’s learn some Linux skills and common utilities around automation, package management, and service/application logging. Are you keen? Yeah!
+Let’s go on with Linux Fundamentals 3 TryHackMe Walkthrough.
+Disclaimer, see Linux Fundamentals Part 1 and Linux Fundamentals Part 2 for more. Also, see the video walkthrough too:
+Task 1 Introduction &amp;amp; Task 2 Deploy Your Linux Machine Alright, you should be a pro with connecting to TryHackMe’s VPN via OpenVPN and ssh-ing into the TryHackMe user via the provided ip address.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe RootMe Walkthrough</title>
+      <link>/tryhackme-rootme/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tryhackme-rootme/</guid>
+      <description>I’m still on the Complete Beginner learning path from TryHackMe, so this is my first venture outside into their library of CTF’s.
+This is a beginner ‘easy’ game, their description reads a CTF for beginners, can you root me? If you’re unaware, root means top-level access, like super admin or master-of-everything.
+When you gain root-level access, you own that machine, so install, delete, copy or whatever else you want, it’s yours.</description>
+    </item>
+    
+  </channel>
+</rss>

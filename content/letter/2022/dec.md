@@ -1,5 +1,5 @@
 ---
-title: "Annual Review 2022"
+title: "2022 Annual Review"
 published: 2023-01-19 # 19/01/2023 
 lastUpdated: 2023-01-19 # 19/01/2023 
 url: "2022"
@@ -13,12 +13,13 @@ cover:
     # caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
-type: Post # Options: Letter, Note, Page
+type: 
+    - post
+    - letter # Options: Letter, Note, Page
 categories:
-    - Post
-    - Letter # Options: Letter, Note, Page
+    - Personal
 tags:
-    - 
+    - Annual Review
     - 
 
 draft: false

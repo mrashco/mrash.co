@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Letters on Mr Ash Co</title>
+    <link>/letter/</link>
+    <description>Recent content in Letters on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 01 Mar 2023 00:00:00 +0000</lastBuildDate><atom:link href="/letter/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Curious</title>
+      <link>/curious/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/curious/</guid>
+      <description>“I’m curious,” has become my favourite phrase to use in conversation. Curiosity is pretty awesome. It draws us to people, places and interesting things. It can influence important decisions and spark lifelong pathways. Let’s dive into curiosity more.
+Hi, I’m Ash, a 27 y/o cybersec enthusiast journaling my journey on productivity &amp;amp; hacking. You’ve received a copy of the Monthly Monitor as you subscribed via the site or accessed a product.</description>
+    </item>
+    
+    <item>
+      <title>2022 Annual Review</title>
+      <link>/2022/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>/2022/</guid>
+      <description>Welcome to my 4th Annual Review, can you believe 2022 is over? It&amp;rsquo;s been a long 12 months, yet it’s gone so fast. Here&amp;rsquo;s my 2022 recap plus my plans for 2023. Note, if interested see 2019, 2020 and 2021.
+~ Hi, my name’s Ash, I’m 27 and a cyber security enthusiast sharing my journey. You’ve received this newsletter as you subscribed via my website or downloaded a freebie. ~</description>
+    </item>
+    
+    <item>
+      <title>I Won</title>
+      <link>/i-won/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/i-won/</guid>
+      <description>We’ve made it to October so let’s recap last month and catch up. Here’s a quick story I wanted to share with you about my first coding competition. Disclaimer, you’ve received this newsletter as you subscribed to Mr Ash .co. Note, the August newsletter wasn’t published via email but is now live.
+I Won My First Coding Competition It’s early July and I’m scrolling Discord where I find myself on the W3Schools server.</description>
+    </item>
+    
+    <item>
+      <title>AFK Aug</title>
+      <link>/afk/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/afk/</guid>
+      <description>Hi friend,
+Are you stressed? Most people are despite the ease of modern living. What&amp;rsquo;s something we can do to combat work-life stresses? Disclaimer, you’ve received this newsletter as you’ve subscribed to Mr Ash.co. Note, this month has a shortened newsletter.
+AFK Away From Keyboard (AFK), coined by PC gamers to quickly chat “I’m getting food, don&amp;rsquo;t kill me in game” or something similar. I still use AFK today in work meetings.</description>
+    </item>
+    
+  </channel>
+</rss>

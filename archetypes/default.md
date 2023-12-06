@@ -2,7 +2,7 @@
 title: "{{ replace .Name "-" " " | title }}"
 published: {{ .Date }}
 lastUpdated: {{ .Date }}
-url: "{{ replace .Name "" "-" | title }}"
+url:
 alias:
     - 
     - 
@@ -13,15 +13,15 @@ cover:
     # caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
-type: Letter # Options: Letter, Note, Page
-categories: Letter # Options: Letter, Note, Page
+type: letter # Options: letter, note, page
+categories: Personal # Options: Writeup, Personal
 tags:
     - 
     - 
 
 draft: false
 
-ShowToc: false
+# ShowToc: false
 # TocOpen: false
 
 # searchHidden: true # Make false to hide page from search

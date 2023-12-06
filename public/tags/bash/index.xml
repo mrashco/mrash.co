@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Bash on Mr Ash Co</title>
+    <link>/tags/bash/</link>
+    <description>Recent content in Bash on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 14 Aug 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/bash/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Linux Quick Start Guide</title>
+      <link>/quick-linux/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/quick-linux/</guid>
+      <description>Learning Linux is fun! Beginning Linux is hard.
+There’s a lot of free courses and content to help you. But what about a quick start guide to Linux? Getting started with Linux made easy?
+No fluff, just a quick and dirty setup to get you started with Linux basics! Well, here it is, the Linux Quick Start Guide. To follow along, install Ubuntu Linux and let’s learn how to get started with Linux.</description>
+    </item>
+    
+    <item>
+      <title>Linux Unhatched Cisco Course Review and Notes</title>
+      <link>/unhatched/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/unhatched/</guid>
+      <description>Learning Linux?
+Well, Linux Unhatched from CISCO Net Academy is a great place to start.
+Depending on your experience, this short course could take you a few days or over a week.
+It’s free, well structured, easy to read and interactive. Perfect for learning Linux.
+Below are my notes for the course, I skipped 14-14.2 as I’ll be coming back to that section.
+*Disclaimer, the course content is owned and shared via CISCO Net Academy.</description>
+    </item>
+    
+  </channel>
+</rss>

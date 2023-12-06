@@ -13,8 +13,8 @@ cover:
     # caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
-type: Letter # Options: Letter, Note, Page
-categories: Letter # Options: Letter, Note, Page
+type: letter # Options: Letter, Note, Page
+categories: Personal # Options: Letter, Note, Page
 tags:
     - 
     - 

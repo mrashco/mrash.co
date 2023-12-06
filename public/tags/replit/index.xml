@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Replit on Mr Ash Co</title>
+    <link>/tags/replit/</link>
+    <description>Recent content in Replit on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/replit/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replit EdFest 2022 Jam - Intro To PyScript</title>
+      <link>/replit-edfest-2022-jam-intro-to-pyscript/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/replit-edfest-2022-jam-intro-to-pyscript/</guid>
+      <description>ATTENTION! If you’d like to do the course yourself, join up using this link for FREE.
+And don’t forget to watch the video walkthrough.
+Welcome to your Intro to PyScript, a simple replit that teaches you the basics of the modern Python web dev technology. You’re going to set up your own simple HTML page with a linked Python program. You’ll enable PyScript, take user data, run it through your program and print it back out to the user.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Work-life on Mr Ash Co</title>
+    <link>/categories/work-life/</link>
+    <description>Recent content in Work-life on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 13 Oct 2021 00:00:00 +0000</lastBuildDate><atom:link href="/categories/work-life/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Paste Text Only in Word - CTRL &#43; SHIFT &#43; V to Microsoft Word</title>
+      <link>/paste-text-only-word-ctrl-shift-v-to-microsoft-word/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/paste-text-only-word-ctrl-shift-v-to-microsoft-word/</guid>
+      <description>Are you needing to copy/paste a lot of content from online to Microsoft Word? Yep!
+It seems small, but Word has the most annoying lack of a shortcut, no CTRL + SHIFT + V – paste text only. Word has the ability to paste text only via right-click, select option.
+So, let’s quickly add a new shortcut to paste text only in Word.
+First, go to File &amp;gt; Options &amp;gt; Customize Ribbon &amp;gt; Keyboard shortcuts: Customize…</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>wsl on Mr Ash Co</title>
+    <link>/tags/wsl/</link>
+    <description>Recent content in wsl on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Kali Linux WSL WITHOUT Microsoft Store</title>
+      <link>/kali-wsl/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/kali-wsl/</guid>
+      <description>Before you start, make sure your Windows 10 OS is up to date as version 1903 or higher can run this. To check the version, click Windows Start Button and type System Information, next to Version you’ll see your current number.
+If lower than version 1903, go to Settings and Update to get latest changes.
+Okay, now you’re good to go!
+1. Setup Subsystem for Linux Right click the Windows Start Button and open Windows PowerShell (Admin).</description>
+    </item>
+    
+  </channel>
+</rss>

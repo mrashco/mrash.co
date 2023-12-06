@@ -1,10 +1,10 @@
 ---
-title: "Archives"
+title: "Blog"
 published: 2023-12-03T19:04:07+10:00
 lastUpdated: 2023-12-03T19:04:07+10:00
 layout: "archives"
-summary: archives
-url: archives
+summary: blog
+url: blog
 
 # cover:
     # image: "<image path/url>"

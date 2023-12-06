@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>100DaysOfHacking on Mr Ash Co</title>
+    <link>/tags/100daysofhacking/</link>
+    <description>Recent content in 100DaysOfHacking on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/100daysofhacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>OverTheWire: Bandit</title>
+      <link>/overthewire-bandit/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/overthewire-bandit/</guid>
+      <description>Bandit is a beginner Capture The Flag (CTF) game from OverTheWire (OTW).
+Whether you’re familiar with text-based games or have never even thought of playing them (me). This is the perfect CTF for learning Linux.
+You’re here to either copy my answers OR learn. Can I ask you to please focus on the learning? It’s okay to peak when you’re so blind it’s crippling you, but please don’t just copy, copy, copy!</description>
+    </item>
+    
+    <item>
+      <title>Automate The Boring Stuff With Python Practice Projects</title>
+      <link>/automate-the-boring-stuff-with-python-practice-projects/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/automate-the-boring-stuff-with-python-practice-projects/</guid>
+      <description>Automate The Boring Stuff With Python is an incredible book, and course by Al Sweigart to learn Python coding and computer science for the everyday person. With its straightforward learning approach, and succinct program examples and explanations, it’s many hobbyists’ go-to book for Python.
+This article breaks down my personal solutions to the practice projects outlined at the end of most chapters. As I continue to learn Python and generally computer science, I enjoy seeing how others solve coding problems.</description>
+    </item>
+    
+    <item>
+      <title>Hackers Learning Path</title>
+      <link>/learning-path-for-beginner-hacker/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/learning-path-for-beginner-hacker/</guid>
+      <description>Want to hack computers? But what is hacking and how do people learn it?
+Here’s a vetted list of resources to learn computer hacking. Starting out is hard work, so that’s why I’ve put this list together, to help demystify hacking for you.
+The good news is anyone (including you) can learn to hack, and in even better news, it’s a lot of fun. All you need is effort and time, most of the resources are completely free.</description>
+    </item>
+    
+    <item>
+      <title>Basic Python Project • Is It Raining?</title>
+      <link>/basic-python-project-is-it-raining/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/basic-python-project-is-it-raining/</guid>
+      <description>Learning python? It’s an incredible programming language to have in your tool belt.
+This project is inspired by an early example from Automate The Boring Stuff with Python.
+Flow Control This python project is to impliment this flow chart:
+Taken from chapter 2, there’s a few things to digest, see the code step by step in Python Tutor.
+Let’s write the steps is psuedoe code:
+Ask if it’s raining? If no, go outside.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe RootMe Walkthrough</title>
+      <link>/tryhackme-rootme/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/tryhackme-rootme/</guid>
+      <description>I’m still on the Complete Beginner learning path from TryHackMe, so this is my first venture outside into their library of CTF’s.
+This is a beginner ‘easy’ game, their description reads a CTF for beginners, can you root me? If you’re unaware, root means top-level access, like super admin or master-of-everything.
+When you gain root-level access, you own that machine, so install, delete, copy or whatever else you want, it’s yours.</description>
+    </item>
+    
+  </channel>
+</rss>

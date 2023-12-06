@@ -1,8 +1,10 @@
 ---
 title: 2019 Annual Review
-url: 2019-in-review
 published: 2019-12-16
 lastUpdated: 2022-11-08
+url: "2019"
+alias:
+    - 2019-in-review
 cover:
     image: https://p146.p4.n0.cdn.getcloudapp.com/items/Kou1KPNL/ce995e43-746b-4d5c-8c5c-66ceca3e6a81.jpg?source=viewer&v=261edaa27e33abde0ebf8a193229bfe0
 type: post

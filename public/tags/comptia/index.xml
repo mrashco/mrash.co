@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CompTIA on Mr Ash Co</title>
+    <link>/tags/comptia/</link>
+    <description>Recent content in CompTIA on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 16 Feb 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/comptia/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CompTIA A&#43; Study Notes (220-1101)</title>
+      <link>/comptia-a-plus-study-notes/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/comptia-a-plus-study-notes/</guid>
+      <description>Installing Hardware and Display Components Hardware and Device Replacement RAM: system memory or desk of PC, fast access, low amount = lower access speeds, volatile. Storage: file cabinet of PC, slower access, static (non-volatile). Check MoBo user guide to ensure RAM amount, form-factor etc. GPU/Video Card: processes video and connects to external monitors. CPU: brain of PC. DC Jack Replacement Research – https://youtu.be/zFuu8LSaAQE
+Hard Drive Migration SSD: non-volatile flash memory for storage, faster, reliable, less power, quieter, smaller.</description>
+    </item>
+    
+  </channel>
+</rss>

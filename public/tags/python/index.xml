@@ -1,0 +1,191 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Python on Mr Ash Co</title>
+    <link>/tags/python/</link>
+    <description>Recent content in Python on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 28 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/python/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Replit EdFest 2022 Jam - Intro To PyScript</title>
+      <link>/replit-edfest-2022-jam-intro-to-pyscript/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/replit-edfest-2022-jam-intro-to-pyscript/</guid>
+      <description>ATTENTION! If you’d like to do the course yourself, join up using this link for FREE.
+And don’t forget to watch the video walkthrough.
+Welcome to your Intro to PyScript, a simple replit that teaches you the basics of the modern Python web dev technology. You’re going to set up your own simple HTML page with a linked Python program. You’ll enable PyScript, take user data, run it through your program and print it back out to the user.</description>
+    </item>
+    
+    <item>
+      <title>CS50P Problem Set Guide</title>
+      <link>/cs50-python-problem-set-guide/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/cs50-python-problem-set-guide/</guid>
+      <description>Hello, world and welcome, this is a breakdown, or guide, to the problem sets (psets) to CS50’s Introduction to Programming with Python (CS50P).
+If you’re unaware, CS50 Python comes from Havard which operates edx CS50. It’s a great introduction to the programming language Python. If you’re brand new to Computer Science (CS) or have a background in technology, CS50 covers the fundamentals really well. It’s one of the best places to learn Python online.</description>
+    </item>
+    
+    <item>
+      <title>Easily Learn Difficult Things: Object Orientated Programming</title>
+      <link>/easily-learn-difficult-things-object-orientated-programming/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/easily-learn-difficult-things-object-orientated-programming/</guid>
+      <description>I&amp;rsquo;m a big fan of YouTuber Ali Abdaal, his ex-PA now turned YouTuber Elizabeth Flipis has a great channel. She creates content about herself living in London while studying Medschool.
+Her latest video You&amp;rsquo;re Not Stupid: How to Easily Learn Difficult Things caught my attention. As someone who feels dumb 90% of the time, this is perfect, and the timing couldn&amp;rsquo;t be better as I&amp;rsquo;m learning computer science and programming.</description>
+    </item>
+    
+    <item>
+      <title>Automate The Boring Stuff With Python Practice Projects</title>
+      <link>/automate-the-boring-stuff-with-python-practice-projects/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/automate-the-boring-stuff-with-python-practice-projects/</guid>
+      <description>Automate The Boring Stuff With Python is an incredible book, and course by Al Sweigart to learn Python coding and computer science for the everyday person. With its straightforward learning approach, and succinct program examples and explanations, it’s many hobbyists’ go-to book for Python.
+This article breaks down my personal solutions to the practice projects outlined at the end of most chapters. As I continue to learn Python and generally computer science, I enjoy seeing how others solve coding problems.</description>
+    </item>
+    
+    <item>
+      <title>Python Range Function • Quick Python Project Lesson</title>
+      <link>/python-range-function-quick-python-project-lesson/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/python-range-function-quick-python-project-lesson/</guid>
+      <description>So you’re learning Python and want to understand the range function, welcome!
+The range function paired with a for loop is a great way to repeat code a number of times.
+Let’s learn the basics of the range function with Python and then it’s over to you for a little project.
+Basics Let’s have a simple counter go from 1 to 5, and show the results as it counts.</description>
+    </item>
+    
+    <item>
+      <title>ZigZag - Beginner Python Project</title>
+      <link>/zigzag-beginner-python-project/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/zigzag-beginner-python-project/</guid>
+      <description>Let’s learn some Python!
+Want an easy python program to get started? Here’s zigzag.
+This program is from Automate The Boring Stuff With Python Chapter 3, under A Short Program: Zigzag.
+Welcome to my third study session to learn Python Programming! The video above covers the entire process of copying the zig zag program from Automate The Boring Stuff With Python.
+See Built-in Functions, Time access and conversions and What does end=’ ‘ exactly do?</description>
+    </item>
+    
+    <item>
+      <title>Random Number Generator • Easy Python Project</title>
+      <link>/random-number-generator-easy-python-project/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/random-number-generator-easy-python-project/</guid>
+      <description>Want an easy python project to get you started learning python?
+Here’s a random number generator built-in python!
+See the project live below or via GitHub.
+Okay, let’s build your very own number generator python program.
+Foundation Let’s write the program in stages.
+But first, it’s recommended to write out pseudo code as it helps to map out and plan the program before you deep dive into writing it.</description>
+    </item>
+    
+    <item>
+      <title>Bagels • Beginner Python Project</title>
+      <link>/bagels/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/bagels/</guid>
+      <description>Want a beginner Python Project that’s going to test you? A program longer than 40 lines of code?
+Look no further, here’s Bagels!
+This is from The Big Book of Small Python Projects – Chapter 1 Bagels.
+Watch the Study Session #2 for the full programming behind the scenes.
+Disclaimer, some areas of this blog post are still under construction, look for Work In Progress (WIP).
+Global Variables, Main Function Let’s break Bagels down.</description>
+    </item>
+    
+    <item>
+      <title>Hashing Passwords • Python Module Basics</title>
+      <link>/hashing-passwords-python-module-basics/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/hashing-passwords-python-module-basics/</guid>
+      <description>Hashing is the foundation of tech like blockchains that make cryptocurrencies possible. See Blockchain 101 – A Visual Demo and Blockchain 101 – Part 2 – Public / Private Keys and Signing.
+So for a fun study session, let’s follow a walkthrough on Password Hashing in Python, see the original post by DillonB07.
+Watch live video:
+1. Update Python and Pip Update both pip and Python before starting this program.</description>
+    </item>
+    
+    <item>
+      <title>Username Generator Beginner Python Program</title>
+      <link>/username-generator-beginner-python-program/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/username-generator-beginner-python-program/</guid>
+      <description>Usernames, we all have one, maybe for work or on Twitter.
+How about a python program that automatically generates a username based on your name?
+Sound cool? Let’s make a simple project to generate usernames.
+See the live program below:
+Disclaimer, this is not a python tutorial, for that, see Intro To Python.
+Core Code Let’s get the core elements down for the username generator.
+First, displaying the title via print() and then using two variables with input().</description>
+    </item>
+    
+    <item>
+      <title>Mad Lib Game • Beginner Python Project</title>
+      <link>/mad-lib-game-beginner-python-project/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/mad-lib-game-beginner-python-project/</guid>
+      <description>Are you learning Python? Need some beginner Python projects?
+It’s nice to have you here, this is my Mad Lib Game, an easy beginner Python Project for you!
+Mad Libs are a simple game, it consists of one player prompts others for a list of words to substitute for blanks in a story before reading aloud.
+Instead of a human, we’ll have the computer read them back via the terminal, cool.</description>
+    </item>
+    
+    <item>
+      <title>Intro To Python • Free Python Starter Guide</title>
+      <link>/python-intro/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/python-intro/</guid>
+      <description>Wanting to learn Python?
+Of course you do!
+Python is the hacker’s language, it’s more modern than bash and it’s super cool.
+If you’ve never programmed or wrote a line of code, that’s okay! We all have to start somewhere.
+There’s a lot of good places to learn Python, I recommend Automate The Boring Stuff with Python and the official Python Documentation Tutorial.
+If you’re learning to hack in the Cyber Security space, see Hackers Learning Path.</description>
+    </item>
+    
+    <item>
+      <title>Basic Python Project • Is It Raining?</title>
+      <link>/basic-python-project-is-it-raining/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/basic-python-project-is-it-raining/</guid>
+      <description>Learning python? It’s an incredible programming language to have in your tool belt.
+This project is inspired by an early example from Automate The Boring Stuff with Python.
+Flow Control This python project is to impliment this flow chart:
+Taken from chapter 2, there’s a few things to digest, see the code step by step in Python Tutor.
+Let’s write the steps is psuedoe code:
+Ask if it’s raining? If no, go outside.</description>
+    </item>
+    
+    <item>
+      <title>Beginner Python Project - Guessing Game</title>
+      <link>/guess/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/guess/</guid>
+      <description>Do you want a beginner Python project to keep you on your programming journey?
+Here’s a breakdown of a simple Guessing Game made in Python.
+See it live via Replit or view the source code via GitHub.
+Full disclosure, this is a part of the Automate The Boring Stuff with Python Programming Course.
+Plan the Program with Pseudocode Pseudocode is like a programmer’s brain dump.
+Write out a simple list of the steps this guessing game will go through.</description>
+    </item>
+    
+  </channel>
+</rss>

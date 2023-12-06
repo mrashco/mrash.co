@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Hacking on Mr Ash Co</title>
+    <link>/tags/hacking/</link>
+    <description>Recent content in Hacking on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hacking/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>100 Days Of Hacking</title>
+      <link>/100daysofhacking/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/100daysofhacking/</guid>
+      <description>Programming, terminals, networking, and penetration testing. There’s a lot to love in computer hacking.
+Are you learning to hack?
+Maybe you’ve started but can’t keep motivated or you might not know where to start, let’s fix that!
+Here’s 100 days of hacking, a flexible learning path to keep you on track.
+Are you in? Yes, good, let’s go!
+*Disclaimer, this is designed for self-paced learning and uses multiple resources from various creators.</description>
+    </item>
+    
+    <item>
+      <title>Crack The Hash TryHackMe Walkthrough</title>
+      <link>/crack-the-hash-tryhackme-walkthrough/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/crack-the-hash-tryhackme-walkthrough/</guid>
+      <description>Let’s tackle Crack The Hash, another TryHackMe room full of hash-cracking challenges.
+If you’d like a video walkthrough, then see the linked video below for a full guide to Crack The Hash.
+Quickly, what is a hash and hashing in general?
+“Hashing serves the purpose of ensuring integrity, i.e. making it so that if something is changed you can know that it’s changed. Technically, hashing takes arbitrary input and produce a fixed-length string…” — Daniel Miessler, Hashing vs.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Network Services 1 Part 2 Telnet</title>
+      <link>/tryhackme-network-services-1-part-2-telnet/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tryhackme-network-services-1-part-2-telnet/</guid>
+      <description>Welcome to TryHackMe Network Services Walkthrough Part 2, oh yeah! Let’s learn, then enumerate and exploit a variety of network services and misconfigurations, second up is telnet. Watch this Network Services Walkthrough for TryHackMe’s room, Part 2 Telnet.
+Task 5 Understanding Telnet Questions:
+What is Telnet? application protocol What has slowly replaced Telnet? ssh How would you connect to a Telnet server with the IP 10.10.10.3 on port 23? telnet 10.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Network Services 1 Part 3 FTP</title>
+      <link>/tryhackme-network-services-1-part-3-ftp/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tryhackme-network-services-1-part-3-ftp/</guid>
+      <description>Let’s go, TryHackMe Network Services Walkthrough Part 3, welcome! Step 1 learn, step 2 enumerate, and step 3 exploit… but what? Well, a variety of network services and misconfigurations of course, this time it’s FTP. Watch the Network Services Walkthrough for TryHackMe’s room, Part 3 FTP.
+Task 8 Understanding FTP Questions:
+What communications model does FTP use? client-server What’s the standard FTP port? 21 How many modes of FTP connection are there?</description>
+    </item>
+    
+    <item>
+      <title>Hackers Learning Path</title>
+      <link>/learning-path-for-beginner-hacker/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/learning-path-for-beginner-hacker/</guid>
+      <description>Want to hack computers? But what is hacking and how do people learn it?
+Here’s a vetted list of resources to learn computer hacking. Starting out is hard work, so that’s why I’ve put this list together, to help demystify hacking for you.
+The good news is anyone (including you) can learn to hack, and in even better news, it’s a lot of fun. All you need is effort and time, most of the resources are completely free.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Network Services Walkthrough SMB Part 1/3</title>
+      <link>/tryhackme-network-services-walkthrough-smb-part-1-3/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tryhackme-network-services-walkthrough-smb-part-1-3/</guid>
+      <description>Task 1 Get Connected Questions
+Ready? Let’s get going! – No answer needed, carry on. Offline checklist to track your learning path, become a great hacker and stay on task.
+Task 2 Understanding SMB What does SMB stand for? – Server Message Block What type of protocol is SMB? – response-request What do clients connect to servers using? – TCP/IP What systems does Samba run on? – Unix Task 3 Enumerating SMB Run nmap scan.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Nmap Room Notes</title>
+      <link>/tryhackme-nmap-room-notes/</link>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/tryhackme-nmap-room-notes/</guid>
+      <description>Are you going through TryHackMe’s Nmap Room? Did you forget to take notes? I got you covered. Here are my Nmap room notes from TryHackMe, use them as much as you need!
+Disclaimer, this is written in shorthand format, meaning, full sentences and proper grammar are always not used. For a full writeup, see TryHackMe Nmap Walkthrough, for help with Linux, see Quick Start Guide.
+Task 1 Deploy &amp;amp; Task 2 Introduction Ports: allow multiple network services, ensure correct device communication, 65535 total.</description>
+    </item>
+    
+    <item>
+      <title>Linux Fundamentals 2 - TryHackMe Walkthrough</title>
+      <link>/linux-fundamentals-2-tryhackme-walkthrough/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/linux-fundamentals-2-tryhackme-walkthrough/</guid>
+      <description>So you’re learning Linux aye? Welcome aboard!
+Here’s the Linux Fundamentals 2 Walkthrough from TryHackMe. Let’s take a look at some of the fundamentals of Linux including some more commands, ssh, bash scripting and more.
+There’s lots to love in Linux, I hope you learn something here on your Linux journey! Enjoy TryHackMe’s Linux Fundamentals 2.
+Disclaimer, for more, see Linux Fundamentals 1, Linux Fundamentals 3 and Linux Quick Start Guide.</description>
+    </item>
+    
+    <item>
+      <title>Linux Fundamentals 3 TryHackMe Walkthrough</title>
+      <link>/linux-fundamentals-3-tryhackme-walkthrough/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/linux-fundamentals-3-tryhackme-walkthrough/</guid>
+      <description>Welcome to Linux Fundamentals 3 TryHackMe Walkthrough, the finale of the Linux Fundamental rooms on TryHackMe.
+Let’s learn some Linux skills and common utilities around automation, package management, and service/application logging. Are you keen? Yeah!
+Let’s go on with Linux Fundamentals 3 TryHackMe Walkthrough.
+Disclaimer, see Linux Fundamentals Part 1 and Linux Fundamentals Part 2 for more. Also, see the video walkthrough too:
+Task 1 Introduction &amp;amp; Task 2 Deploy Your Linux Machine Alright, you should be a pro with connecting to TryHackMe’s VPN via OpenVPN and ssh-ing into the TryHackMe user via the provided ip address.</description>
+    </item>
+    
+    <item>
+      <title>Starting Out In Cyber Security</title>
+      <link>/starting-out-in-cyber-security/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/starting-out-in-cyber-security/</guid>
+      <description>Over the last few years, the term Cyber Security has become more popular.
+Google trends show it’s searched now more than ever before in history. It’s currently Australia’s top hiring priority.
+What’s Cyber Security? And why is it so popular? Let’s do some research and find out!
+Disclaimer: I’m not a Cyber Security expert, I’m a student of IT and love sharing what I’m learning or have learnt.
+What’s Cyber Security?</description>
+    </item>
+    
+  </channel>
+</rss>

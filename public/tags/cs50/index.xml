@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>CS50 on Mr Ash Co</title>
+    <link>/tags/cs50/</link>
+    <description>Recent content in CS50 on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/cs50/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CS50P Problem Set Guide</title>
+      <link>/cs50-python-problem-set-guide/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/cs50-python-problem-set-guide/</guid>
+      <description>Hello, world and welcome, this is a breakdown, or guide, to the problem sets (psets) to CS50’s Introduction to Programming with Python (CS50P).
+If you’re unaware, CS50 Python comes from Havard which operates edx CS50. It’s a great introduction to the programming language Python. If you’re brand new to Computer Science (CS) or have a background in technology, CS50 covers the fundamentals really well. It’s one of the best places to learn Python online.</description>
+    </item>
+    
+  </channel>
+</rss>

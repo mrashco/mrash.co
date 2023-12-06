@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>WordPress on Mr Ash Co</title>
+    <link>/tags/wordpress/</link>
+    <description>Recent content in WordPress on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 29 Mar 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wordpress/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Updating Domains with Cloudways • 301 Redirects</title>
+      <link>/updating-domains-with-cloudways-301-redirects/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>/updating-domains-with-cloudways-301-redirects/</guid>
+      <description>So you’re updating domains, but what about your search rankings? I just did this myself and it wasn’t as hard as I expected.
+Disclaimer, if you need help, read .htaccess file and SSH setup.
+HTACCESS File If you’re running a Content Delivery Network (CDN), turn off caching. For example, Cloudflare Dashboard &amp;gt; turn on development mode.
+Next, connect to your server via SSH.
+ssh &amp;lt;username&amp;gt;@&amp;lt;ip&amp;gt; nano .htaccess Copy the text below, replace the placeholder text.</description>
+    </item>
+    
+    <item>
+      <title>Guide To SEO - Ultimate Beginners Guide For SEO</title>
+      <link>/guide-to-seo-ultimate-beginners-guide-for-seo/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/guide-to-seo-ultimate-beginners-guide-for-seo/</guid>
+      <description>Hello there Search Engine Optimisation (SEO), or in other words, changing web pages to satisfy the magical algorithm of Google.
+Learning SEO is a windy road that takes time, let’s go on this journey together, a guide to SEO.
+Nat Eliason made an SEO course and wrote how to start a blog. I’ll be condensing these, plus adding my experience from web design and digital marketing.
+This is my beginner’s guide to SEO for blogging in 2021.</description>
+    </item>
+    
+    <item>
+      <title>WordPress App Won&#39;t Connect To Website Cloudways Self-hosted</title>
+      <link>/wordpress-app-wont-connect-to-website-cloudways-self-hosted/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>/wordpress-app-wont-connect-to-website-cloudways-self-hosted/</guid>
+      <description>Your WordPress app won’t connect to your website? Let’s fix that!
+Note, this is for Cloudways self-hosted websites.
+Follow this guide if you need help setting up the app and connecting it to your website.
+Check Jetpack Is Installed Make sure you have the most up-to-date plugin Jetpack. It’s what connects your self-hosted site to the app.
+If you’ve never set Jetpack up, follow this guide to help you.</description>
+    </item>
+    
+  </channel>
+</rss>
