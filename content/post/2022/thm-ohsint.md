@@ -1,14 +1,13 @@
 ---
-title: OhSINT Hints, Writeup, Walkthrough &#038; Notes
-author: Mr Ash
-type: "post"
+title: OhSINT Writeup TryHackMe
 published: 2022-07-05
 lastUpdated: 2022-11-05
-url: "/ohsint/"
-image: https://p146.p4.n0.cdn.getcloudapp.com/items/2NumzrQ1/9f7bd99d-6227-40ef-9519-8c21e9d72a6b.png?v=2b7ea1e3bcb951f6a3c7016a90e9105c
-categories: Cyber
+url: ohsint
+cover:
+  image: https://p146.p4.n0.cdn.getcloudapp.com/items/2NumzrQ1/9f7bd99d-6227-40ef-9519-8c21e9d72a6b.png?v=2b7ea1e3bcb951f6a3c7016a90e9105c
+type: Post
+categories: Writeup
 tags:
-    - Hacking
     - TryHackMe
     - Capture The Flag
     - Walkthrough

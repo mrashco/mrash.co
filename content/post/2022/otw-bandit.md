@@ -5,7 +5,8 @@ type: "post"
 published: 2022-10-07
 lastUpdated: 2022-11-05
 url: "/overthewire-bandit/"
-image: https://p146.p4.n0.cdn.getcloudapp.com/items/v1uQQLz6/a064ad4e-08c8-4772-b2cb-9d88154ff6c8.jpg?v=e53575edd6537ceeac47f3938f66359a
+cover:
+    image: https://p146.p4.n0.cdn.getcloudapp.com/items/v1uQQLz6/a064ad4e-08c8-4772-b2cb-9d88154ff6c8.jpg?v=e53575edd6537ceeac47f3938f66359a
 categories: Cyber
 # draft: true
 tags:

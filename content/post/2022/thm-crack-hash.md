@@ -2,7 +2,8 @@
 title: Crack The Hash TryHackMe Walkthrough
 type: post
 url: "/crack-the-hash-tryhackme-walkthrough/"
-image: "https://p146.p4.n0.cdn.getcloudapp.com/items/BluWG9Xn/b7248fbd-b8f4-44b6-b6d0-bc6994216cae.jpg?source=viewer&v=e864944d13a2594d2db87a391fb10436"
+cover:
+    image: "https://p146.p4.n0.cdn.getcloudapp.com/items/BluWG9Xn/b7248fbd-b8f4-44b6-b6d0-bc6994216cae.jpg?source=viewer&v=e864944d13a2594d2db87a391fb10436"
 date: 2022-10-17
 categories: Cyber
 tags:

@@ -37,7 +37,7 @@ First was [Mailto Me](https://mailto-me.mrash.co/) which is a way to automate te
 
 ‘I Was There’ became my submission which landed me in second place. I won 3 free courses including Python, PHP and JavaScript exams to get certified, plus 6 months of their premium service.
 
-!https://p146.p4.n0.cdn.getcloudapp.com/items/7Kuk6gRp/c2a3647b-a1f4-436c-a530-690dbe37ef3f.png?v=8c926d62dfcfbc9effcddc073eaa4a8d
+![](https://p146.p4.n0.cdn.getcloudapp.com/items/7Kuk6gRp/c2a3647b-a1f4-436c-a530-690dbe37ef3f.png?v=8c926d62dfcfbc9effcddc073eaa4a8d)
 
 The takeaway, competitions are awesome and you should enter more. 
 

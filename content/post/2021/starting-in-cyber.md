@@ -1,14 +1,14 @@
 ---
 title: Starting Out In Cyber Security
-type: post
 published: 2021-03-28
 lastUpdated: 2022-11-08
-url: "/starting-out-in-cyber-security/"
-image: "https://p146.p4.n0.cdn.getcloudapp.com/items/d5unoGKk/f5d9dc91-9b8e-4a80-b517-b7c9cc014b2e.jpg?v=dc0c2c48206ff6d2b8cd60eb244087bb"
-categories: Cyber 
+url: starting-out-in-cyber-security
+cover:
+    image: "https://p146.p4.n0.cdn.getcloudapp.com/items/d5unoGKk/f5d9dc91-9b8e-4a80-b517-b7c9cc014b2e.jpg?v=dc0c2c48206ff6d2b8cd60eb244087bb"
+type: post
+categories: Cyber
 tags: 
     - Hacking
-    - 100DaysOfHacking
 ---
 
 <!-- <iframe frameborder="0" loading="lazy" scrolling="no" src="https://anchor.fm/mrashleyball/embed/episodes/Starting-Out-In-Cyber-Security-e16jqhk" width="100%"></iframe> -->

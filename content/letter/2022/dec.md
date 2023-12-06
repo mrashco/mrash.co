@@ -1,10 +1,10 @@
 ---
 title: "Annual Review 2022"
-published: 19/01/2023
-lastUpdated: 19/01/2023
-url: "annual-review-2022"
+published: 2023-01-19 # 19/01/2023 
+lastUpdated: 2023-01-19 # 19/01/2023 
+url: "2022"
 alias:
-    - 
+    - "annual-review-2022" 
     - 
 
 cover:
@@ -14,7 +14,9 @@ cover:
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
 type: Post # Options: Letter, Note, Page
-categories: Post # Options: Letter, Note, Page
+categories:
+    - Post
+    - Letter # Options: Letter, Note, Page
 tags:
     - 
     - 

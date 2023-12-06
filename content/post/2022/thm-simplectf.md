@@ -1,14 +1,13 @@
 ---
 title: THM SimpleCTF Hints, Writeup &#038; Notes
-author: Mr Ash
-type: "post"
 published: 2022-07-03
 lastUpdated: 2022-11-05
-url: "/simplectf/"
-image: https://p146.p4.n0.cdn.getcloudapp.com/items/v1uOgk7L/6dc9e187-9662-420f-83d7-ba0b4a67686f.png?v=7de273bf70a0f5146bdf4c12478d6361
-categories: Cyber
+url: simplectf
+cover:
+  image: https://p146.p4.n0.cdn.getcloudapp.com/items/v1uOgk7L/6dc9e187-9662-420f-83d7-ba0b4a67686f.png?v=7de273bf70a0f5146bdf4c12478d6361
+type: post
+categories: Writeup
 tags:
-  - Hacking
   - TryHackMe
   - Capture The Flag
   - Walkthrough

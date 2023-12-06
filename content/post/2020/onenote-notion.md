@@ -1,10 +1,11 @@
 ---
 title: OneNote to Notion and Moving Apps
 date: 2020-05-22
+url: onenote-to-notion-moving-apps
+cover:
+    image: https://p146.p4.n0.cdn.getcloudapp.com/items/4gueE9jl/bbed0ac8-078e-4e03-b0cd-b3e8d8745809.png?source=viewer&v=d2c122917df690b7a267bed925895aeb
 type: post
-url: /onenote-to-notion-moving-apps/
-image: https://p146.p4.n0.cdn.getcloudapp.com/items/4gueE9jl/bbed0ac8-078e-4e03-b0cd-b3e8d8745809.png?source=viewer&v=d2c122917df690b7a267bed925895aeb
-categories: Work-Life
+categories: Other
 tags:
     - Onenote
     - Notion

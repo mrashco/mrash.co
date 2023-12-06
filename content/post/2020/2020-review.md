@@ -1,11 +1,14 @@
 ---
-title: A Year In Review - 2020 Edition
-author: Mr Ash
-type: post
-url: "/yearly-review-2020/"
-image: "https://p146.p4.n0.cdn.getcloudapp.com/items/Kou1PvR7/d370dfed-e186-4df1-afed-d6888a2d8a08.jpg?v=a9af7f093e098568288698fe94fcfbd5"
+title: 2020 Annual Review 
 published: 2020-12-28
 lastUpdated: 2022-11-08
+url: yearly-review-2020
+cover:
+    image: "https://p146.p4.n0.cdn.getcloudapp.com/items/Kou1PvR7/d370dfed-e186-4df1-afed-d6888a2d8a08.jpg?v=a9af7f093e098568288698fe94fcfbd5"
+type: post
+categories: Personal
+tags:
+    - Annual Review
 ---
 
 <!-- <div class="podcastdotco-wrapper"><iframe class="podcastdotco-player podcastdotco-player--episode" data-target="mrashleyball/a-year-in-review-2020-edition-1" frameborder="0" scrolling="no" src="https://play.pod.co/mrashleyball/a-year-in-review-2020-edition-1" style="overflow:hidden;" width="100%"></iframe><script src="https://play.pod.co/embed/frame-v1.js"></script></div> -->

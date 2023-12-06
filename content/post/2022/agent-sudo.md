@@ -1,14 +1,14 @@
 ---
-title: Agent Sudo -/ TryHackMe Walkthrough
+title: Agent Sudo TryHackMe Walkthrough
 author: Mr Ash
-type: "post"
 published: 2022-07-09
 lastUpdated: 2022-11-05
-url: "/agent-sudo/"
-image: https://p146.p4.n0.cdn.getcloudapp.com/items/WnuDq4KN/00cd5204-7161-4728-ae1b-8552248e9747.jpg?v=40fdd0801164d7a95b5a5487f11cf83b
-categories: Cyber
+url: agent-sudo
+type: post
+cover:
+    image: https://p146.p4.n0.cdn.getcloudapp.com/items/WnuDq4KN/00cd5204-7161-4728-ae1b-8552248e9747.jpg?v=40fdd0801164d7a95b5a5487f11cf83b
+categories: Writeup
 tags:
-    - 100DaysOfHacking
     - TryHackMe
     - Capture The Flag
     - Walkthrough
