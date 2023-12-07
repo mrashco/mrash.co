@@ -23,6 +23,8 @@ tags:
     - 
 
 draft: false
+
+ShowToc: false
 ---
 
 Welcome to my 4th Annual Review, can you believe 2022 is over? It's been a long 12 months, yet it’s gone so fast. Here's my 2022 recap plus my plans for 2023. Note, if interested see [2019](https://mrash.co/2019-in-review/), [2020](https://mrash.co/yearly-review-2020/) and [2021](https://mrash.co/2021-review-2022-plan/).
