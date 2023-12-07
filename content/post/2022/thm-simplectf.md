@@ -1,5 +1,5 @@
 ---
-title: THM SimpleCTF Hints, Writeup &#038; Notes
+title: "THM SimpleCTF Hints, Writeup and Notes"
 published: 2022-07-03
 lastUpdated: 2022-11-05
 url: simplectf
