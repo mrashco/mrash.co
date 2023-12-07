@@ -3,8 +3,9 @@ title: "Check In"
 published: 30/06/2022 # 2023-12-07T18:36:24+10:00
 lastUpdated: 30/06/2022 # 2023-12-07T18:36:24+10:00
 url: check-in
-alias:
+aliases:
     - check-in-june-22
+    - letter/check-in-june-22
 
 cover:
     image: "https://p146.p4.n0.cdn.getcloudapp.com/items/2NumzZER/bac6f415-60ef-4397-938d-534449cafe9a.jpeg?v=3262da145e25f57aa35c4dff6ac1048c"

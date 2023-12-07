@@ -3,9 +3,9 @@ title: "AFK Aug"
 published: 2022-08-31 #2023-12-06T18:33:44+10:00
 lastUpdated: 2022-08-31 #2023-12-06T18:33:44+10:00
 url: "afk"
-alias:
+aliases:
     - afk-aug-22
-    - 
+    - letter/afk-aug-22
 
 cover:
     image: "https://p146.p4.n0.cdn.getcloudapp.com/items/7KukEjzb/542d09f4-3397-4609-aae8-b87819bfd8fa.jpeg?v=a2317c637f99a8c307ff1641087f7420"

@@ -3,8 +3,9 @@ title: "Get Help"
 published: 31/07/2022 # 2023-12-07T18:28:19+10:00
 lastUpdated: 31/07/2022 # 2023-12-07T18:28:19+10:00
 url: get-help
-alias: 
+aliases: 
     - get-help-july-22
+    - letter/get-help-july-22
 
 cover:
     image: "https://p146.p4.n0.cdn.getcloudapp.com/items/12uLYy8w/6035313c-2e22-461e-803b-be354f446879.jpeg?v=33ffbda9465d01ef01c03b3194bb9ab0"

@@ -3,9 +3,9 @@ title: "Lazy n Lost"
 published: 30/04/2022 # 2023-12-07T18:41:29+10:00
 lastUpdated: 30/04/2022 # 2023-12-07T18:41:29+10:00
 url: lazy-n-lost
-alias:
+aliases: 
     - lazy-n-lost-april-22
-    - 
+    - letter/lazy-n-lost-april-22
 
 cover:
     image: "https://p146.p4.n0.cdn.getcloudapp.com/items/YEur9m72/61c99413-0e3c-4d03-a96d-64d17586cf35.jpeg?v=84889f109d888ac3f976bffe07670779"

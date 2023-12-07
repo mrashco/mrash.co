@@ -3,7 +3,7 @@ title: "{{ replace .Name "-" " " | title }}"
 published: {{ .Date }}
 lastUpdated: {{ .Date }}
 url:
-alias:
+alias: # aliases for multiple
     - 
     - 
 
@@ -13,7 +13,7 @@ cover:
     # caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
-type: letter # Options: letter, note, page
+type: letter # Options: post, letter, note, page
 categories: Personal # Options: Writeup, Personal
 tags:
     - 

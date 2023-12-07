@@ -49,15 +49,15 @@ params:
   assets:
     # disableHLJS: true # to disable highlight.js
     # disableFingerprinting: true
-    favicon: "<link / abs url>"
+    favicon: "https://p146.p4.n0.cdn.getcloudapp.com/items/Jrum0N6q/4ab8cbb7-d222-4c3c-963d-f0ec6c30568c.jpg?source=viewer&v=db94595858aad20b777e4f130cbe5006"
     favicon16x16: "<link / abs url>"
     favicon32x32: "<link / abs url>"
     apple_touch_icon: "<link / abs url>"
     safari_pinned_tab: "<link / abs url>"
 
   label:
-    text: "Home"
-    icon: /apple-touch-icon.png
+    text: "mrashco"
+    icon: # https://p146.p4.n0.cdn.getcloudapp.com/items/Jrum0N6q/4ab8cbb7-d222-4c3c-963d-f0ec6c30568c.jpg?source=viewer&v=db94595858aad20b777e4f130cbe5006
     iconHeight: 35
 
   # profile-mode
@@ -65,7 +65,7 @@ params:
     enabled: false # needs to be explicitly set
     title: "Mr Ash Co"
     subtitle: "Curious about cybersec, python & hacking."
-    imageUrl: "<img location>"
+    imageUrl: "https://p146.p4.n0.cdn.getcloudapp.com/items/Jrum0N6q/4ab8cbb7-d222-4c3c-963d-f0ec6c30568c.jpg?source=viewer&v=db94595858aad20b777e4f130cbe5006"
     imageWidth: 120
     imageHeight: 120
     imageTitle: my image
@@ -141,7 +141,8 @@ menu:
     #   url: /tags/
     #   weight: 40
     - identifier: search
-      name: 🔍
+      name: 
+      post: <svg xmlns="http://www.w3.org/2000/svg" width="17.5" height="17.5" viewBox="0 0 24 24" fill="none" stroke="currentcolor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
       url: /search
       weight: 50
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma

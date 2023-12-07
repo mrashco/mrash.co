@@ -2,10 +2,10 @@
 title: "I Won"
 published: 2022-10-05
 lastUpdated: 2022-10-05
-url: "i-won"
-alias:
-    - 
-    - 
+url: i-won
+aliases:
+    - i-won-sep-22
+    - letter/i-won-sep-22
 
 cover:
     image: "https://p146.p4.n0.cdn.getcloudapp.com/items/12uzL64L/448b29a3-3794-40f0-849c-87db92f076a7.jpeg?v=be1b65475f4917323161181d137549b8"

@@ -3,9 +3,9 @@ title: "2022 Annual Review"
 published: 2023-01-19 # 19/01/2023 
 lastUpdated: 2023-01-19 # 19/01/2023 
 url: "2022"
-alias:
-    - "annual-review-2022" 
-    - 
+aliases:
+    - annual-review-2022 
+    - letter/annual-review-2022
 
 cover:
     image: "https://p146.p4.n0.cdn.getcloudapp.com/items/wbuvLLR8/2e314d37-231c-482d-b7c9-5852205962d0.jpeg?v=13fffdea8807d1d735087f8f03aec316"

@@ -3,9 +3,9 @@ title: "Dilemma"
 published: 31/05/2022 # 2023-12-07T18:38:46+10:00
 lastUpdated: 31/05/2022 # 2023-12-07T18:38:46+10:00
 url: dilemma
-alias:
+aliases:
     - dilemma-may-22
-    - 
+    - letter/dilemma-may-22
 
 cover:
     image: "https://p146.p4.n0.cdn.getcloudapp.com/items/mXux5O5d/d631277e-dab4-4277-a451-af9b8fc5663f.jpeg?v=be3b3bd9a9316653f6f277f32e768d47"
