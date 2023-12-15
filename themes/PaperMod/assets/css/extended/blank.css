@@ -3,3 +3,13 @@ This is just a placeholder blank stylesheet so as to support adding custom style
 
 Read https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#bundling-custom-css-with-themes-assets for more info
 */
+
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&family=Source+Code+Pro&display=swap');
+
+h1,h2,h3,h4,h5,h6 {
+    font-family: 'Source Code Pro', monospace;
+}
+
+p,ul,ol,a,span,footer,a {
+    font-family: 'Noto Sans', sans-serif;
+}
