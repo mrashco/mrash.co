@@ -27,6 +27,10 @@ params:
   defaultTheme: auto # dark, light
   disableThemeToggle: false
 
+  mainSections:
+  - post
+  - letter
+
   cover:
     linkFullImages: false
 
@@ -78,7 +82,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi, I'm Ash 👋"
-    Content: Welcome to my blog, mainly CTF writeups from TryHackMe and videos. I'm curious about cybersec, python & hacking. {{< rawhtml >}}<br><br><script src="https://tryhackme.com/badge/247114"></script><br><br><script src="https://apis.google.com/js/platform.js"></script><div class="g-ytsubscribe" data-channelid="UCXsqs_wm5KIYdugoC5kHZrA" data-layout="default" data-theme="dark" data-count="default"></div>{{< /rawhtml >}}
+    Content: Welcome to my blog, mainly CTF writeups from TryHackMe and videos. I'm curious about cybersec, python & hacking.
 
   socialIcons:
     - name: youtube
