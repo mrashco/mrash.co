@@ -1,8 +1,8 @@
 ---
-title: "Kali"
+title: "Hack Box"
 published: 2023-12-15T19:53:10+10:00
 lastUpdated: 2023-12-15T19:53:10+10:00
-url: kali
+url: hack-box
 alias: # aliases for multiple
     - 
     - 
@@ -16,11 +16,11 @@ cover:
 type: post # Options: , letter, note, page
 categories: Setup # Options: Writeup, Personal
 tags:
-    - kali
+    - ubuntu
     - setup
     - wsl
 
-draft: true
+draft: false
 
 # ShowToc: false
 # TocOpen: false
@@ -28,14 +28,18 @@ draft: true
 # searchHidden: true # Make false to hide page from search
 ---
 
-Here's my notes for setting up my new Kali Linux Rolling via WSL.
+Let's setup a new "Hack Box".. previously I've always used Kali Rolling inside of VirtualBox. But let's try and get away from Virtual Machines. 
+
+Here's my notes for setting up my new Ubuntu via WSL.
 
 1. `wsl --install`
 2. `wsl --update`
-3. `winget install kalilinux.kalilinux`
+3. `winget install ubuntu.ubuntu`
 4. Terminal: `CTRL + SHIFT + 4`
+5. Ubuntu: `sudo apt update -y && sudo apt upgrade -y`
 
-Noticed ping doesn't work, so fixed it with [the following](https://superuser.com/questions/288521/problem-with-ping-open-socket-operation-not-permitted): `sysctl -w net.ipv4.ping_group_range="0 1000"`
+<!-- Noticed ping doesn't work, so fixed it with [the following](https://superuser.com/questions/288521/problem-with-ping-open-socket-operation-not-permitted): `sysctl -w net.ipv4.ping_group_range="0 1000"` -->
 
-Then `apt update` doesn't work, so thanks to [Linux Config](https://linuxconfig.org/kali-linux-failed-to-fetch-inrelease-repository-fix) for this.
+<!-- Then `apt update` doesn't work, so thanks to [Linux Config](https://linuxconfig.org/kali-linux-failed-to-fetch-inrelease-repository-fix) for this. -->
 <!-- - `echo 'deb https://http.kali.org/kali kali-rolling main non-free contrib' >> /etc/apt/sources.list` -->
+
