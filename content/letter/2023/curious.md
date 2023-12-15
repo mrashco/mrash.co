@@ -11,6 +11,8 @@ cover:
 type: letter
 categories: Letter 
 # tags: 
+
+showtoc: false
 ---
 
 “I’m curious,” has become my favourite phrase to use in conversation. Curiosity is pretty awesome. It draws us to people, places and interesting things. It can influence important decisions and spark lifelong pathways. Let’s dive into curiosity more.
