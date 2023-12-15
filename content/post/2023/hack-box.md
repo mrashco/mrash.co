@@ -34,27 +34,34 @@ Previously, I've always used Kali Rolling inside of VirtualBox. But let's try an
 
 Why? Mainly the boot times, slow browsing and general laggy annoyances.
 
-I want a fast, simple system without the need to boot a VM up each time.
+I want a fast, simple system without the need to boot a VM and deal with stutters.
 
 The thinking is, use Windows Subset for Linux (WSL) with headless Kali Linux. Meaning, no Graphical User Interface (GUI). 
 
-For any GUI needs, I'm just going to use my regular ol' Windows system for that.
+For any GUI needs, regular ol' Windows is good for that (hopefully).
 
 ## Installation
 
-Here's my notes for setting up my new Kali Linux WSL.
+Here's how to install Kali Linux WSL on Windows.
 
+Open Terminal and use the following commands:
 - `wsl --install`
 - `wsl --update`
 - `wsl --install --distribution kali-linux`
 
-Then open Terminal, use the shortcut `CTRL + SHIFT + 4/5` to open Kali Linux WSL.
+Then in Terminal, use `CTRL + SHIFT + 4 or 5` to open Kali Linux WSL.
 
-Once you're in, make sure to run `sudo apt update -y && sudo apt upgrade -y` for latest updates.
+Once in, run `sudo apt update -y && sudo apt upgrade -y` for latest updates.
 
 Since Kali Linux WSL by default is barebones. Run `sudo apt install -y kali-linux-headless` for the default install without GUI [metapackge](https://www.kali.org/docs/general-use/metapackages/).
 
-## Troubleshooting Kali Linux WSL
+## Setup
+
+Settings `CTRL + ,` > Kali > Additional settings > Appearance. I change the Color scheme, Font size, Retro terminal effects, and Background opacity to 75%.
+
+- `wordlists`, then `Y` to extract rockyou.txt. And `sudo rm rockyou.txt.gz` to remove the gzip file.
+
+## Troubleshooting
 
 If there's any issues, go back and follow the [WSL Documentation Quick Method](https://www.kali.org/docs/wsl/wsl-preparations/).
 
@@ -65,3 +72,8 @@ If you have more issues, here's some ideas:
 - ping socket operation not permitted: `sysctl -w net.ipv4.ping_group_range="0 1000"` thanks to [Super User](https://superuser.com/questions/288521/problem-with-ping-open-socket-operation-not-permitted).
 - apt signature errors: `echo 'deb https://http.kali.org/kali kali-rolling main non-free contrib' >> /etc/apt/sources.list` thanks to [Linux Config](https://linuxconfig.org/kali-linux-failed-to-fetch-inrelease-repository-fix).
 
+## Conclusion
+
+I ran into a few errors installing headless Kali Linux via WSL. But once I retraced my steps, it was painless.
+
+Now these days Microsoft plays nicely with Linux, it makes the gap between Operating Systems (OSs) very thin.
