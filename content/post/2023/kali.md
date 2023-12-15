@@ -20,7 +20,7 @@ tags:
     - setup
     - wsl
 
-draft: false
+draft: true
 
 # ShowToc: false
 # TocOpen: false
