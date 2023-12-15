@@ -82,7 +82,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "Hi, I'm Ash 👋"
-    Content: Welcome to my blog, mainly CTF writeups from TryHackMe and videos. I'm curious about cybersec, python & hacking.
+    Content: Welcome to my blog, mainly CTF writeups from TryHackMe and videos. I'm curious about cybersec, python & hacking. Feel free to subscribe to my newsletter. {{< rawhtml >}}<br><br><div class="gist-embed-form" data-form-type="embedded" data-form-id="93692129" data-workspace-id="aw3xhcat" version=3></div><script type="text/javascript" src="https://forms-widget.getgist.com/" defer></script>{{< /rawhtml >}}
 
   socialIcons:
     - name: youtube
