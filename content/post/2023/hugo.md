@@ -41,3 +41,11 @@ alias: # aliases for multiple
 ```
 
 But in order for aliases to work, I have to change `aslias` to `asliases`, save. Then change it back to `aslias`. Strange. 
+
+## Markdown All in One
+
+Hands down the best extension to use within VSCode is [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one).
+
+- Paste links over text for automatic linking
+- Continues ordered and unordered lists when typing
+
