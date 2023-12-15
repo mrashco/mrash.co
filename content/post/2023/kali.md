@@ -30,8 +30,12 @@ draft: false
 
 Here's my notes for setting up my new Kali Linux Rolling via WSL.
 
-1. Powershell (PSH): `wsl --install`
-2. PSH: `winget install kalilinux.kalilinux`
-3. Terminal: `CTRL + SHIFT + 4`
+1. `wsl --install`
+2. `wsl --update`
+3. `winget install kalilinux.kalilinux`
+4. Terminal: `CTRL + SHIFT + 4`
 
 Noticed ping doesn't work, so fixed it with [the following](https://superuser.com/questions/288521/problem-with-ping-open-socket-operation-not-permitted): `sysctl -w net.ipv4.ping_group_range="0 1000"`
+
+Then `apt update` doesn't work, so thanks to [Linux Config](https://linuxconfig.org/kali-linux-failed-to-fetch-inrelease-repository-fix) for this.
+<!-- - `echo 'deb https://http.kali.org/kali kali-rolling main non-free contrib' >> /etc/apt/sources.list` -->
