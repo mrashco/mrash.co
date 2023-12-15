@@ -8,7 +8,7 @@ alias:
     - 
 
 cover:
-    image: https://i9.ytimg.com/vi_webp/mYy1QyfRiLg/maxresdefault.webp?v=655dd011&sqp=CISqyKsG&rs=AOn4CLAt2NJDEk_vsYmsoYMEXargTMZeOA
+    image: https://i.imgur.com/yalgSeQ.jpg
     # alt: "<alt text>"
     # caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
