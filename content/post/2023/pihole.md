@@ -1,5 +1,5 @@
 ---
-title: "Pihole"
+title: "Pi-Hole"
 published: 2023-12-18T12:09:01+10:00
 lastUpdated: 2023-12-18T12:09:01+10:00
 url: pihole
