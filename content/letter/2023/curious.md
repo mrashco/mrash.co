@@ -3,9 +3,10 @@ title: "Curious"
 published: 2023-03-01
 lastUpdated: 2023-03-01
 url: curious
-alias: 
+aliases: 
     - 2023-feb
     - feb-2023
+    - /letter/curious-feb-23/
 cover:
     image: "https://p146.p4.n0.cdn.getcloudapp.com/items/X6uKJxmp/97ac1894-abb2-40e3-b54c-b01d01445625.jpeg?v=dbb148a68a25a3dd9b25172733bb47df"
 type: letter

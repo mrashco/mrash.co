@@ -4,7 +4,7 @@ title: "Let's Write"
 published: 01/12/2021 #2023-12-08T05:47:48+10:00
 lastUpdated: 01/12/2021 #2023-12-08T05:47:48+10:00
 url: lets-write
-alias:
+aliases:
     - lets-write-nov-21
     - letter/lets-write-nov-21
 cover:
