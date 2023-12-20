@@ -14,11 +14,11 @@ cover:
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
 type: post # Options: post, letter, note, page
-categories: Setup # Options: Writeup, Personal
+categories: Homelab # Options: Writeup, Personal
 tags:
     - pihole
     - docker
-    - "how to"
+    - homelab
 
 draft: false
 
@@ -35,7 +35,7 @@ Let's setup Pi-Hole in Docker, following the [official documentation](https://do
 
 After following the installation guide, you might receive these errors:
 
-```plain
+```asp
 E: Package 'docker-ce' has no installation candidate
 E: Unable to locate package docker-ce-cli
 E: Unable to locate package containerd.io
@@ -114,3 +114,5 @@ On your system with Pi-Hole:
 If you see "warning: no upstream servers configured", go to Settings > DNS.
 
 Select whatever IPv4 and IPv6 Upstream DNS Servers you want like Google or OpenDNS.
+
+Thanks for reading.

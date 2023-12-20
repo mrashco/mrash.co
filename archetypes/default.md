@@ -13,8 +13,8 @@ cover:
     # caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
-type: letter # Options: post, letter, note, page
-categories: Personal # Options: Writeup, Personal
+type: post # letter, note, page
+categories: Homelab # Homelab, Writeup, Personal
 tags:
     - 
     - 
@@ -27,3 +27,8 @@ draft: false
 # searchHidden: true # Make false to hide page from search
 ---
 
+<!-- MAINCONTENT -->
+
+---
+
+Thanks for reading
