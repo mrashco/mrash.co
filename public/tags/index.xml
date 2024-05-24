@@ -2,373 +2,445 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Tags on Mr Ash Co</title>
-    <link>/tags/</link>
+    <link>//localhost:1313/tags/</link>
     <description>Recent content in Tags on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Dec 2023 15:28:06 +1000</lastBuildDate><atom:link href="//localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Annual Review</title>
-      <link>/tags/annual-review/</link>
-      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      <title>Docker</title>
+      <link>//localhost:1313/tags/docker/</link>
+      <pubDate>Wed, 20 Dec 2023 15:28:06 +1000</pubDate>
       
-      <guid>/tags/annual-review/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Linux</title>
-      <link>/tags/linux/</link>
-      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/linux/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TryHackMe</title>
-      <link>/tags/tryhackme/</link>
-      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tryhackme/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Capture The Flag</title>
-      <link>/tags/capture-the-flag/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/capture-the-flag/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Cyber</title>
-      <link>/tags/cyber/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cyber/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hacking</title>
-      <link>/tags/hacking/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>100DaysOfHacking</title>
-      <link>/tags/100daysofhacking/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/100daysofhacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Over The Wire</title>
-      <link>/tags/over-the-wire/</link>
-      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/over-the-wire/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>PyScript</title>
-      <link>/tags/pyscript/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/pyscript/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Python</title>
-      <link>/tags/python/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/python/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Replit</title>
-      <link>/tags/replit/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/replit/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CS50</title>
-      <link>/tags/cs50/</link>
-      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/cs50/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Programming</title>
-      <link>/tags/programming/</link>
-      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Walkthrough</title>
-      <link>/tags/walkthrough/</link>
-      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/walkthrough/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Automate The Boring Stuff</title>
-      <link>/tags/automate-the-boring-stuff/</link>
-      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/automate-the-boring-stuff/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Networking</title>
-      <link>/tags/networking/</link>
-      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/networking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hosting</title>
-      <link>/tags/hosting/</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hosting/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>WordPress</title>
-      <link>/tags/wordpress/</link>
-      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/wordpress/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>/tags/project/</link>
-      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/project/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>FTP</title>
-      <link>/tags/ftp/</link>
-      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/ftp/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>nmap</title>
-      <link>/tags/nmap/</link>
-      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/nmap/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>SMB</title>
-      <link>/tags/smb/</link>
-      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/smb/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Telnet</title>
-      <link>/tags/telnet/</link>
-      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/telnet/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>CompTIA</title>
-      <link>/tags/comptia/</link>
-      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/comptia/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Hardware</title>
-      <link>/tags/hardware/</link>
-      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/hardware/</guid>
+      <guid>//localhost:1313/tags/docker/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Homelab</title>
-      <link>/tags/homelab/</link>
-      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      <link>//localhost:1313/tags/homelab/</link>
+      <pubDate>Wed, 20 Dec 2023 15:28:06 +1000</pubDate>
       
-      <guid>/tags/homelab/</guid>
+      <guid>//localhost:1313/tags/homelab/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Microsoft Word</title>
-      <link>/tags/microsoft-word/</link>
-      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      <title>Windows</title>
+      <link>//localhost:1313/tags/windows/</link>
+      <pubDate>Wed, 20 Dec 2023 11:06:47 +1000</pubDate>
       
-      <guid>/tags/microsoft-word/</guid>
+      <guid>//localhost:1313/tags/windows/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>SEO</title>
-      <link>/tags/seo/</link>
-      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      <title>Pihole</title>
+      <link>//localhost:1313/tags/pihole/</link>
+      <pubDate>Mon, 18 Dec 2023 12:09:01 +1000</pubDate>
       
-      <guid>/tags/seo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Bash</title>
-      <link>/tags/bash/</link>
-      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/bash/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Anonymity</title>
-      <link>/tags/anonymity/</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/anonymity/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>TOR</title>
-      <link>/tags/tor/</link>
-      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/tor/</guid>
+      <guid>//localhost:1313/tags/pihole/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Kali</title>
-      <link>/tags/kali/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <link>//localhost:1313/tags/kali/</link>
+      <pubDate>Fri, 15 Dec 2023 19:53:10 +1000</pubDate>
       
-      <guid>/tags/kali/</guid>
+      <guid>//localhost:1313/tags/kali/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>wsl</title>
-      <link>/tags/wsl/</link>
-      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      <title>Setup</title>
+      <link>//localhost:1313/tags/setup/</link>
+      <pubDate>Fri, 15 Dec 2023 19:53:10 +1000</pubDate>
       
-      <guid>/tags/wsl/</guid>
+      <guid>//localhost:1313/tags/setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Wsl</title>
+      <link>//localhost:1313/tags/wsl/</link>
+      <pubDate>Fri, 15 Dec 2023 19:53:10 +1000</pubDate>
+      
+      <guid>//localhost:1313/tags/wsl/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>//localhost:1313/tags/code/</link>
+      <pubDate>Fri, 15 Dec 2023 13:14:04 +1000</pubDate>
+      
+      <guid>//localhost:1313/tags/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>//localhost:1313/tags/hugo/</link>
+      <pubDate>Fri, 15 Dec 2023 13:14:04 +1000</pubDate>
+      
+      <guid>//localhost:1313/tags/hugo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>//localhost:1313/tags/git/</link>
+      <pubDate>Fri, 15 Dec 2023 11:51:09 +1000</pubDate>
+      
+      <guid>//localhost:1313/tags/git/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Boot2Root</title>
+      <link>//localhost:1313/tags/boot2root/</link>
+      <pubDate>Fri, 08 Dec 2023 04:52:51 +1000</pubDate>
+      
+      <guid>//localhost:1313/tags/boot2root/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TryHackMe</title>
+      <link>//localhost:1313/tags/tryhackme/</link>
+      <pubDate>Fri, 08 Dec 2023 04:52:51 +1000</pubDate>
+      
+      <guid>//localhost:1313/tags/tryhackme/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Annual Review</title>
+      <link>//localhost:1313/tags/annual-review/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/annual-review/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Linux</title>
+      <link>//localhost:1313/tags/linux/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Capture the Flag</title>
+      <link>//localhost:1313/tags/capture-the-flag/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/capture-the-flag/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyber</title>
+      <link>//localhost:1313/tags/cyber/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/cyber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacking</title>
+      <link>//localhost:1313/tags/hacking/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>100DaysOfHacking</title>
+      <link>//localhost:1313/tags/100daysofhacking/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/100daysofhacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Over the Wire</title>
+      <link>//localhost:1313/tags/over-the-wire/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/over-the-wire/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>PyScript</title>
+      <link>//localhost:1313/tags/pyscript/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/pyscript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>//localhost:1313/tags/python/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Replit</title>
+      <link>//localhost:1313/tags/replit/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/replit/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CS50</title>
+      <link>//localhost:1313/tags/cs50/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/cs50/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>//localhost:1313/tags/programming/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Walkthrough</title>
+      <link>//localhost:1313/tags/walkthrough/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/walkthrough/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Automate the Boring Stuff</title>
+      <link>//localhost:1313/tags/automate-the-boring-stuff/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/automate-the-boring-stuff/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Networking</title>
+      <link>//localhost:1313/tags/networking/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/networking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hosting</title>
+      <link>//localhost:1313/tags/hosting/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/hosting/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>WordPress</title>
+      <link>//localhost:1313/tags/wordpress/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/wordpress/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>//localhost:1313/tags/project/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>FTP</title>
+      <link>//localhost:1313/tags/ftp/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/ftp/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Nmap</title>
+      <link>//localhost:1313/tags/nmap/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/nmap/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SMB</title>
+      <link>//localhost:1313/tags/smb/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/smb/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Telnet</title>
+      <link>//localhost:1313/tags/telnet/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/telnet/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CompTIA</title>
+      <link>//localhost:1313/tags/comptia/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/comptia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hardware</title>
+      <link>//localhost:1313/tags/hardware/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Microsoft Word</title>
+      <link>//localhost:1313/tags/microsoft-word/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/microsoft-word/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>SEO</title>
+      <link>//localhost:1313/tags/seo/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/seo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Bash</title>
+      <link>//localhost:1313/tags/bash/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/bash/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Anonymity</title>
+      <link>//localhost:1313/tags/anonymity/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/anonymity/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TOR</title>
+      <link>//localhost:1313/tags/tor/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tags/tor/</guid>
       <description></description>
     </item>
     
     <item>
       <title>CTF</title>
-      <link>/tags/ctf/</link>
+      <link>//localhost:1313/tags/ctf/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/ctf/</guid>
+      <guid>//localhost:1313/tags/ctf/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Writeup</title>
-      <link>/tags/writeup/</link>
+      <link>//localhost:1313/tags/writeup/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/writeup/</guid>
+      <guid>//localhost:1313/tags/writeup/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Virtual Machine</title>
-      <link>/tags/virtual-machine/</link>
+      <link>//localhost:1313/tags/virtual-machine/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/virtual-machine/</guid>
+      <guid>//localhost:1313/tags/virtual-machine/</guid>
       <description></description>
     </item>
     
     <item>
       <title>VirtualBox</title>
-      <link>/tags/virtualbox/</link>
+      <link>//localhost:1313/tags/virtualbox/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tags/virtualbox/</guid>
+      <guid>//localhost:1313/tags/virtualbox/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Notion</title>
-      <link>/tags/notion/</link>
+      <link>//localhost:1313/tags/notion/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/notion/</guid>
+      <guid>//localhost:1313/tags/notion/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Onenote</title>
-      <link>/tags/onenote/</link>
+      <link>//localhost:1313/tags/onenote/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/tags/onenote/</guid>
+      <guid>//localhost:1313/tags/onenote/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Event</title>
-      <link>/tags/event/</link>
+      <link>//localhost:1313/tags/event/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/event/</guid>
+      <guid>//localhost:1313/tags/event/</guid>
       <description></description>
     </item>
     

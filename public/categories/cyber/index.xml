@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Cyber on Mr Ash Co</title>
-    <link>/categories/cyber/</link>
+    <link>//localhost:1313/categories/cyber/</link>
     <description>Recent content in Cyber on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/cyber/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/cyber/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Fix TryHackMe VPN Not Working</title>
-      <link>/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</link>
+      <link>//localhost:1313/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</guid>
+      <guid>//localhost:1313/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</guid>
       <description>Is your TryHackMe OpenVPN not working?
 Let’s fix it, here’s what you’ll need:
 Some computer networking knowledge. A TryHackMe account. An OpenVPN config file via Network Access. Alright, so your there’s a few problems when trying to connect with OpenVPN to TryHackMe. Let’s cover them and learn how to fix connection problems in TryHackMe, let’s go.
@@ -26,10 +26,10 @@ How Do I Use OpenVPN On TryHackMe? First you need to have an active account with
     
     <item>
       <title>Crack The Hash TryHackMe Walkthrough</title>
-      <link>/crack-the-hash-tryhackme-walkthrough/</link>
+      <link>//localhost:1313/crack-the-hash-tryhackme-walkthrough/</link>
       <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/crack-the-hash-tryhackme-walkthrough/</guid>
+      <guid>//localhost:1313/crack-the-hash-tryhackme-walkthrough/</guid>
       <description>Let’s tackle Crack The Hash, another TryHackMe room full of hash-cracking challenges.
 If you’d like a video walkthrough, then see the linked video below for a full guide to Crack The Hash.
 Quickly, what is a hash and hashing in general?
@@ -38,10 +38,10 @@ Quickly, what is a hash and hashing in general?
     
     <item>
       <title>OverTheWire: Bandit</title>
-      <link>/overthewire-bandit/</link>
+      <link>//localhost:1313/overthewire-bandit/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/overthewire-bandit/</guid>
+      <guid>//localhost:1313/overthewire-bandit/</guid>
       <description>Bandit is a beginner Capture The Flag (CTF) game from OverTheWire (OTW).
 Whether you’re familiar with text-based games or have never even thought of playing them (me). This is the perfect CTF for learning Linux.
 You’re here to either copy my answers OR learn. Can I ask you to please focus on the learning? It’s okay to peak when you’re so blind it’s crippling you, but please don’t just copy, copy, copy!</description>
@@ -49,20 +49,20 @@ You’re here to either copy my answers OR learn. Can I ask you to please focus 
     
     <item>
       <title>Privacy: Why You Should Care About Data</title>
-      <link>/privacy-why-you-should-care-about-data/</link>
+      <link>//localhost:1313/privacy-why-you-should-care-about-data/</link>
       <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/privacy-why-you-should-care-about-data/</guid>
+      <guid>//localhost:1313/privacy-why-you-should-care-about-data/</guid>
       <description>In March 2022, some friends of mine got scammed on Instagram. A scammer posing as a friend or work colleague tricked them into “helping” them out and took over their account.
 It’s motivated me to help those I know and love by being more aware of the dangers that lurk on the internet. The reality is, that the internet is full of your personally identifiable information (PII) being leaked and publically available.</description>
     </item>
     
     <item>
       <title>TryHackMe Network Services 1 Part 2 Telnet</title>
-      <link>/tryhackme-network-services-1-part-2-telnet/</link>
+      <link>//localhost:1313/tryhackme-network-services-1-part-2-telnet/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-network-services-1-part-2-telnet/</guid>
+      <guid>//localhost:1313/tryhackme-network-services-1-part-2-telnet/</guid>
       <description>Welcome to TryHackMe Network Services Walkthrough Part 2, oh yeah! Let’s learn, then enumerate and exploit a variety of network services and misconfigurations, second up is telnet. Watch this Network Services Walkthrough for TryHackMe’s room, Part 2 Telnet.
 Task 5 Understanding Telnet Questions:
 What is Telnet? application protocol What has slowly replaced Telnet? ssh How would you connect to a Telnet server with the IP 10.10.10.3 on port 23? telnet 10.</description>
@@ -70,10 +70,10 @@ What is Telnet? application protocol What has slowly replaced Telnet? ssh How wo
     
     <item>
       <title>TryHackMe Network Services 1 Part 3 FTP</title>
-      <link>/tryhackme-network-services-1-part-3-ftp/</link>
+      <link>//localhost:1313/tryhackme-network-services-1-part-3-ftp/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-network-services-1-part-3-ftp/</guid>
+      <guid>//localhost:1313/tryhackme-network-services-1-part-3-ftp/</guid>
       <description>Let’s go, TryHackMe Network Services Walkthrough Part 3, welcome! Step 1 learn, step 2 enumerate, and step 3 exploit… but what? Well, a variety of network services and misconfigurations of course, this time it’s FTP. Watch the Network Services Walkthrough for TryHackMe’s room, Part 3 FTP.
 Task 8 Understanding FTP Questions:
 What communications model does FTP use? client-server What’s the standard FTP port? 21 How many modes of FTP connection are there?</description>
@@ -81,10 +81,10 @@ What communications model does FTP use? client-server What’s the standard FTP 
     
     <item>
       <title>Hackers Learning Path</title>
-      <link>/learning-path-for-beginner-hacker/</link>
+      <link>//localhost:1313/learning-path-for-beginner-hacker/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/learning-path-for-beginner-hacker/</guid>
+      <guid>//localhost:1313/learning-path-for-beginner-hacker/</guid>
       <description>Want to hack computers? But what is hacking and how do people learn it?
 Here’s a vetted list of resources to learn computer hacking. Starting out is hard work, so that’s why I’ve put this list together, to help demystify hacking for you.
 The good news is anyone (including you) can learn to hack, and in even better news, it’s a lot of fun. All you need is effort and time, most of the resources are completely free.</description>
@@ -92,10 +92,10 @@ The good news is anyone (including you) can learn to hack, and in even better ne
     
     <item>
       <title>Cowsays What CTF - A Beginner Linux Project</title>
-      <link>/cowsays-what-ctf/</link>
+      <link>//localhost:1313/cowsays-what-ctf/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/cowsays-what-ctf/</guid>
+      <guid>//localhost:1313/cowsays-what-ctf/</guid>
       <description>Want a beginner Linux CTF (Capture The Flag)? Moove over, here’s Cowsays What CTF. A simple question-based python program to test your beginner Linux level skills.
 This simple CTF will use Linux commands to install a program, execute it and interact with it. Cowsays What CTF is inspired by TryHackMe and OverTheWire’s Bandit.
 *Disclaimer, if you need help getting started with Linux, see Linux Quick Start Guide.
@@ -104,10 +104,10 @@ Getting Started Before you tackle the challenge, understand the scope, here’s 
     
     <item>
       <title>TryHackMe Network Services Room Notes</title>
-      <link>/tryhackme-network-services-room-notes/</link>
+      <link>//localhost:1313/tryhackme-network-services-room-notes/</link>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-network-services-room-notes/</guid>
+      <guid>//localhost:1313/tryhackme-network-services-room-notes/</guid>
       <description>Are you going through TryHackMe’s Network Services 1 Room? Need help taking notes? I got you covered. Here are my Network Services 1 room notes from TryHackMe, use them as much as you need!
 Disclaimer, this is written in shorthand format, meaning, full sentences and proper grammar are not always used. For writeups, see SMB Part 1, for help with Linux, see Quick Start Guide.
 SMB: Understanding, Enumerating, Exploiting Server Message Block (SMB) Protocol: client/server comms for file/printer/serial ports/others for MS Windows.</description>
@@ -115,10 +115,10 @@ SMB: Understanding, Enumerating, Exploiting Server Message Block (SMB) Protocol:
     
     <item>
       <title>TryHackMe Network Services Walkthrough SMB Part 1/3</title>
-      <link>/tryhackme-network-services-walkthrough-smb-part-1-3/</link>
+      <link>//localhost:1313/tryhackme-network-services-walkthrough-smb-part-1-3/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-network-services-walkthrough-smb-part-1-3/</guid>
+      <guid>//localhost:1313/tryhackme-network-services-walkthrough-smb-part-1-3/</guid>
       <description>Task 1 Get Connected Questions
 Ready? Let’s get going! – No answer needed, carry on. Offline checklist to track your learning path, become a great hacker and stay on task.
 Task 2 Understanding SMB What does SMB stand for? – Server Message Block What type of protocol is SMB? – response-request What do clients connect to servers using? – TCP/IP What systems does Samba run on? – Unix Task 3 Enumerating SMB Run nmap scan.</description>
@@ -126,10 +126,10 @@ Task 2 Understanding SMB What does SMB stand for? – Server Message Block What 
     
     <item>
       <title>Linux Fundamentals 1 - TryHackMe Walkthrough</title>
-      <link>/linux-fundamentals-1-tryhackme-walkthrough/</link>
+      <link>//localhost:1313/linux-fundamentals-1-tryhackme-walkthrough/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/linux-fundamentals-1-tryhackme-walkthrough/</guid>
+      <guid>//localhost:1313/linux-fundamentals-1-tryhackme-walkthrough/</guid>
       <description>Learning Linux? Great, me too!
 Here’s the Linux Fundamentals 1 Walkthrough from TryHackMe. Let’s take a look at some of the fundamentals of Linux including common commands, the terminal, your prompt and more. There’s lots to love in Linux, as there’s so many flavours or distributions, the possibilities are endless.
 I hope you learn something on your Linux journey! Enjoy TryHcakMe’s Linux Fundamentals 1.
@@ -138,10 +138,10 @@ Disclaimer, for more TryHackMe walkthroughs, see Linux Fundamentals 2 or Linux F
     
     <item>
       <title>Linux Fundamentals 2 - TryHackMe Walkthrough</title>
-      <link>/linux-fundamentals-2-tryhackme-walkthrough/</link>
+      <link>//localhost:1313/linux-fundamentals-2-tryhackme-walkthrough/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/linux-fundamentals-2-tryhackme-walkthrough/</guid>
+      <guid>//localhost:1313/linux-fundamentals-2-tryhackme-walkthrough/</guid>
       <description>So you’re learning Linux aye? Welcome aboard!
 Here’s the Linux Fundamentals 2 Walkthrough from TryHackMe. Let’s take a look at some of the fundamentals of Linux including some more commands, ssh, bash scripting and more.
 There’s lots to love in Linux, I hope you learn something here on your Linux journey! Enjoy TryHackMe’s Linux Fundamentals 2.
@@ -150,10 +150,10 @@ Disclaimer, for more, see Linux Fundamentals 1, Linux Fundamentals 3 and Linux Q
     
     <item>
       <title>Basic Home Network Analysis - Beginner Cyber Sec Project</title>
-      <link>/basic-home-network-analysis-beginner-cyber-sec-project/</link>
+      <link>//localhost:1313/basic-home-network-analysis-beginner-cyber-sec-project/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/basic-home-network-analysis-beginner-cyber-sec-project/</guid>
+      <guid>//localhost:1313/basic-home-network-analysis-beginner-cyber-sec-project/</guid>
       <description>Are you a Cyber Sec student? Or just interested in the Cyber Sec space?
 Yes, and yes!
 Do you go to family and friends, hop on their network and poke around? It’s easy to do and you can quickly find vulnerabilities that someone could exploit.
@@ -163,10 +163,10 @@ Imagine you put a lock on a door for home security but never lock it, robbers ju
     
     <item>
       <title>TryHackMe RootMe Walkthrough</title>
-      <link>/tryhackme-rootme/</link>
+      <link>//localhost:1313/tryhackme-rootme/</link>
       <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-rootme/</guid>
+      <guid>//localhost:1313/tryhackme-rootme/</guid>
       <description>I’m still on the Complete Beginner learning path from TryHackMe, so this is my first venture outside into their library of CTF’s.
 This is a beginner ‘easy’ game, their description reads a CTF for beginners, can you root me? If you’re unaware, root means top-level access, like super admin or master-of-everything.
 When you gain root-level access, you own that machine, so install, delete, copy or whatever else you want, it’s yours.</description>
@@ -174,10 +174,10 @@ When you gain root-level access, you own that machine, so install, delete, copy 
     
     <item>
       <title>Starting Out In Cyber Security</title>
-      <link>/starting-out-in-cyber-security/</link>
+      <link>//localhost:1313/starting-out-in-cyber-security/</link>
       <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/starting-out-in-cyber-security/</guid>
+      <guid>//localhost:1313/starting-out-in-cyber-security/</guid>
       <description>Over the last few years, the term Cyber Security has become more popular.
 Google trends show it’s searched now more than ever before in history. It’s currently Australia’s top hiring priority.
 What’s Cyber Security? And why is it so popular? Let’s do some research and find out!
@@ -187,10 +187,10 @@ What’s Cyber Security?</description>
     
     <item>
       <title>How To Setup Ubuntu Using VirtualBox</title>
-      <link>/how-to-setup-ubuntu-using-virtualbox/</link>
+      <link>//localhost:1313/how-to-setup-ubuntu-using-virtualbox/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/how-to-setup-ubuntu-using-virtualbox/</guid>
+      <guid>//localhost:1313/how-to-setup-ubuntu-using-virtualbox/</guid>
       <description>Setting up a Linux Operating System like Ubuntu can be a bit daunting, especially if you’re a firm Windows user with no Linux experience.
 I’m glad you’re here starting your Linux journey! You won’t look back!
 Ubuntu is generally accepted as the most beginner-friendly Linux OS.

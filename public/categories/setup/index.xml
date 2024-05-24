@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Setup on Mr Ash Co</title>
+    <link>//localhost:1313/categories/setup/</link>
+    <description>Recent content in Setup on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Dec 2023 19:53:10 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/setup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hack Box</title>
+      <link>//localhost:1313/hack-box/</link>
+      <pubDate>Fri, 15 Dec 2023 19:53:10 +1000</pubDate>
+      
+      <guid>//localhost:1313/hack-box/</guid>
+      <description>Let&amp;rsquo;s setup a new &amp;ldquo;Hack Box&amp;rdquo; for TryHackMe challenges and Capture The Flags (CTFs).
+Previously, I&amp;rsquo;ve always used Kali Rolling inside of VirtualBox. But let&amp;rsquo;s try and get away from Virtual Machines (VMs).
+Why? Mainly the boot times, slow browsing and general laggy annoyances.
+I want a fast, simple system without the need to boot a VM and deal with stutters.
+The thinking is, use Windows Subset for Linux (WSL) with headless Kali Linux.</description>
+    </item>
+    
+  </channel>
+</rss>

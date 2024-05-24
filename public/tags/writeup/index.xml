@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Writeup on Mr Ash Co</title>
-    <link>/tags/writeup/</link>
+    <link>//localhost:1313/tags/writeup/</link>
     <description>Recent content in Writeup on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>PicoCTF General Skills</title>
-      <link>/picoctf/</link>
+      <link>//localhost:1313/picoctf/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/picoctf/</guid>
+      <guid>//localhost:1313/picoctf/</guid>
       <description>Welcome, it’s nice to have you here.
 My first ever write-up in the Cyber Sec space, I’m excited!
 Thanks to NetworkChuck’s Discord for getting me onto GynvaelEN’s Hacking Livestream #5 lead me to find PicoCTF.

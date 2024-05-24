@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hardware on Mr Ash Co</title>
-    <link>/tags/hardware/</link>
+    <link>//localhost:1313/tags/hardware/</link>
     <description>Recent content in Hardware on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jan 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/hardware/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Build A PC 2023</title>
-      <link>/pc-build/</link>
+      <link>//localhost:1313/pc-build/</link>
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/pc-build/</guid>
+      <guid>//localhost:1313/pc-build/</guid>
       <description>Are you new to PC building? Maybe a friend’s put together their computer and you want to learn more. Whatever your reason, building your own PC is a lot of fun! So, let’s learn how to build a PC in 2022, this is your beginner’s guide to building a PC.
 Disclaimer, this is not a step-by-step article, but more of a general guide to approaching how to build a PC.</description>
     </item>

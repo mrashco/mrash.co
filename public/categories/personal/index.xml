@@ -2,32 +2,42 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Personal on Mr Ash Co</title>
-    <link>/categories/personal/</link>
+    <link>//localhost:1313/categories/personal/</link>
     <description>Recent content in Personal on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="/categories/personal/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 19 Jan 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/personal/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>2022 Annual Review</title>
-      <link>/2022/</link>
+      <link>//localhost:1313/2022/</link>
       <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
       
-      <guid>/2022/</guid>
+      <guid>//localhost:1313/2022/</guid>
       <description>Welcome to my 4th Annual Review, can you believe 2022 is over? It&amp;rsquo;s been a long 12 months, yet it’s gone so fast. Here&amp;rsquo;s my 2022 recap plus my plans for 2023. Note, if interested see 2019, 2020 and 2021.
 ~ Hi, my name’s Ash, I’m 27 and a cyber security enthusiast sharing my journey. You’ve received this newsletter as you subscribed via my website or downloaded a freebie. ~</description>
     </item>
     
     <item>
+      <title>I Won</title>
+      <link>//localhost:1313/i-won/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/i-won/</guid>
+      <description>We’ve made it to October so let’s recap last month and catch up. Here’s a quick story I wanted to share with you about my first coding competition. Disclaimer, you’ve received this newsletter as you subscribed to Mr Ash .co. Note, the August newsletter wasn’t published via email but is now live.
+I Won My First Coding Competition It’s early July and I’m scrolling Discord where I find myself on the W3Schools server.</description>
+    </item>
+    
+    <item>
       <title>2021 Annual Review</title>
-      <link>/2021/</link>
+      <link>//localhost:1313/2021/</link>
       <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/2021/</guid>
+      <guid>//localhost:1313/2021/</guid>
       <description>Here we are again, another year come and gone. Let’s look back at the lessons learned and mistakes made.
 All up, it’s been a big year, we’ve all been redefining ‘normal’ post-2020. There’s been more division over the concern for safety and I genuinely hope you and your family are safe and well, thanks for reading this.
 Disclaimer, this is a self-indulgent article and will not be value-focused. Since 2019, I’ve written yearly recaps as an exercise to be more intentional and increase personal growth.</description>
@@ -35,10 +45,10 @@ Disclaimer, this is a self-indulgent article and will not be value-focused. Sinc
     
     <item>
       <title>2020 Annual Review</title>
-      <link>/yearly-review-2020/</link>
+      <link>//localhost:1313/yearly-review-2020/</link>
       <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
       
-      <guid>/yearly-review-2020/</guid>
+      <guid>//localhost:1313/yearly-review-2020/</guid>
       <description>I’ve been procrastinating this article. Summarising an entire year feels difficult. But I see the value in looking back. It makes moving forward clearer.
 Looking forward is hard. The future is a fantasy. No one knows what’s happening tomorrow. But looking back is tangible. I like tangible. So here’s my look back at the past 12 months. Ups, downs and the honesty in-between.
 This article is self-indulgent. If you want value, this isn’t for you.</description>
@@ -46,25 +56,314 @@ This article is self-indulgent. If you want value, this isn’t for you.</descri
     
     <item>
       <title>2019 Annual Review</title>
-      <link>/2019/</link>
+      <link>//localhost:1313/2019/</link>
       <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/</guid>
+      <guid>//localhost:1313/2019/</guid>
       <description>What a year! 2019 has been busy to say the least, I’ve learnt a lot of new lessons made even more mistakes! But overall, it’s been a massive year of growth so it’s all been worth it! Let’s review 2019!
 My Job as an IT Teacher 2019 was full of highlights like being featured in the companies blog, having short piece in a local magazine, being nominated for an educational emerging leader award and having one of our students win TAFE QLD student of the year award.</description>
     </item>
     
     <item>
-      <title>Beginner&#39;s Guide To Passive Investing 2023 Income, Tax, Super, Stocks and ETFs</title>
-      <link>/passive/</link>
+      <title>Advise n&#39; Review</title>
+      <link>//localhost:1313/advise-n-review/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/passive/</guid>
+      <guid>//localhost:1313/advise-n-review/</guid>
+      <description>Hello friend,
+How has your week been? Reply and let me know what’s happened.
+My week has been good. More time on holidays creating content and relaxing with friends. I’ve still got two weeks left before going back to work, how cool is that?
+This covers LinkedIn’s importance, annual reviews and advice from a life coach. Reply to give me your feedback on these topics.
+1. Importance of LinkedIn If you’re not on LinkedIn, it’s worth signing up and engaging.</description>
+    </item>
+    
+    <item>
+      <title>Align Yourself</title>
+      <link>//localhost:1313/align-yourself/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/align-yourself/</guid>
+      <description>Hello friend,
+How has your week been?
+I hope this finds you well as it&amp;rsquo;s been a busy week wrapping up classrooms and assessing student work for me! You may have noticed I&amp;rsquo;m writing again, yes that&amp;rsquo;s right, I&amp;rsquo;m sticking to good habits and moving forward!
+What is Business Coaching? Dan Sullivan&amp;rsquo;s Coaching: The #1 Industry For The 21st Century explains what business coaching is.
+I never understood business coaching, sports coaching makes sense though!</description>
+    </item>
+    
+    <item>
+      <title>Beginner&#39;s Guide To Passive Investing 2023 Income, Tax, Super, Stocks and ETFs</title>
+      <link>//localhost:1313/passive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/passive/</guid>
       <description>You’re probably like me, wanting to understand the terms ‘wealth’ and ‘investing’.
 How does everyone else have this investment thing figured out?
 Let’s do a bit of research and look into investing!
 Disclaimer, I’m not a financial advisor, seek professional financial advice, this is for entertainment purposes only. This is primarily for Australian citizens; research your countries tax and investment-related laws respectively.
 Put Simply Investing is storing your cash in a different container to increase its value.</description>
+    </item>
+    
+    <item>
+      <title>Buckets</title>
+      <link>//localhost:1313/buckets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/buckets/</guid>
+      <description>Hi friend,
+August has been full of reorganising my digital life, ideas and goals. I&amp;rsquo;ve spent a lot of time writing about my website and where I want to go with everything.
+Let&amp;rsquo;s go over some areas.
+Filling Up Buckets It helps my brain to have broad bucket-like groups I can pool together topics.
+Hacking, work-life and web design will be the three focus categories for blog posts. I&amp;rsquo;ve updated my bio: Hacking in public @ mrash.</description>
+    </item>
+    
+    <item>
+      <title>Check In</title>
+      <link>//localhost:1313/check-in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/check-in/</guid>
+      <description>Hi friend,
+We&amp;rsquo;ve passed 2022’s halfway point, how about a check-in? Let&amp;rsquo;s talk about goals, work, courses and current learning path. Disclaimer, this newsletter is from Mr Ash (that’s me), and you’re subscribed or downloaded a freebie. Read online or listen here, enjoy!
+Checking In, Halfway Point It&amp;rsquo;s been a good year so far, I completed TryHackMe’s Beginner Path and it spawned me starting up YouTube again. Let&amp;rsquo;s look at the Key Point Indicators (KPIs) in a bit more detail.</description>
+    </item>
+    
+    <item>
+      <title>Dilemma</title>
+      <link>//localhost:1313/dilemma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/dilemma/</guid>
+      <description>Hi friend,
+Welcome back to the monthly newsletter, I hope you&amp;rsquo;re staying safe wherever you are around the world. How was your May 2022? Mine was slightly uneventful (like last month) and flu ridden due to colder weather. I hope yours was better.
+Let&amp;rsquo;s focus on a learning dilemma, an ongoing issue I and many face. How to continue a learning path when things get difficult and stale. Disclaimer, this newsletter is from Mr Ash.</description>
+    </item>
+    
+    <item>
+      <title>Epic Outlook</title>
+      <link>//localhost:1313/epic-outlook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/epic-outlook/</guid>
+      <description>Hello friend,
+How’s your week been?
+Mines been mixed, it’s been good back at work but draining. We had 2-3 days of virtual meetings/events. After an hour or so, there’s only so much new info my brain can absorb.
+It’s been great seeing the team but a bit uncharted as I’m taking on my new teaching position. Still unclear how it’s all going to play out of the next 2-3 weeks.</description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>//localhost:1313/finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/finance/</guid>
+      <description>Hi there,
+It&amp;rsquo;s been a minute since I last wrote to you. How have the months of May, June and July been for you?
+We finished Semester 1 strong with a class full of happy students! I even got a thank you card and a $100 event cinema gift card from then, wow!
+My wife and I went on holiday with family to the Gold Coast. It was a great getaway before lockdown struck.</description>
+    </item>
+    
+    <item>
+      <title>Get Help</title>
+      <link>//localhost:1313/get-help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/get-help/</guid>
+      <description>Hi friend,
+What a month! July feels like both the longest and shortest 31 days of recent. I hope you’ve been good throughout July. Disclaimer, this newsletter is from Mr Ash (that’s me), and you subscribed or downloaded a freebie, read online or listen here.
+This month’s new content:
+Simple CTF (Video), OhSINT (Video), Agent Sudo (Video) Network Servcies 2 Part 1, Part 2 and Part 3 CS50P Problem Set Guide, Replit EdFest 2022 Jam – Intro To PyScript (Video) Getting Help Do you need help?</description>
+    </item>
+    
+    <item>
+      <title>Grow Smart</title>
+      <link>//localhost:1313/grow-smart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/grow-smart/</guid>
+      <description>Hello friend,
+How has your week been?
+It’s a bittersweet week for me and my wife as it’s the last week of holidays before work. Bitter as we’ve loved our time relaxing at home, sweet as we’re looking forward to the routine work brings.
+Here’s awesome content that I’ve learnt from this week.
+1. Stay Small with Scalable Systems I’ve wasn’t a big reader growing up but I’ve learnt how valuable it is over the last two years.</description>
+    </item>
+    
+    <item>
+      <title>Hard Work Pays Off</title>
+      <link>//localhost:1313/hard-work-pays-off/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hard-work-pays-off/</guid>
+      <description>Hello friend,
+How has your week been? Reply and tell me one nice thing that you experienced.
+My week has been good. It’s the second last week of the holidays! I’ve loved creating more content over this time. But I’m worried about going back to work and balancing the goals I’ve set for myself.
+1. Ultimate Lessons From Tim Ferris How I Built This interviewed Tim Ferris, entrepreneur/author of The Four Hour Work Week.</description>
+    </item>
+    
+    <item>
+      <title>Home Worklife</title>
+      <link>//localhost:1313/home-worklife/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/home-worklife/</guid>
+      <description>Hi friend,
+It&amp;rsquo;s nice writing to you again, I hope you had a nice break over the holidays. As more people (like Aussies) are working from home more than ever before, myself included, let&amp;rsquo;s discuss having a healthy home work-life.
+Disclaimer, you’ve received this newsletter (read online version) as you’ve subscribed to Mr Ash.co (or downloaded a freebie). If interested, read last months newsletter or see all newsletters for more.</description>
+    </item>
+    
+    <item>
+      <title>In Progress</title>
+      <link>//localhost:1313/in-progress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/in-progress/</guid>
+      <description>How was your week? I hope it was the right mix between challenging and fun!
+I&amp;rsquo;d like to share with you someone I found while scrolling through Twitter.
+It all started with “I&amp;rsquo;d like to try something new…”
+That was enough to get my attention.
+As of writing this letter, it was a couple of weeks ago now. Wow time moves fast.
+Share your work in progress Let me introduce you to Marc, he&amp;rsquo;s from the Netherlands.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s me again</title>
+      <link>//localhost:1313/its-me-again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/its-me-again/</guid>
+      <description>Hello friend,
+Annnnnd the aware for the longest break of a weekly newsletter goes too… me.
+Yes, it’s been a while, but I hope you’ve been well. Let’s go!
+NetworkChuck’s Been On My Website! NetworkChuck recent [https://youtu.be/gwUz3E9AW0w](you need a website) video has my website in the description! So cool!
+Like he says, “Why don’t you have a website? I think EVERYONE needs a website, especially if you are trying to get a job in information technology!</description>
+    </item>
+    
+    <item>
+      <title>Lazy n Lost</title>
+      <link>//localhost:1313/lazy-n-lost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/lazy-n-lost/</guid>
+      <description>Hi friend,
+We made it through April, I hope you’ve had a good month and you’re doing well. Warning, this letter is self-indulgent so if that’s not your thing, I understand, you can read the blog posts under Months Memories below.
+Let’s chat, I was really lazy this month, honestly, I had a tough week or two throughout April, my brain spiralled leaving me pretty lost. So I thought it’d be beneficial to explore the habit of laziness and how it impacts me and probably you too.</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Write</title>
+      <link>//localhost:1313/lets-write/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/lets-write/</guid>
+      <description>Hi friend,
+I hope your November has been well, question, do you write a lot? Generally, most people write or type daily as it&amp;rsquo;s fundamental to their job or life. It&amp;rsquo;s also the basis of how computer programs are made so it&amp;rsquo;s sort of what the entire tech world is built on. Writing is how we share information, how we teach and provide knowledge. Let&amp;rsquo;s see how writing independently can improve our lives.</description>
+    </item>
+    
+    <item>
+      <title>Looking Inward</title>
+      <link>//localhost:1313/looking-inward/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/looking-inward/</guid>
+      <description>Hello friend,
+How has your week been? Reply amd tell me.
+My week feels long. Not sure why. It’s been full of family gatherings and time spent with those closest. I hope it’s been the same for you. This issue is focused on looking inward. I’ve found the more we discover ourselves, the better we can contribute to others.
+1. Sit Down and Think We get bombarded with notifications. Social media and our devices stop us from being intentional.</description>
+    </item>
+    
+    <item>
+      <title>Measuring Success</title>
+      <link>//localhost:1313/measuring-success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/measuring-success/</guid>
+      <description>Hello friend,
+Can you believe it&amp;rsquo;s the end of 2020?
+I hope you&amp;rsquo;ve had a good week since we last spoke, for me, it&amp;rsquo;s been really nice as it&amp;rsquo;s the second week left of work for the year! Woo-hoo! Very excited for the holidays.
+My wife and I, with a few friends, managed to take a short trip to Rainbow Beach for a few days. If you&amp;rsquo;re ever in Queensland, make sure to visit the sand dunes called the “Blow Hole”, it&amp;rsquo;s incredible.</description>
+    </item>
+    
+    <item>
+      <title>Oh, Shiny</title>
+      <link>//localhost:1313/oh-shiny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/oh-shiny/</guid>
+      <description>Hey friend,
+September&amp;rsquo;s come and gone! This month&amp;rsquo;s felt long as term 3 wrapped up, lots has happened and now it&amp;rsquo;s the last term for 2021. Let&amp;rsquo;s look over some highlights for the month.
+Disclaimer, you&amp;rsquo;re receiving this newsletter as you subscribed to or downloaded from mrash.co. If you&amp;rsquo;d like to unsubscribe, see below, also, here&amp;rsquo;s last month&amp;rsquo;s newsletter.
+Why I Do&amp;hellip; What I Do If you didn&amp;rsquo;t know, I&amp;rsquo;m an I.</description>
+    </item>
+    
+    <item>
+      <title>Put Yourself Out</title>
+      <link>//localhost:1313/put-yourself-out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/put-yourself-out/</guid>
+      <description>Hi friend,
+Hope you’re safe and well during the last 28(ish) days since I wrote to you. It’s so sad to see countries on the brink of war in the modern era, hoping peace comes soon for everything going on.
+On a lighter note, let’s discuss ‘putting yourself out there’ - no this isn’t dating advice, but more life/work observations. I’ve found benefits from writing on the internet, sharing lessons and helping others, but it takes effort.</description>
+    </item>
+    
+    <item>
+      <title>Relax Do It</title>
+      <link>//localhost:1313/relax-do-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/relax-do-it/</guid>
+      <description>Hello friend,
+How’s your week been?
+Professionally, it’s a good one for me. I’ve been back into work by setting up students for their course.
+Personally, I’ve been slightly neglecting my morning routine and slipping on positive habits. I think getting back into work is draining me more than I was expecting. I need to find a new balance being back in work mode.
+As always, aligning myself with my 2020 yearly review I’m writing to you.</description>
+    </item>
+    
+    <item>
+      <title>Scammed</title>
+      <link>//localhost:1313/scammed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/scammed/</guid>
+      <description>Hi friend,
+Another four weeks have come and gone, it’s mindboggling to see war expand and produce the largest cyberwar in history. With cybercrime on the up globally, it’s hitting here home in Australia, hear how scammers are taking over Instagram accounts.
+Disclaimer, you’ve received this newsletter as you’re subscribed to Mr Ash.co (or downloaded a freebie)/ If interested, read last month’s or see all newsletters, thanks for reading.
+Staying Safe Online Over the past few weeks, two friends of mine had their Instagram accounts taken over by a scammer.</description>
+    </item>
+    
+    <item>
+      <title>Staying Creative and Connected</title>
+      <link>//localhost:1313/staying-creative-and-connected/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/staying-creative-and-connected/</guid>
+      <description>Hello friend,
+It&amp;rsquo;s been a while.
+You&amp;rsquo;re receiving this because you&amp;rsquo;re on my email list, if you don&amp;rsquo;t remember signing up, hi 👋
+I&amp;rsquo;d like to apologise if you subscribed and read ‘weekly&amp;rsquo; newsletter, this has hardly been weekly. There are a few area&amp;rsquo;s I struggle to commit too, writing weekly is one. I&amp;rsquo;m very committed to changing this.
+I hope you&amp;rsquo;ve been well since I last wrote, it feels like a lifetime since we&amp;rsquo;ve done this.</description>
+    </item>
+    
+    <item>
+      <title>Todo, Writing. Check!</title>
+      <link>//localhost:1313/todo-writing-check/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/todo-writing-check/</guid>
+      <description>Hello friend,
+How has your week been? I&amp;rsquo;ve got a lot to share with you!
+This week has been massive! Writing short-course, ordering my life todo list and becoming certified from Google! Read on to find out how.
+1. Writing Well by Julian Shapiro If you write well, you think well. Stop reading this and go to this guide. If you&amp;rsquo;re still here, why? Spend your next 3-4 hours reading, taking notes and having your mind blown.</description>
+    </item>
+    
+    <item>
+      <title>You Dream&#39;n</title>
+      <link>//localhost:1313/you-dreamn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/you-dreamn/</guid>
+      <description>Hey friend,
+Can you believe it&amp;rsquo;s the end of another month? Four weeks can go so fast! October&amp;rsquo;s been about goals, dreams, and the power of compounding habits to achieve them.
+Compound, claimed to be the eighth wonder of the world (it is for investing), but what is it? Put simply, compound is the long term effects of small steps. For example, going to the gym once every couple of days shows little result, but that habit compounded over years returns massive gains.</description>
     </item>
     
   </channel>

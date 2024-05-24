@@ -1,33 +1,33 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Automate The Boring Stuff on Mr Ash Co</title>
-    <link>/tags/automate-the-boring-stuff/</link>
-    <description>Recent content in Automate The Boring Stuff on Mr Ash Co</description>
+    <title>Automate the Boring Stuff on Mr Ash Co</title>
+    <link>//localhost:1313/tags/automate-the-boring-stuff/</link>
+    <description>Recent content in Automate the Boring Stuff on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/automate-the-boring-stuff/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 21 Jun 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/automate-the-boring-stuff/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automate The Boring Stuff With Python Practice Projects</title>
-      <link>/automate-the-boring-stuff-with-python-practice-projects/</link>
+      <link>//localhost:1313/automate-the-boring-stuff-with-python-practice-projects/</link>
       <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
       
-      <guid>/automate-the-boring-stuff-with-python-practice-projects/</guid>
+      <guid>//localhost:1313/automate-the-boring-stuff-with-python-practice-projects/</guid>
       <description>Automate The Boring Stuff With Python is an incredible book, and course by Al Sweigart to learn Python coding and computer science for the everyday person. With its straightforward learning approach, and succinct program examples and explanations, it’s many hobbyists’ go-to book for Python.
 This article breaks down my personal solutions to the practice projects outlined at the end of most chapters. As I continue to learn Python and generally computer science, I enjoy seeing how others solve coding problems.</description>
     </item>
     
     <item>
       <title>Python Range Function • Quick Python Project Lesson</title>
-      <link>/python-range-function-quick-python-project-lesson/</link>
+      <link>//localhost:1313/python-range-function-quick-python-project-lesson/</link>
       <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/python-range-function-quick-python-project-lesson/</guid>
+      <guid>//localhost:1313/python-range-function-quick-python-project-lesson/</guid>
       <description>So you’re learning Python and want to understand the range function, welcome!
 The range function paired with a for loop is a great way to repeat code a number of times.
 Let’s learn the basics of the range function with Python and then it’s over to you for a little project.
@@ -36,10 +36,10 @@ Basics Let’s have a simple counter go from 1 to 5, and show the results as it 
     
     <item>
       <title>ZigZag - Beginner Python Project</title>
-      <link>/zigzag-beginner-python-project/</link>
+      <link>//localhost:1313/zigzag-beginner-python-project/</link>
       <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/zigzag-beginner-python-project/</guid>
+      <guid>//localhost:1313/zigzag-beginner-python-project/</guid>
       <description>Let’s learn some Python!
 Want an easy python program to get started? Here’s zigzag.
 This program is from Automate The Boring Stuff With Python Chapter 3, under A Short Program: Zigzag.
@@ -49,10 +49,10 @@ See Built-in Functions, Time access and conversions and What does end=’ ‘ ex
     
     <item>
       <title>Random Number Generator • Easy Python Project</title>
-      <link>/random-number-generator-easy-python-project/</link>
+      <link>//localhost:1313/random-number-generator-easy-python-project/</link>
       <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/random-number-generator-easy-python-project/</guid>
+      <guid>//localhost:1313/random-number-generator-easy-python-project/</guid>
       <description>Want an easy python project to get you started learning python?
 Here’s a random number generator built-in python!
 See the project live below or via GitHub.
@@ -63,10 +63,10 @@ But first, it’s recommended to write out pseudo code as it helps to map out an
     
     <item>
       <title>Hashing Passwords • Python Module Basics</title>
-      <link>/hashing-passwords-python-module-basics/</link>
+      <link>//localhost:1313/hashing-passwords-python-module-basics/</link>
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/hashing-passwords-python-module-basics/</guid>
+      <guid>//localhost:1313/hashing-passwords-python-module-basics/</guid>
       <description>Hashing is the foundation of tech like blockchains that make cryptocurrencies possible. See Blockchain 101 – A Visual Demo and Blockchain 101 – Part 2 – Public / Private Keys and Signing.
 So for a fun study session, let’s follow a walkthrough on Password Hashing in Python, see the original post by DillonB07.
 Watch live video:
@@ -75,10 +75,10 @@ Watch live video:
     
     <item>
       <title>Username Generator Beginner Python Program</title>
-      <link>/username-generator-beginner-python-program/</link>
+      <link>//localhost:1313/username-generator-beginner-python-program/</link>
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/username-generator-beginner-python-program/</guid>
+      <guid>//localhost:1313/username-generator-beginner-python-program/</guid>
       <description>Usernames, we all have one, maybe for work or on Twitter.
 How about a python program that automatically generates a username based on your name?
 Sound cool? Let’s make a simple project to generate usernames.
@@ -90,10 +90,10 @@ First, displaying the title via print() and then using two variables with input(
     
     <item>
       <title>Basic Python Project • Is It Raining?</title>
-      <link>/basic-python-project-is-it-raining/</link>
+      <link>//localhost:1313/basic-python-project-is-it-raining/</link>
       <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
       
-      <guid>/basic-python-project-is-it-raining/</guid>
+      <guid>//localhost:1313/basic-python-project-is-it-raining/</guid>
       <description>Learning python? It’s an incredible programming language to have in your tool belt.
 This project is inspired by an early example from Automate The Boring Stuff with Python.
 Flow Control This python project is to impliment this flow chart:

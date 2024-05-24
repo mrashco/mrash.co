@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Networking on Mr Ash Co</title>
-    <link>/tags/networking/</link>
+    <link>//localhost:1313/tags/networking/</link>
     <description>Recent content in Networking on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/networking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 21 Apr 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/networking/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Learning HTTP Requests - A Mini HTTP Exercise</title>
-      <link>/learning-http-requests-a-mini-http-exercise/</link>
+      <link>//localhost:1313/learning-http-requests-a-mini-http-exercise/</link>
       <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/learning-http-requests-a-mini-http-exercise/</guid>
+      <guid>//localhost:1313/learning-http-requests-a-mini-http-exercise/</guid>
       <description>While learning HTTP in Detail, I thought it’d be fun to put it to the test in the terminal.
 Here’s a quick exercise to practice learning HTTP Requests, Responses and Headers.
 Difficulty: Easy – new to Linux. Environment: local Debian-based Linux installation e.g. Ubuntu in VirtualBox. Commands: git, python3, cd, mkdir, wget. Steps Here’s everything you need to do, note, you’ll need two terminals to do this:
@@ -26,10 +26,10 @@ Terminal 1: git clone https://github.</description>
     
     <item>
       <title>TryHackMe Network Services 1 Part 2 Telnet</title>
-      <link>/tryhackme-network-services-1-part-2-telnet/</link>
+      <link>//localhost:1313/tryhackme-network-services-1-part-2-telnet/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-network-services-1-part-2-telnet/</guid>
+      <guid>//localhost:1313/tryhackme-network-services-1-part-2-telnet/</guid>
       <description>Welcome to TryHackMe Network Services Walkthrough Part 2, oh yeah! Let’s learn, then enumerate and exploit a variety of network services and misconfigurations, second up is telnet. Watch this Network Services Walkthrough for TryHackMe’s room, Part 2 Telnet.
 Task 5 Understanding Telnet Questions:
 What is Telnet? application protocol What has slowly replaced Telnet? ssh How would you connect to a Telnet server with the IP 10.10.10.3 on port 23? telnet 10.</description>
@@ -37,10 +37,10 @@ What is Telnet? application protocol What has slowly replaced Telnet? ssh How wo
     
     <item>
       <title>TryHackMe Network Services 1 Part 3 FTP</title>
-      <link>/tryhackme-network-services-1-part-3-ftp/</link>
+      <link>//localhost:1313/tryhackme-network-services-1-part-3-ftp/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-network-services-1-part-3-ftp/</guid>
+      <guid>//localhost:1313/tryhackme-network-services-1-part-3-ftp/</guid>
       <description>Let’s go, TryHackMe Network Services Walkthrough Part 3, welcome! Step 1 learn, step 2 enumerate, and step 3 exploit… but what? Well, a variety of network services and misconfigurations of course, this time it’s FTP. Watch the Network Services Walkthrough for TryHackMe’s room, Part 3 FTP.
 Task 8 Understanding FTP Questions:
 What communications model does FTP use? client-server What’s the standard FTP port? 21 How many modes of FTP connection are there?</description>
@@ -48,10 +48,10 @@ What communications model does FTP use? client-server What’s the standard FTP 
     
     <item>
       <title>TryHackMe Network Services Room Notes</title>
-      <link>/tryhackme-network-services-room-notes/</link>
+      <link>//localhost:1313/tryhackme-network-services-room-notes/</link>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-network-services-room-notes/</guid>
+      <guid>//localhost:1313/tryhackme-network-services-room-notes/</guid>
       <description>Are you going through TryHackMe’s Network Services 1 Room? Need help taking notes? I got you covered. Here are my Network Services 1 room notes from TryHackMe, use them as much as you need!
 Disclaimer, this is written in shorthand format, meaning, full sentences and proper grammar are not always used. For writeups, see SMB Part 1, for help with Linux, see Quick Start Guide.
 SMB: Understanding, Enumerating, Exploiting Server Message Block (SMB) Protocol: client/server comms for file/printer/serial ports/others for MS Windows.</description>
@@ -59,10 +59,10 @@ SMB: Understanding, Enumerating, Exploiting Server Message Block (SMB) Protocol:
     
     <item>
       <title>TryHackMe Nmap Walkthrough</title>
-      <link>/tryhackme-nmap-walkthrough/</link>
+      <link>//localhost:1313/tryhackme-nmap-walkthrough/</link>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-nmap-walkthrough/</guid>
+      <guid>//localhost:1313/tryhackme-nmap-walkthrough/</guid>
       <description>Welcome to another TryHackeMe Walkthrough, this time the Nmap room from TryHackMe’s Beginner Learning Path. In this TryHackMe Nmap Walkthrough, we’ll go over all 15 tasks and you’ll see every detail you need to not only complete the Nmap room but understand it too.
 For a quicker look at the Nmap Room, see TryHackMe Nmap Room Notes, enjoy the TryHackMe Nmap Walkthrough, happy hacking.
 Disclaimer, see the video version or the previous Linux Fundamentals Part 1, Part 2, or Part 3 if needed.</description>
@@ -70,10 +70,10 @@ Disclaimer, see the video version or the previous Linux Fundamentals Part 1, Par
     
     <item>
       <title>TryHackMe Network Services Walkthrough SMB Part 1/3</title>
-      <link>/tryhackme-network-services-walkthrough-smb-part-1-3/</link>
+      <link>//localhost:1313/tryhackme-network-services-walkthrough-smb-part-1-3/</link>
       <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-network-services-walkthrough-smb-part-1-3/</guid>
+      <guid>//localhost:1313/tryhackme-network-services-walkthrough-smb-part-1-3/</guid>
       <description>Task 1 Get Connected Questions
 Ready? Let’s get going! – No answer needed, carry on. Offline checklist to track your learning path, become a great hacker and stay on task.
 Task 2 Understanding SMB What does SMB stand for? – Server Message Block What type of protocol is SMB? – response-request What do clients connect to servers using? – TCP/IP What systems does Samba run on? – Unix Task 3 Enumerating SMB Run nmap scan.</description>
@@ -81,20 +81,20 @@ Task 2 Understanding SMB What does SMB stand for? – Server Message Block What 
     
     <item>
       <title>CompTIA A&#43; Study Notes (220-1101)</title>
-      <link>/comptia-a-plus-study-notes/</link>
+      <link>//localhost:1313/comptia-a-plus-study-notes/</link>
       <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/comptia-a-plus-study-notes/</guid>
+      <guid>//localhost:1313/comptia-a-plus-study-notes/</guid>
       <description>Installing Hardware and Display Components Hardware and Device Replacement RAM: system memory or desk of PC, fast access, low amount = lower access speeds, volatile. Storage: file cabinet of PC, slower access, static (non-volatile). Check MoBo user guide to ensure RAM amount, form-factor etc. GPU/Video Card: processes video and connects to external monitors. CPU: brain of PC. DC Jack Replacement Research – https://youtu.be/zFuu8LSaAQE
 Hard Drive Migration SSD: non-volatile flash memory for storage, faster, reliable, less power, quieter, smaller.</description>
     </item>
     
     <item>
       <title>Basic Home Network Analysis - Beginner Cyber Sec Project</title>
-      <link>/basic-home-network-analysis-beginner-cyber-sec-project/</link>
+      <link>//localhost:1313/basic-home-network-analysis-beginner-cyber-sec-project/</link>
       <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/basic-home-network-analysis-beginner-cyber-sec-project/</guid>
+      <guid>//localhost:1313/basic-home-network-analysis-beginner-cyber-sec-project/</guid>
       <description>Are you a Cyber Sec student? Or just interested in the Cyber Sec space?
 Yes, and yes!
 Do you go to family and friends, hop on their network and poke around? It’s easy to do and you can quickly find vulnerabilities that someone could exploit.
@@ -104,10 +104,10 @@ Imagine you put a lock on a door for home security but never lock it, robbers ju
     
     <item>
       <title>Homelabs 2023 Beginner&#39;s Guide To Homelabbing</title>
-      <link>/homelab/</link>
+      <link>//localhost:1313/homelab/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/homelab/</guid>
+      <guid>//localhost:1313/homelab/</guid>
       <description>You are probably new to homelabbing and need a bit of guidance. Building a homelab means building a computer network, or lab, at home.
 Homelabs can be anything from old laptops to expensive high-end enterprise equipment.
 Typically, you’ll find homelabs involve a lot of virtual computers, meaning they’re not physical. There’s little entry to get started and unlimited possibility as your homelab grows.
@@ -116,10 +116,10 @@ You’ll find techies and sys-admins from all over the world who love to share t
     
     <item>
       <title>CyberWox CyberSec Homelab on Virtual Box</title>
-      <link>/cyberwox/</link>
+      <link>//localhost:1313/cyberwox/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/cyberwox/</guid>
+      <guid>//localhost:1313/cyberwox/</guid>
       <description>Homelabs are fun, challenging, but fun.
 Building an entire virtual network of interconnected computers to simulate real-world traffic and situations.
 This is my additional guide to Cyberwox’s Building a Cybersecurity Homelab, but, for those using VirtualBox. Here’s a visual guide for the lab:

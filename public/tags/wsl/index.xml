@@ -1,23 +1,36 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>wsl on Mr Ash Co</title>
-    <link>/tags/wsl/</link>
-    <description>Recent content in wsl on Mr Ash Co</description>
+    <title>Wsl on Mr Ash Co</title>
+    <link>//localhost:1313/tags/wsl/</link>
+    <description>Recent content in Wsl on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 30 Apr 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Dec 2023 19:53:10 +1000</lastBuildDate><atom:link href="//localhost:1313/tags/wsl/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hack Box</title>
+      <link>//localhost:1313/hack-box/</link>
+      <pubDate>Fri, 15 Dec 2023 19:53:10 +1000</pubDate>
+      
+      <guid>//localhost:1313/hack-box/</guid>
+      <description>Let&amp;rsquo;s setup a new &amp;ldquo;Hack Box&amp;rdquo; for TryHackMe challenges and Capture The Flags (CTFs).
+Previously, I&amp;rsquo;ve always used Kali Rolling inside of VirtualBox. But let&amp;rsquo;s try and get away from Virtual Machines (VMs).
+Why? Mainly the boot times, slow browsing and general laggy annoyances.
+I want a fast, simple system without the need to boot a VM and deal with stutters.
+The thinking is, use Windows Subset for Linux (WSL) with headless Kali Linux.</description>
+    </item>
+    
     <item>
       <title>Kali Linux WSL WITHOUT Microsoft Store</title>
-      <link>/kali-wsl/</link>
+      <link>//localhost:1313/kali-wsl/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/kali-wsl/</guid>
+      <guid>//localhost:1313/kali-wsl/</guid>
       <description>Before you start, make sure your Windows 10 OS is up to date as version 1903 or higher can run this. To check the version, click Windows Start Button and type System Information, next to Version you’ll see your current number.
 If lower than version 1903, go to Settings and Update to get latest changes.
 Okay, now you’re good to go!

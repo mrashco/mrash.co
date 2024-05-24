@@ -2,42 +2,60 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Writeup on Mr Ash Co</title>
-    <link>/categories/writeup/</link>
+    <link>//localhost:1313/categories/writeup/</link>
     <description>Recent content in Writeup on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/writeup/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 08 Dec 2023 05:23:04 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/writeup/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Chill Hack</title>
+      <link>//localhost:1313/chill-hack/</link>
+      <pubDate>Fri, 08 Dec 2023 05:23:04 +1000</pubDate>
+      
+      <guid>//localhost:1313/chill-hack/</guid>
+      <description>Chill Hack CTF from TryHackMe, enjoy. </description>
+    </item>
+    
+    <item>
+      <title>Opacity TryHackMe</title>
+      <link>//localhost:1313/opacity/</link>
+      <pubDate>Fri, 08 Dec 2023 04:52:51 +1000</pubDate>
+      
+      <guid>//localhost:1313/opacity/</guid>
+      <description>TryHackMe&amp;rsquo;s Opacity is a &amp;rsquo;easy&amp;rsquo; Boot2Root room for pentesters and cybersec enthusiasts (like you!). Plus, for black friday, checkout the free giveaway bundles below. </description>
+    </item>
+    
     <item>
       <title>Agent Sudo TryHackMe Walkthrough</title>
-      <link>/agent-sudo/</link>
+      <link>//localhost:1313/agent-sudo/</link>
       <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/agent-sudo/</guid>
+      <guid>//localhost:1313/agent-sudo/</guid>
       <description>Welcome back to another TryHackMe room, the challenge today is Agent Sudo.
 No spoilers below within the hints, just some good ol’ fashion hints to help you out on your agent sudo journey. For more detail, with some spoilers, see the steps section, and for everything I did, see my notes. If you prefer a video walkthrough, well that’s linked below, and if you want my personal thoughts on the room, check out the reflection via the video.</description>
     </item>
     
     <item>
       <title>OhSINT Writeup TryHackMe</title>
-      <link>/ohsint/</link>
+      <link>//localhost:1313/ohsint/</link>
       <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/ohsint/</guid>
+      <guid>//localhost:1313/ohsint/</guid>
       <description>Let’s go for another TryHackMe room, this time we’re tackling OhSINT, which begs the question “are you able to use open-source intelligence to solve this challenge?”
 This was a fun, different room for me, I love the idea of OSINT and using the web to solve challenges. Despite having a few initial issues along the way, it was fun to answer “what information can you possible get with just one photo?</description>
     </item>
     
     <item>
-      <title>THM SimpleCTF Hints, Writeup &amp;#038; Notes</title>
-      <link>/simplectf/</link>
+      <title>THM SimpleCTF Hints, Writeup and Notes</title>
+      <link>//localhost:1313/simplectf/</link>
       <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/simplectf/</guid>
+      <guid>//localhost:1313/simplectf/</guid>
       <description>Welcome back to TryHackMe, this time it’s SimpleCTF… or as I’d call it ‘Not So SimpleCTF’… as I had a few issues getting this CTF to work.
 Let’s dive into it.
 Hints How many services are running under port 1000? nmap What is running on the higher port? Check the nmap scan results. What’s the CVE you’re using against the application? CVE-****-**** don’t forget to include CVE- at the beginning. To what kind of vulnerability is the application vulnerable?</description>

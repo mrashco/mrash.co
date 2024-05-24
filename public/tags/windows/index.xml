@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Windows on Mr Ash Co</title>
+    <link>//localhost:1313/tags/windows/</link>
+    <description>Recent content in Windows on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 11:06:47 +1000</lastBuildDate><atom:link href="//localhost:1313/tags/windows/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Winget</title>
+      <link>//localhost:1313/winget/</link>
+      <pubDate>Wed, 20 Dec 2023 11:06:47 +1000</pubDate>
+      
+      <guid>//localhost:1313/winget/</guid>
+      <description>How to use winget for Windows 11.
+What is winget? It&amp;rsquo;s a package manager for Windows, like choco or apt for debian based linux distros.
+If that means nothing to you, then it installs and updates apps. Cool? Cool.
+How to use winget Let&amp;rsquo;s install syncthing for this example.
+winget search sync displays a list of matches sync.
+Name Id Version Match Source--------------------------------------------------------------------syncthing Syncthing.Syncthing 1.27.0 wingetSyncTrayzor SyncTrayzor.SyncTrayzor 1.</description>
+    </item>
+    
+  </channel>
+</rss>

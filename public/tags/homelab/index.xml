@@ -2,22 +2,63 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Homelab on Mr Ash Co</title>
-    <link>/tags/homelab/</link>
+    <link>//localhost:1313/tags/homelab/</link>
     <description>Recent content in Homelab on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 07 Nov 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Dec 2023 15:28:06 +1000</lastBuildDate><atom:link href="//localhost:1313/tags/homelab/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>//localhost:1313/docker/</link>
+      <pubDate>Wed, 20 Dec 2023 15:28:06 +1000</pubDate>
+      
+      <guid>//localhost:1313/docker/</guid>
+      <description>Let&amp;rsquo;s learn Docker and set it up.
+What&amp;rsquo;s Docker? Complicated haha!
+It&amp;rsquo;s a way to install, maintain and run applications.
+But apps are self-contained, hence containers.
+Docker allows networking and lots more.
+How to setup Docker Best way is to follow the docs.
+Troubleshooting Docker You might see an error such as
+WARNING: Error loading config file: /root/.docker/config.json: read /root/.docker/config.json: is a directory For that, do the following from here:</description>
+    </item>
+    
+    <item>
+      <title>Winget</title>
+      <link>//localhost:1313/winget/</link>
+      <pubDate>Wed, 20 Dec 2023 11:06:47 +1000</pubDate>
+      
+      <guid>//localhost:1313/winget/</guid>
+      <description>How to use winget for Windows 11.
+What is winget? It&amp;rsquo;s a package manager for Windows, like choco or apt for debian based linux distros.
+If that means nothing to you, then it installs and updates apps. Cool? Cool.
+How to use winget Let&amp;rsquo;s install syncthing for this example.
+winget search sync displays a list of matches sync.
+Name Id Version Match Source--------------------------------------------------------------------syncthing Syncthing.Syncthing 1.27.0 wingetSyncTrayzor SyncTrayzor.SyncTrayzor 1.</description>
+    </item>
+    
+    <item>
+      <title>Pi-Hole</title>
+      <link>//localhost:1313/pihole/</link>
+      <pubDate>Mon, 18 Dec 2023 12:09:01 +1000</pubDate>
+      
+      <guid>//localhost:1313/pihole/</guid>
+      <description>Let&amp;rsquo;s setup Pi-Hole in Docker, following the official documentation.
+getconf LONG_BIT check for 32bit or 64bit. cat /etc/os-release check the version of the OS. After following the installation guide, you might receive these errors:
+E: Package &amp;#39;docker-ce&amp;#39; has no installation candidateE: Unable to locate package docker-ce-cliE: Unable to locate package containerd.ioE: Couldn&amp;#39;t find any package by glob &amp;#39;containerd.io&amp;#39;E: Couldn&amp;#39;t find any package by regex &amp;#39;containerd.io&amp;#39;E: Unable to locate package docker-buildx-pluginE: Unable to locate package docker-compose-**plugin** Switch over to this guide to manually install docker with the deb files.</description>
+    </item>
+    
     <item>
       <title>Homelabs 2023 Beginner&#39;s Guide To Homelabbing</title>
-      <link>/homelab/</link>
+      <link>//localhost:1313/homelab/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/homelab/</guid>
+      <guid>//localhost:1313/homelab/</guid>
       <description>You are probably new to homelabbing and need a bit of guidance. Building a homelab means building a computer network, or lab, at home.
 Homelabs can be anything from old laptops to expensive high-end enterprise equipment.
 Typically, you’ll find homelabs involve a lot of virtual computers, meaning they’re not physical. There’s little entry to get started and unlimited possibility as your homelab grows.
@@ -26,10 +67,10 @@ You’ll find techies and sys-admins from all over the world who love to share t
     
     <item>
       <title>CyberWox CyberSec Homelab on Virtual Box</title>
-      <link>/cyberwox/</link>
+      <link>//localhost:1313/cyberwox/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/cyberwox/</guid>
+      <guid>//localhost:1313/cyberwox/</guid>
       <description>Homelabs are fun, challenging, but fun.
 Building an entire virtual network of interconnected computers to simulate real-world traffic and situations.
 This is my additional guide to Cyberwox’s Building a Cybersecurity Homelab, but, for those using VirtualBox. Here’s a visual guide for the lab:

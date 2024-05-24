@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Other on Mr Ash Co</title>
-    <link>/categories/other/</link>
+    <link>//localhost:1313/categories/other/</link>
     <description>Recent content in Other on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="/categories/other/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 22 May 2020 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/other/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OneNote to Notion and Moving Apps</title>
-      <link>/onenote-to-notion-moving-apps/</link>
+      <link>//localhost:1313/onenote-to-notion-moving-apps/</link>
       <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
       
-      <guid>/onenote-to-notion-moving-apps/</guid>
+      <guid>//localhost:1313/onenote-to-notion-moving-apps/</guid>
       <description>If you’re reading this you may very well be a lot like me.
 Using OneNote for personal notes, jotting down key meeting highlights and organising thoughts and ideas.
 If that sounds familiar, you’re probably a long time user of OneNote and a happy user. Personally I’ve always enjoyed using it. It’s fast, fluid design and easy navigation make it a great note-taking app. OneNote is good at one thing, notes.</description>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>VirtualBox on Mr Ash Co</title>
-    <link>/tags/virtualbox/</link>
+    <link>//localhost:1313/tags/virtualbox/</link>
     <description>Recent content in VirtualBox on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="/tags/virtualbox/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 27 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/virtualbox/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Setup Ubuntu Using VirtualBox</title>
-      <link>/how-to-setup-ubuntu-using-virtualbox/</link>
+      <link>//localhost:1313/how-to-setup-ubuntu-using-virtualbox/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/how-to-setup-ubuntu-using-virtualbox/</guid>
+      <guid>//localhost:1313/how-to-setup-ubuntu-using-virtualbox/</guid>
       <description>Setting up a Linux Operating System like Ubuntu can be a bit daunting, especially if you’re a firm Windows user with no Linux experience.
 I’m glad you’re here starting your Linux journey! You won’t look back!
 Ubuntu is generally accepted as the most beginner-friendly Linux OS.

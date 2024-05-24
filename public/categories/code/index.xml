@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Code on Mr Ash Co</title>
+    <link>//localhost:1313/categories/code/</link>
+    <description>Recent content in Code on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Dec 2023 13:14:04 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/code/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hugo</title>
+      <link>//localhost:1313/hugo/</link>
+      <pubDate>Fri, 15 Dec 2023 13:14:04 +1000</pubDate>
+      
+      <guid>//localhost:1313/hugo/</guid>
+      <description>Hugo is great, but noticing some odd bits and bops.
+Alias(es) Here&amp;rsquo;s what I use for my urls:
+url: hugoalias: # aliases for multiple- post/hugo- But in order for aliases to work, I have to change aslias to asliases, save. Then change it back to aslias. Strange.
+Markdown All in One Hands down the best extension to use within VSCode is Markdown All in One.
+Paste links over text for automatic linking Continues ordered and unordered lists when typing </description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>//localhost:1313/git/</link>
+      <pubDate>Fri, 15 Dec 2023 11:51:09 +1000</pubDate>
+      
+      <guid>//localhost:1313/git/</guid>
+      <description>Just a few notes/things to remember while using git.
+Typical git process:
+git pull $link git add . git commit -m &#39;v0.1&#39; git push $link Switch branches from master to main
+git branch -m master main </description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Docker on Mr Ash Co</title>
+    <link>//localhost:1313/tags/docker/</link>
+    <description>Recent content in Docker on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 20 Dec 2023 15:28:06 +1000</lastBuildDate><atom:link href="//localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>//localhost:1313/docker/</link>
+      <pubDate>Wed, 20 Dec 2023 15:28:06 +1000</pubDate>
+      
+      <guid>//localhost:1313/docker/</guid>
+      <description>Let&amp;rsquo;s learn Docker and set it up.
+What&amp;rsquo;s Docker? Complicated haha!
+It&amp;rsquo;s a way to install, maintain and run applications.
+But apps are self-contained, hence containers.
+Docker allows networking and lots more.
+How to setup Docker Best way is to follow the docs.
+Troubleshooting Docker You might see an error such as
+WARNING: Error loading config file: /root/.docker/config.json: read /root/.docker/config.json: is a directory For that, do the following from here:</description>
+    </item>
+    
+    <item>
+      <title>Pi-Hole</title>
+      <link>//localhost:1313/pihole/</link>
+      <pubDate>Mon, 18 Dec 2023 12:09:01 +1000</pubDate>
+      
+      <guid>//localhost:1313/pihole/</guid>
+      <description>Let&amp;rsquo;s setup Pi-Hole in Docker, following the official documentation.
+getconf LONG_BIT check for 32bit or 64bit. cat /etc/os-release check the version of the OS. After following the installation guide, you might receive these errors:
+E: Package &amp;#39;docker-ce&amp;#39; has no installation candidateE: Unable to locate package docker-ce-cliE: Unable to locate package containerd.ioE: Couldn&amp;#39;t find any package by glob &amp;#39;containerd.io&amp;#39;E: Couldn&amp;#39;t find any package by regex &amp;#39;containerd.io&amp;#39;E: Unable to locate package docker-buildx-pluginE: Unable to locate package docker-compose-**plugin** Switch over to this guide to manually install docker with the deb files.</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Linux on Mr Ash Co</title>
-    <link>/tags/linux/</link>
+    <link>//localhost:1313/tags/linux/</link>
     <description>Recent content in Linux on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/linux/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 22 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>How To Fix TryHackMe VPN Not Working</title>
-      <link>/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</link>
+      <link>//localhost:1313/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</link>
       <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</guid>
+      <guid>//localhost:1313/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</guid>
       <description>Is your TryHackMe OpenVPN not working?
 Let’s fix it, here’s what you’ll need:
 Some computer networking knowledge. A TryHackMe account. An OpenVPN config file via Network Access. Alright, so your there’s a few problems when trying to connect with OpenVPN to TryHackMe. Let’s cover them and learn how to fix connection problems in TryHackMe, let’s go.
@@ -26,10 +26,10 @@ How Do I Use OpenVPN On TryHackMe? First you need to have an active account with
     
     <item>
       <title>OverTheWire: Bandit</title>
-      <link>/overthewire-bandit/</link>
+      <link>//localhost:1313/overthewire-bandit/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/overthewire-bandit/</guid>
+      <guid>//localhost:1313/overthewire-bandit/</guid>
       <description>Bandit is a beginner Capture The Flag (CTF) game from OverTheWire (OTW).
 Whether you’re familiar with text-based games or have never even thought of playing them (me). This is the perfect CTF for learning Linux.
 You’re here to either copy my answers OR learn. Can I ask you to please focus on the learning? It’s okay to peak when you’re so blind it’s crippling you, but please don’t just copy, copy, copy!</description>
@@ -37,10 +37,10 @@ You’re here to either copy my answers OR learn. Can I ask you to please focus 
     
     <item>
       <title>TryHackMe Network Services 1 Part 3 FTP</title>
-      <link>/tryhackme-network-services-1-part-3-ftp/</link>
+      <link>//localhost:1313/tryhackme-network-services-1-part-3-ftp/</link>
       <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-network-services-1-part-3-ftp/</guid>
+      <guid>//localhost:1313/tryhackme-network-services-1-part-3-ftp/</guid>
       <description>Let’s go, TryHackMe Network Services Walkthrough Part 3, welcome! Step 1 learn, step 2 enumerate, and step 3 exploit… but what? Well, a variety of network services and misconfigurations of course, this time it’s FTP. Watch the Network Services Walkthrough for TryHackMe’s room, Part 3 FTP.
 Task 8 Understanding FTP Questions:
 What communications model does FTP use? client-server What’s the standard FTP port? 21 How many modes of FTP connection are there?</description>
@@ -48,10 +48,10 @@ What communications model does FTP use? client-server What’s the standard FTP 
     
     <item>
       <title>Hackers Learning Path</title>
-      <link>/learning-path-for-beginner-hacker/</link>
+      <link>//localhost:1313/learning-path-for-beginner-hacker/</link>
       <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/learning-path-for-beginner-hacker/</guid>
+      <guid>//localhost:1313/learning-path-for-beginner-hacker/</guid>
       <description>Want to hack computers? But what is hacking and how do people learn it?
 Here’s a vetted list of resources to learn computer hacking. Starting out is hard work, so that’s why I’ve put this list together, to help demystify hacking for you.
 The good news is anyone (including you) can learn to hack, and in even better news, it’s a lot of fun. All you need is effort and time, most of the resources are completely free.</description>
@@ -59,10 +59,10 @@ The good news is anyone (including you) can learn to hack, and in even better ne
     
     <item>
       <title>Cowsays What CTF - A Beginner Linux Project</title>
-      <link>/cowsays-what-ctf/</link>
+      <link>//localhost:1313/cowsays-what-ctf/</link>
       <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/cowsays-what-ctf/</guid>
+      <guid>//localhost:1313/cowsays-what-ctf/</guid>
       <description>Want a beginner Linux CTF (Capture The Flag)? Moove over, here’s Cowsays What CTF. A simple question-based python program to test your beginner Linux level skills.
 This simple CTF will use Linux commands to install a program, execute it and interact with it. Cowsays What CTF is inspired by TryHackMe and OverTheWire’s Bandit.
 *Disclaimer, if you need help getting started with Linux, see Linux Quick Start Guide.
@@ -71,10 +71,10 @@ Getting Started Before you tackle the challenge, understand the scope, here’s 
     
     <item>
       <title>TryHackMe Network Services Room Notes</title>
-      <link>/tryhackme-network-services-room-notes/</link>
+      <link>//localhost:1313/tryhackme-network-services-room-notes/</link>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-network-services-room-notes/</guid>
+      <guid>//localhost:1313/tryhackme-network-services-room-notes/</guid>
       <description>Are you going through TryHackMe’s Network Services 1 Room? Need help taking notes? I got you covered. Here are my Network Services 1 room notes from TryHackMe, use them as much as you need!
 Disclaimer, this is written in shorthand format, meaning, full sentences and proper grammar are not always used. For writeups, see SMB Part 1, for help with Linux, see Quick Start Guide.
 SMB: Understanding, Enumerating, Exploiting Server Message Block (SMB) Protocol: client/server comms for file/printer/serial ports/others for MS Windows.</description>
@@ -82,10 +82,10 @@ SMB: Understanding, Enumerating, Exploiting Server Message Block (SMB) Protocol:
     
     <item>
       <title>Linux Fundamentals 1 - TryHackMe Walkthrough</title>
-      <link>/linux-fundamentals-1-tryhackme-walkthrough/</link>
+      <link>//localhost:1313/linux-fundamentals-1-tryhackme-walkthrough/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/linux-fundamentals-1-tryhackme-walkthrough/</guid>
+      <guid>//localhost:1313/linux-fundamentals-1-tryhackme-walkthrough/</guid>
       <description>Learning Linux? Great, me too!
 Here’s the Linux Fundamentals 1 Walkthrough from TryHackMe. Let’s take a look at some of the fundamentals of Linux including common commands, the terminal, your prompt and more. There’s lots to love in Linux, as there’s so many flavours or distributions, the possibilities are endless.
 I hope you learn something on your Linux journey! Enjoy TryHcakMe’s Linux Fundamentals 1.
@@ -94,10 +94,10 @@ Disclaimer, for more TryHackMe walkthroughs, see Linux Fundamentals 2 or Linux F
     
     <item>
       <title>Linux Fundamentals 2 - TryHackMe Walkthrough</title>
-      <link>/linux-fundamentals-2-tryhackme-walkthrough/</link>
+      <link>//localhost:1313/linux-fundamentals-2-tryhackme-walkthrough/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/linux-fundamentals-2-tryhackme-walkthrough/</guid>
+      <guid>//localhost:1313/linux-fundamentals-2-tryhackme-walkthrough/</guid>
       <description>So you’re learning Linux aye? Welcome aboard!
 Here’s the Linux Fundamentals 2 Walkthrough from TryHackMe. Let’s take a look at some of the fundamentals of Linux including some more commands, ssh, bash scripting and more.
 There’s lots to love in Linux, I hope you learn something here on your Linux journey! Enjoy TryHackMe’s Linux Fundamentals 2.
@@ -106,10 +106,10 @@ Disclaimer, for more, see Linux Fundamentals 1, Linux Fundamentals 3 and Linux Q
     
     <item>
       <title>Linux Fundamentals 3 TryHackMe Walkthrough</title>
-      <link>/linux-fundamentals-3-tryhackme-walkthrough/</link>
+      <link>//localhost:1313/linux-fundamentals-3-tryhackme-walkthrough/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/linux-fundamentals-3-tryhackme-walkthrough/</guid>
+      <guid>//localhost:1313/linux-fundamentals-3-tryhackme-walkthrough/</guid>
       <description>Welcome to Linux Fundamentals 3 TryHackMe Walkthrough, the finale of the Linux Fundamental rooms on TryHackMe.
 Let’s learn some Linux skills and common utilities around automation, package management, and service/application logging. Are you keen? Yeah!
 Let’s go on with Linux Fundamentals 3 TryHackMe Walkthrough.
@@ -119,10 +119,10 @@ Task 1 Introduction &amp;amp; Task 2 Deploy Your Linux Machine Alright, you shou
     
     <item>
       <title>Linux Quick Start Guide</title>
-      <link>/quick-linux/</link>
+      <link>//localhost:1313/quick-linux/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/quick-linux/</guid>
+      <guid>//localhost:1313/quick-linux/</guid>
       <description>Learning Linux is fun! Beginning Linux is hard.
 There’s a lot of free courses and content to help you. But what about a quick start guide to Linux? Getting started with Linux made easy?
 No fluff, just a quick and dirty setup to get you started with Linux basics! Well, here it is, the Linux Quick Start Guide. To follow along, install Ubuntu Linux and let’s learn how to get started with Linux.</description>
@@ -130,10 +130,10 @@ No fluff, just a quick and dirty setup to get you started with Linux basics! Wel
     
     <item>
       <title>Linux Unhatched Cisco Course Review and Notes</title>
-      <link>/unhatched/</link>
+      <link>//localhost:1313/unhatched/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/unhatched/</guid>
+      <guid>//localhost:1313/unhatched/</guid>
       <description>Learning Linux?
 Well, Linux Unhatched from CISCO Net Academy is a great place to start.
 Depending on your experience, this short course could take you a few days or over a week.
@@ -144,10 +144,10 @@ Below are my notes for the course, I skipped 14-14.2 as I’ll be coming back to
     
     <item>
       <title>How To Setup Ubuntu Using VirtualBox</title>
-      <link>/how-to-setup-ubuntu-using-virtualbox/</link>
+      <link>//localhost:1313/how-to-setup-ubuntu-using-virtualbox/</link>
       <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/how-to-setup-ubuntu-using-virtualbox/</guid>
+      <guid>//localhost:1313/how-to-setup-ubuntu-using-virtualbox/</guid>
       <description>Setting up a Linux Operating System like Ubuntu can be a bit daunting, especially if you’re a firm Windows user with no Linux experience.
 I’m glad you’re here starting your Linux journey! You won’t look back!
 Ubuntu is generally accepted as the most beginner-friendly Linux OS.

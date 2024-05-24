@@ -2,46 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Post on Mr Ash Co</title>
-    <link>/categories/post/</link>
+    <link>//localhost:1313/categories/post/</link>
     <description>Recent content in Post on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/categories/post/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>100 Days Of Hacking</title>
-      <link>/100daysofhacking/</link>
-      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
-      
-      <guid>/100daysofhacking/</guid>
-      <description>Programming, terminals, networking, and penetration testing. There’s a lot to love in computer hacking.
-Are you learning to hack?
-Maybe you’ve started but can’t keep motivated or you might not know where to start, let’s fix that!
-Here’s 100 days of hacking, a flexible learning path to keep you on track.
-Are you in? Yes, good, let’s go!
-*Disclaimer, this is designed for self-paced learning and uses multiple resources from various creators.</description>
-    </item>
-    
+    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CS50P Problem Set Guide</title>
-      <link>/cs50-python-problem-set-guide/</link>
+      <link>//localhost:1313/cs50-python-problem-set-guide/</link>
       <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
       
-      <guid>/cs50-python-problem-set-guide/</guid>
+      <guid>//localhost:1313/cs50-python-problem-set-guide/</guid>
       <description>Hello, world and welcome, this is a breakdown, or guide, to the problem sets (psets) to CS50’s Introduction to Programming with Python (CS50P).
 If you’re unaware, CS50 Python comes from Havard which operates edx CS50. It’s a great introduction to the programming language Python. If you’re brand new to Computer Science (CS) or have a background in technology, CS50 covers the fundamentals really well. It’s one of the best places to learn Python online.</description>
     </item>
     
     <item>
       <title>TryHackMe Nmap Walkthrough</title>
-      <link>/tryhackme-nmap-walkthrough/</link>
+      <link>//localhost:1313/tryhackme-nmap-walkthrough/</link>
       <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
       
-      <guid>/tryhackme-nmap-walkthrough/</guid>
+      <guid>//localhost:1313/tryhackme-nmap-walkthrough/</guid>
       <description>Welcome to another TryHackeMe Walkthrough, this time the Nmap room from TryHackMe’s Beginner Learning Path. In this TryHackMe Nmap Walkthrough, we’ll go over all 15 tasks and you’ll see every detail you need to not only complete the Nmap room but understand it too.
 For a quicker look at the Nmap Room, see TryHackMe Nmap Room Notes, enjoy the TryHackMe Nmap Walkthrough, happy hacking.
 Disclaimer, see the video version or the previous Linux Fundamentals Part 1, Part 2, or Part 3 if needed.</description>
@@ -49,10 +35,10 @@ Disclaimer, see the video version or the previous Linux Fundamentals Part 1, Par
     
     <item>
       <title>Linux Fundamentals 3 TryHackMe Walkthrough</title>
-      <link>/linux-fundamentals-3-tryhackme-walkthrough/</link>
+      <link>//localhost:1313/linux-fundamentals-3-tryhackme-walkthrough/</link>
       <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
       
-      <guid>/linux-fundamentals-3-tryhackme-walkthrough/</guid>
+      <guid>//localhost:1313/linux-fundamentals-3-tryhackme-walkthrough/</guid>
       <description>Welcome to Linux Fundamentals 3 TryHackMe Walkthrough, the finale of the Linux Fundamental rooms on TryHackMe.
 Let’s learn some Linux skills and common utilities around automation, package management, and service/application logging. Are you keen? Yeah!
 Let’s go on with Linux Fundamentals 3 TryHackMe Walkthrough.
@@ -62,20 +48,20 @@ Task 1 Introduction &amp;amp; Task 2 Deploy Your Linux Machine Alright, you shou
     
     <item>
       <title>How To Build A PC 2023</title>
-      <link>/pc-build/</link>
+      <link>//localhost:1313/pc-build/</link>
       <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
       
-      <guid>/pc-build/</guid>
+      <guid>//localhost:1313/pc-build/</guid>
       <description>Are you new to PC building? Maybe a friend’s put together their computer and you want to learn more. Whatever your reason, building your own PC is a lot of fun! So, let’s learn how to build a PC in 2022, this is your beginner’s guide to building a PC.
 Disclaimer, this is not a step-by-step article, but more of a general guide to approaching how to build a PC.</description>
     </item>
     
     <item>
       <title>Homelabs 2023 Beginner&#39;s Guide To Homelabbing</title>
-      <link>/homelab/</link>
+      <link>//localhost:1313/homelab/</link>
       <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
       
-      <guid>/homelab/</guid>
+      <guid>//localhost:1313/homelab/</guid>
       <description>You are probably new to homelabbing and need a bit of guidance. Building a homelab means building a computer network, or lab, at home.
 Homelabs can be anything from old laptops to expensive high-end enterprise equipment.
 Typically, you’ll find homelabs involve a lot of virtual computers, meaning they’re not physical. There’s little entry to get started and unlimited possibility as your homelab grows.
@@ -84,10 +70,10 @@ You’ll find techies and sys-admins from all over the world who love to share t
     
     <item>
       <title>Bagels • Beginner Python Project</title>
-      <link>/bagels/</link>
+      <link>//localhost:1313/bagels/</link>
       <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/bagels/</guid>
+      <guid>//localhost:1313/bagels/</guid>
       <description>Want a beginner Python Project that’s going to test you? A program longer than 40 lines of code?
 Look no further, here’s Bagels!
 This is from The Big Book of Small Python Projects – Chapter 1 Bagels.
@@ -98,10 +84,10 @@ Global Variables, Main Function Let’s break Bagels down.</description>
     
     <item>
       <title>Intro To Python • Free Python Starter Guide</title>
-      <link>/python-intro/</link>
+      <link>//localhost:1313/python-intro/</link>
       <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
       
-      <guid>/python-intro/</guid>
+      <guid>//localhost:1313/python-intro/</guid>
       <description>Wanting to learn Python?
 Of course you do!
 Python is the hacker’s language, it’s more modern than bash and it’s super cool.
@@ -112,10 +98,10 @@ If you’re learning to hack in the Cyber Security space, see Hackers Learning P
     
     <item>
       <title>CyberWox CyberSec Homelab on Virtual Box</title>
-      <link>/cyberwox/</link>
+      <link>//localhost:1313/cyberwox/</link>
       <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/cyberwox/</guid>
+      <guid>//localhost:1313/cyberwox/</guid>
       <description>Homelabs are fun, challenging, but fun.
 Building an entire virtual network of interconnected computers to simulate real-world traffic and situations.
 This is my additional guide to Cyberwox’s Building a Cybersecurity Homelab, but, for those using VirtualBox. Here’s a visual guide for the lab:
@@ -125,10 +111,10 @@ Intro Ideally, use a dedicated lab computer for this, a spare laptop or an old g
     
     <item>
       <title>Linux Quick Start Guide</title>
-      <link>/quick-linux/</link>
+      <link>//localhost:1313/quick-linux/</link>
       <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
       
-      <guid>/quick-linux/</guid>
+      <guid>//localhost:1313/quick-linux/</guid>
       <description>Learning Linux is fun! Beginning Linux is hard.
 There’s a lot of free courses and content to help you. But what about a quick start guide to Linux? Getting started with Linux made easy?
 No fluff, just a quick and dirty setup to get you started with Linux basics! Well, here it is, the Linux Quick Start Guide. To follow along, install Ubuntu Linux and let’s learn how to get started with Linux.</description>
@@ -136,10 +122,10 @@ No fluff, just a quick and dirty setup to get you started with Linux basics! Wel
     
     <item>
       <title>Linux Unhatched Cisco Course Review and Notes</title>
-      <link>/unhatched/</link>
+      <link>//localhost:1313/unhatched/</link>
       <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
       
-      <guid>/unhatched/</guid>
+      <guid>//localhost:1313/unhatched/</guid>
       <description>Learning Linux?
 Well, Linux Unhatched from CISCO Net Academy is a great place to start.
 Depending on your experience, this short course could take you a few days or over a week.
@@ -150,10 +136,10 @@ Below are my notes for the course, I skipped 14-14.2 as I’ll be coming back to
     
     <item>
       <title>Hackers Beginner Guide To Online Anonymity</title>
-      <link>/anonymity/</link>
+      <link>//localhost:1313/anonymity/</link>
       <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/anonymity/</guid>
+      <guid>//localhost:1313/anonymity/</guid>
       <description>How do we start using our mad hacker skills in the real world AND remain undetected?
 We need to set ourselves up to be anonymous! No, we’re not joining a hacktivist group here.
 Let’s learn the basics to cover ourselves online. We’ll be using Kali Linux in this example, here’s my guide if you need help getting set up.
@@ -162,10 +148,10 @@ For a wider approach to online anonymity, see Kalle Hallden’s Become Invisible
     
     <item>
       <title>Beginner Python Project - Guessing Game</title>
-      <link>/guess/</link>
+      <link>//localhost:1313/guess/</link>
       <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
       
-      <guid>/guess/</guid>
+      <guid>//localhost:1313/guess/</guid>
       <description>Do you want a beginner Python project to keep you on your programming journey?
 Here’s a breakdown of a simple Guessing Game made in Python.
 See it live via Replit or view the source code via GitHub.
@@ -176,10 +162,10 @@ Write out a simple list of the steps this guessing game will go through.</descri
     
     <item>
       <title>Kali Linux WSL WITHOUT Microsoft Store</title>
-      <link>/kali-wsl/</link>
+      <link>//localhost:1313/kali-wsl/</link>
       <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
       
-      <guid>/kali-wsl/</guid>
+      <guid>//localhost:1313/kali-wsl/</guid>
       <description>Before you start, make sure your Windows 10 OS is up to date as version 1903 or higher can run this. To check the version, click Windows Start Button and type System Information, next to Version you’ll see your current number.
 If lower than version 1903, go to Settings and Update to get latest changes.
 Okay, now you’re good to go!
@@ -188,10 +174,10 @@ Okay, now you’re good to go!
     
     <item>
       <title>PicoCTF General Skills</title>
-      <link>/picoctf/</link>
+      <link>//localhost:1313/picoctf/</link>
       <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
       
-      <guid>/picoctf/</guid>
+      <guid>//localhost:1313/picoctf/</guid>
       <description>Welcome, it’s nice to have you here.
 My first ever write-up in the Cyber Sec space, I’m excited!
 Thanks to NetworkChuck’s Discord for getting me onto GynvaelEN’s Hacking Livestream #5 lead me to find PicoCTF.

@@ -1,23 +1,23 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Over The Wire on Mr Ash Co</title>
-    <link>/tags/over-the-wire/</link>
-    <description>Recent content in Over The Wire on Mr Ash Co</description>
+    <title>Over the Wire on Mr Ash Co</title>
+    <link>//localhost:1313/tags/over-the-wire/</link>
+    <description>Recent content in Over the Wire on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
-      <url>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
-      <link>/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="/tags/over-the-wire/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 07 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/over-the-wire/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>OverTheWire: Bandit</title>
-      <link>/overthewire-bandit/</link>
+      <link>//localhost:1313/overthewire-bandit/</link>
       <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>/overthewire-bandit/</guid>
+      <guid>//localhost:1313/overthewire-bandit/</guid>
       <description>Bandit is a beginner Capture The Flag (CTF) game from OverTheWire (OTW).
 Whether you’re familiar with text-based games or have never even thought of playing them (me). This is the perfect CTF for learning Linux.
 You’re here to either copy my answers OR learn. Can I ask you to please focus on the learning? It’s okay to peak when you’re so blind it’s crippling you, but please don’t just copy, copy, copy!</description>
