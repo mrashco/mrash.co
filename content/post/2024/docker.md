@@ -1,7 +1,7 @@
 ---
 title: "Docker"
-published: 2023-12-20T15:28:06+10:00
-lastUpdated: 2023-12-20T15:28:06+10:00
+published: 2023-12-20
+lastUpdated: 2024-05-12
 url: docker
 alias: # aliases for multiple
     - 
@@ -18,6 +18,7 @@ categories: Homelab # Homelab, Writeup, Personal
 tags:
     - docker 
     - homelab
+    - kali linux
 
 draft: false
 
@@ -29,24 +30,40 @@ draft: false
 
 Let's learn Docker and set it up.
 
-## What's Docker?
+So what's Docker?
 
-Complicated haha!
+Well it's complicated.
 
 It's a way to install, maintain and run applications.
 
-But apps are self-contained, hence containers.
+But apps are self-contained, hence the term *containers*.
 
 Docker allows networking and lots more.
 
-## How to setup Docker
+## Installing Docker
 
 Best way is to follow [the docs](https://docs.docker.com/engine/install/).
+
+### Kali Linux
+
+If you're on Kali Linux, don't follow the official guide.
+
+Go to [Installing Docker on Kali Linux](https://www.kali.org/docs/containers/installing-docker-on-kali/) from Kali.org instead.
+
+```bash
+sudo apt update
+sudo apt install -y docker.io
+sudo systemctl enable docker --now
+sudo usermod -aG docker $USER
+```
 
 ## Troubleshooting Docker
 
 You might see an error such as
-- `WARNING: Error loading config file: /root/.docker/config.json: read /root/.docker/config.json: is a directory`
+
+```plain-text
+WARNING: Error loading config file: /root/.docker/config.json: read /root/.docker/config.json: is a directory
+```
 
 For that, do the following [from here](https://github.com/docker/for-win/issues/808):
 
@@ -56,6 +73,8 @@ sudo rm -fr /root/.docker/config.json
 sudo echo '{"credsStore":"wincred"}' >> /root/.docker/config.json
 
 ```
+
+
 
 ---
 

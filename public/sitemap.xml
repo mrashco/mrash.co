@@ -26,23 +26,26 @@
     <loc>//localhost:1313/categories/writeup/</loc>
     <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/tags/docker/</loc>
-    <lastmod>2023-12-20T15:28:06+10:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/docker/</loc>
-    <lastmod>2023-12-20T15:28:06+10:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/homelab/</loc>
-    <lastmod>2023-12-20T15:28:06+10:00</lastmod>
+    <lastmod>2023-12-20T11:06:47+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/homelab/</loc>
-    <lastmod>2023-12-20T15:28:06+10:00</lastmod>
+    <lastmod>2023-12-20T11:06:47+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/windows/</loc>
     <lastmod>2023-12-20T11:06:47+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/winget/</loc>
     <lastmod>2023-12-20T11:06:47+10:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/docker/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/docker/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/kali-linux/</loc>
+    <lastmod>2023-12-20T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/pihole/</loc>
     <lastmod>2023-12-18T12:09:01+10:00</lastmod>
