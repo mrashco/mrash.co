@@ -8,7 +8,7 @@ alias: # aliases for multiple
     - 
 
 cover:
-    image: "<image path/url>"
+    image: "https://i.imgur.com/zfu4dRJ_d.webp?maxwidth=1520&fidelity=grand"
     # alt: "<alt text>"
     # caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
