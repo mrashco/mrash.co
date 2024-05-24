@@ -49,7 +49,9 @@ Can you exploit the CyberLens web server and discover the hidden flags?
 
 I thought this room might be more 'image forensics' related, but I guess that's just the law of this CyberLens company.
 
-(Tyler, is the description AI generated? It's okay if it is, no shame, just curious.)
+Tyler, is the description AI generated? It's okay if it is, no shame, just curious. 
+
+[UPDATE] Yes, it's AI. Tyler mentions it in his [Official Walkthrough](https://youtu.be/eFWEwS5thu4?si=ptGJISHJlWbWGAWD).
 
 There's a **Things to Note** which is nice. 
 
