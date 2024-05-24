@@ -11,7 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Dec 2023 04:52:51 +1000</lastBuildDate><atom:link href="//localhost:1313/tags/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 12:05:12 +1000</lastBuildDate><atom:link href="//localhost:1313/tags/tryhackme/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CyberLens TryHackMe Writeup</title>
+      <link>//localhost:1313/cyberlens/</link>
+      <pubDate>Fri, 24 May 2024 12:05:12 +1000</pubDate>
+      
+      <guid>//localhost:1313/cyberlens/</guid>
+      <description>Okay, it&amp;rsquo;s been a while. Last writeup on the blog is Chill Hack&amp;hellip; but she (and other writeups) need a refresher.
+Anyway, here&amp;rsquo;s CyberLens, a newish TryHackMe room from Tyler Ramsbey who make&amp;rsquo;s great content, give them a follow/subscribe.
+The Challenge First up, the Challenge Description.
+Welcome to the clandestine world of CyberLens, where shadows dance amidst the digital domain and metadata reveals the secrets that lie concealed within every image.</description>
+    </item>
+    
     <item>
       <title>Opacity TryHackMe</title>
       <link>//localhost:1313/opacity/</link>

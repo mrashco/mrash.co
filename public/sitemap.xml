@@ -2,14 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>//localhost:1313/categories/</loc>
+    <lastmod>2024-05-24T12:05:12+10:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/cyberlens/</loc>
+    <lastmod>2024-05-24T12:05:12+10:00</lastmod>
+  </url><url>
     <loc>//localhost:1313/</loc>
-    <lastmod>2023-12-22T06:18:12+10:00</lastmod>
+    <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
-    <lastmod>2023-12-22T06:18:12+10:00</lastmod>
+    <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/</loc>
-    <lastmod>2023-12-20T15:28:06+10:00</lastmod>
+    <loc>//localhost:1313/tags/</loc>
+    <lastmod>2024-05-24T12:05:12+10:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/tryhackme/</loc>
+    <lastmod>2024-05-24T12:05:12+10:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/tags/writeup/</loc>
+    <lastmod>2024-05-24T12:05:12+10:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/categories/writeup/</loc>
+    <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/docker/</loc>
     <lastmod>2023-12-20T15:28:06+10:00</lastmod>
@@ -21,9 +36,6 @@
     <lastmod>2023-12-20T15:28:06+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/homelab/</loc>
-    <lastmod>2023-12-20T15:28:06+10:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/</loc>
     <lastmod>2023-12-20T15:28:06+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/windows/</loc>
@@ -77,16 +89,10 @@
     <loc>//localhost:1313/chill-hack/</loc>
     <lastmod>2023-12-08T05:23:04+10:00</lastmod>
   </url><url>
-    <loc>//localhost:1313/categories/writeup/</loc>
-    <lastmod>2023-12-08T05:23:04+10:00</lastmod>
-  </url><url>
     <loc>//localhost:1313/tags/boot2root/</loc>
     <lastmod>2023-12-08T04:52:51+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/opacity/</loc>
-    <lastmod>2023-12-08T04:52:51+10:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/tryhackme/</loc>
     <lastmod>2023-12-08T04:52:51+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/policies/</loc>
@@ -387,9 +393,6 @@
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/picoctf/</loc>
-    <lastmod>2021-03-29T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/writeup/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
     <loc>//localhost:1313/starting-out-in-cyber-security/</loc>
