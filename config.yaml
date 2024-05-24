@@ -81,20 +81,20 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi, I'm Ash 👋"
-    Content: Welcome to my blog, mainly CTF writeups from TryHackMe and videos. I'm curious about cybersec, python & hacking. Feel free to subscribe to my newsletter. {{< rawhtml >}}<br><br><div class="gist-embed-form" data-form-type="embedded" data-form-id="93692129" data-workspace-id="aw3xhcat" version=3></div><script type="text/javascript" src="https://forms-widget.getgist.com/" defer></script>{{< /rawhtml >}}
+    Title: "CTF Writeups, Walkthroughs & Videos"
+    Content: Welcome to my blog for cybersec, python & hacking. Subscribe to my newsletter. {{< rawhtml >}}<br><br><div class="gist-embed-form" data-form-type="embedded" data-form-id="93692129" data-workspace-id="aw3xhcat" version=3></div><script type="text/javascript" src="https://forms-widget.getgist.com/" defer></script>{{< /rawhtml >}}
 
   socialIcons:
     - name: youtube
       url: "https://youtube.com/@mrashco"
-    - name: twitter
-      url: "https://twitter.com/mrashc0"
-    - name: github
-      url: "https://github.com/mrashco"
+    #- name: twitter
+    #  url: "https://twitter.com/mrashc0"
+    #- name: github
+    #  url: "https://github.com/mrashco"
 
   analytics:
     google:
-      SiteVerificationTag: "XYZabc"
+      SiteVerificationTag: "G-XL842W0SQL"
     bing:
       SiteVerificationTag: "XYZabc"
     yandex:
@@ -132,9 +132,9 @@ menu:
       name: now
       url: now
       weight: 10
-    - identifier: blog
-      name: blog
-      url: /blog
+    - identifier: post
+      name: posts
+      url: /post
       weight: 20
     - identifier: letters
       name: letters
