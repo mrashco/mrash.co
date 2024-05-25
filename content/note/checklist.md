@@ -22,7 +22,7 @@ tags:
 draft: false
 
 # ShowToc: false
-# TocOpen: false
+TocOpen: false
 
 # searchHidden: true # Make false to hide page from search
 ---
