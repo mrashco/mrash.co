@@ -1,5 +1,5 @@
 ---
-title: "Powershell"
+title: "PowerShell"
 #published: 2024-05-25T10:36:08+10:00
 # lastUpdated: 2024-05-25T10:36:08+10:00
 url: powershell

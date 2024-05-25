@@ -932,6 +932,22 @@ Let&amp;rsquo;s focus on a learning dilemma, an ongoing issue I and many face. H
     </item>
     
     <item>
+      <title>Enumeration</title>
+      <link>//localhost:1313/enum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/enum/</guid>
+      <description>rustscan
+rustscan -a $ip -g rustscan -a $ip -p $ports -- -sC -sV | tee scan.init nmap
+nmap -vv -Pn $ip nmap -vv -Pn -p $ports -A $ip feroxbuster
+feroxbuster -u http://$ipa -w $wordlist | tee fuzz.init FFUF
+ffuf -u http://$ip/FUZZ -w $wordlist | tee fuzz.init firefox
+Analysis: Whatruns, Wappalyzer /robots.txt, sitemap(.xml) smb
+enum4linux $ipa | tee enum4.txt # smb shares Linux Enumeration
+ls -la /home cat /etc/passwd cat /etc/crontab sudo -l # run sudo with?</description>
+    </item>
+    
+    <item>
       <title>Epic Outlook</title>
       <link>//localhost:1313/epic-outlook/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1112,7 +1128,7 @@ Why I Do&amp;hellip; What I Do If you didn&amp;rsquo;t know, I&amp;rsquo;m an I.
     </item>
     
     <item>
-      <title>Powershell</title>
+      <title>PowerShell</title>
       <link>//localhost:1313/powershell/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
@@ -1165,6 +1181,15 @@ Bash script:
 Another four weeks have come and gone, it’s mindboggling to see war expand and produce the largest cyberwar in history. With cybercrime on the up globally, it’s hitting here home in Australia, hear how scammers are taking over Instagram accounts.
 Disclaimer, you’ve received this newsletter as you’re subscribed to Mr Ash.co (or downloaded a freebie)/ If interested, read last month’s or see all newsletters, thanks for reading.
 Staying Safe Online Over the past few weeks, two friends of mine had their Instagram accounts taken over by a scammer.</description>
+    </item>
+    
+    <item>
+      <title>Shells</title>
+      <link>//localhost:1313/shells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/shells/</guid>
+      <description>python -c &amp;#34;import pty; pty.spawn(&amp;#39;/bin/bash&amp;#39;)&amp;#34; python3 -c &amp;#34;import pty; pty.spawn(&amp;#39;/bin/bash&amp;#39;)&amp;#34; /bin/sh -i [CTRL+Z] stty raw -ech;fg export TERM=xterm Thanks for reading</description>
     </item>
     
     <item>

@@ -3,21 +3,12 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>//localhost:1313/categories/</loc>
-    <lastmod>2024-05-25T09:47:04+10:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/</loc>
-    <lastmod>2024-05-25T09:47:04+10:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/note/</loc>
-    <lastmod>2024-05-25T09:47:04+10:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/rustscan/</loc>
-    <lastmod>2024-05-25T09:47:04+10:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/categories/tools/</loc>
-    <lastmod>2024-05-25T09:47:04+10:00</lastmod>
+    <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/cyberlens/</loc>
+    <lastmod>2024-05-24T12:05:12+10:00</lastmod>
+  </url><url>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/post/</loc>
@@ -81,16 +72,10 @@
     <lastmod>2023-12-15T15:47:45+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/code/</loc>
-    <lastmod>2023-12-15T13:14:04+10:00</lastmod>
+    <lastmod>2023-12-15T11:51:09+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/categories/code/</loc>
-    <lastmod>2023-12-15T13:14:04+10:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/tags/hugo/</loc>
-    <lastmod>2023-12-15T13:14:04+10:00</lastmod>
-  </url><url>
-    <loc>//localhost:1313/hugo/</loc>
-    <lastmod>2023-12-15T13:14:04+10:00</lastmod>
+    <lastmod>2023-12-15T11:51:09+10:00</lastmod>
   </url><url>
     <loc>//localhost:1313/tags/git/</loc>
     <lastmod>2023-12-15T11:51:09+10:00</lastmod>
@@ -466,9 +451,15 @@
   </url><url>
     <loc>//localhost:1313/home-worklife/</loc>
   </url><url>
+    <loc>//localhost:1313/tags/hugo/</loc>
+  </url><url>
+    <loc>//localhost:1313/hugo/</loc>
+  </url><url>
     <loc>//localhost:1313/in-progress/</loc>
   </url><url>
     <loc>//localhost:1313/its-me-again/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/language/</loc>
   </url><url>
     <loc>//localhost:1313/lazy-n-lost/</loc>
   </url><url>
@@ -480,17 +471,27 @@
   </url><url>
     <loc>//localhost:1313/measuring-success/</loc>
   </url><url>
+    <loc>//localhost:1313/note/</loc>
+  </url><url>
     <loc>//localhost:1313/oh-shiny/</loc>
+  </url><url>
+    <loc>//localhost:1313/powershell/</loc>
   </url><url>
     <loc>//localhost:1313/put-yourself-out/</loc>
   </url><url>
     <loc>//localhost:1313/relax-do-it/</loc>
   </url><url>
+    <loc>//localhost:1313/rustscan/</loc>
+  </url><url>
     <loc>//localhost:1313/scammed/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/shell/</loc>
   </url><url>
     <loc>//localhost:1313/staying-creative-and-connected/</loc>
   </url><url>
     <loc>//localhost:1313/todo-writing-check/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/tool/</loc>
   </url><url>
     <loc>//localhost:1313/you-dreamn/</loc>
   </url>
