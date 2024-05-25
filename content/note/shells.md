@@ -18,7 +18,7 @@ categories: shells # Homelab, Writeup, Personal
 tags:
     - shells
     - python
-    - full tty
+    - tty
 
 draft: false
 
