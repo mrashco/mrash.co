@@ -62,7 +62,8 @@ echo "alias rustscan='docker run -it --rm --name rustscan rustscan/rustscan:late
 # Rustscan Examples
 
 echo """ Some Rustscan Examples
-rustscan $ip -t 500 -b 1500 -- -A
+rustscan -a $ip -t 500 -b 1500 -- -A
+rustscan -a $ip -t 2000 -b 4500 --ulimit 5000
 rustscan -a $ip -g && rustscan $ports -- -sC -sV
 """
 

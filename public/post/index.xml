@@ -20,7 +20,7 @@
       <guid>//localhost:1313/rustscan/</guid>
       <description>Make sure you&amp;rsquo;ve Installed Docker.
 Here&amp;rsquo;s a bash script to automate the installation:
-#!/bin/bash sudo apt update sudo apt install -y docker.io sudo systemctl enable docker --now sudo usermod -aG docker $USER Thanks for reading</description>
+#!/bin/bash # Update, install and enable Docker sudo apt update -y &amp;amp;&amp;amp; sudo apt upgrade -y sudo apt install -y docker.io sudo systemctl enable docker --now # Add current use into docker group sudo usermod -aG docker $USER # Pull latest Rustscan docker pull rustscan/rustscan:latest # Create a ZSH Aliases File touch ~/.zsh_aliases # Add it to ZSH RC echo &amp;#34;&amp;#34;&amp;#34;if [ -f ~/.</description>
     </item>
     
     <item>
