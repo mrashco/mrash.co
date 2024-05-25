@@ -11,21 +11,23 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Dec 2023 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/docker/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker</title>
       <link>//localhost:1313/docker/</link>
-      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
       
       <guid>//localhost:1313/docker/</guid>
       <description>Let&amp;rsquo;s learn Docker and set it up.
-What&amp;rsquo;s Docker? Complicated haha!
+So what&amp;rsquo;s Docker?
+Well it&amp;rsquo;s complicated.
 It&amp;rsquo;s a way to install, maintain and run applications.
-But apps are self-contained, hence containers.
+But apps are self-contained, hence the term containers.
 Docker allows networking and lots more.
-How to setup Docker Best way is to follow the docs.
-Troubleshooting Docker You might see an error such as
-WARNING: Error loading config file: /root/.docker/config.json: read /root/.docker/config.json: is a directory For that, do the following from here:</description>
+Installing Docker Best way is to follow the docs.
+Kali Linux If you&amp;rsquo;re on Kali Linux, don&amp;rsquo;t follow the official guide.
+Go to Installing Docker on Kali Linux from Kali.org instead.
+sudo apt update sudo apt install -y docker.</description>
     </item>
     
     <item>

@@ -1,7 +1,7 @@
 ---
 title: "Docker"
-published: 2023-12-20
-lastUpdated: 2024-05-12
+published: 2024-05-24 # 2023-12-20
+#lastUpdated: 2024-05-12
 url: docker
 alias: # aliases for multiple
     - 

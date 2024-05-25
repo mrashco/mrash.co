@@ -11,7 +11,18 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 12:05:12 +1000</lastBuildDate><atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 25 May 2024 09:47:04 +1000</lastBuildDate><atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rustscan</title>
+      <link>//localhost:1313/rustscan/</link>
+      <pubDate>Sat, 25 May 2024 09:47:04 +1000</pubDate>
+      
+      <guid>//localhost:1313/rustscan/</guid>
+      <description>Make sure you&amp;rsquo;ve Installed Docker.
+Here&amp;rsquo;s a bash script to automate the installation:
+#!/bin/bash sudo apt update sudo apt install -y docker.io sudo systemctl enable docker --now sudo usermod -aG docker $USER Thanks for reading</description>
+    </item>
+    
     <item>
       <title>CyberLens TryHackMe Writeup</title>
       <link>//localhost:1313/cyberlens/</link>
@@ -22,6 +33,24 @@
 Anyway, here&amp;rsquo;s CyberLens, a newish TryHackMe room from Tyler Ramsbey who make&amp;rsquo;s great content, give them a follow/subscribe.
 The Challenge First up, the Challenge Description.
 Welcome to the clandestine world of CyberLens, where shadows dance amidst the digital domain and metadata reveals the secrets that lie concealed within every image.</description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>//localhost:1313/docker/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docker/</guid>
+      <description>Let&amp;rsquo;s learn Docker and set it up.
+So what&amp;rsquo;s Docker?
+Well it&amp;rsquo;s complicated.
+It&amp;rsquo;s a way to install, maintain and run applications.
+But apps are self-contained, hence the term containers.
+Docker allows networking and lots more.
+Installing Docker Best way is to follow the docs.
+Kali Linux If you&amp;rsquo;re on Kali Linux, don&amp;rsquo;t follow the official guide.
+Go to Installing Docker on Kali Linux from Kali.org instead.
+sudo apt update sudo apt install -y docker.</description>
     </item>
     
     <item>
@@ -36,22 +65,6 @@ If that means nothing to you, then it installs and updates apps. Cool? Cool.
 How to use winget Let&amp;rsquo;s install syncthing for this example.
 winget search sync displays a list of matches sync.
 Name Id Version Match Source--------------------------------------------------------------------syncthing Syncthing.Syncthing 1.27.0 wingetSyncTrayzor SyncTrayzor.SyncTrayzor 1.</description>
-    </item>
-    
-    <item>
-      <title>Docker</title>
-      <link>//localhost:1313/docker/</link>
-      <pubDate>Wed, 20 Dec 2023 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/docker/</guid>
-      <description>Let&amp;rsquo;s learn Docker and set it up.
-What&amp;rsquo;s Docker? Complicated haha!
-It&amp;rsquo;s a way to install, maintain and run applications.
-But apps are self-contained, hence containers.
-Docker allows networking and lots more.
-How to setup Docker Best way is to follow the docs.
-Troubleshooting Docker You might see an error such as
-WARNING: Error loading config file: /root/.docker/config.json: read /root/.docker/config.json: is a directory For that, do the following from here:</description>
     </item>
     
     <item>
