@@ -187,5 +187,14 @@ Plan the Program with Pseudocode Pseudocode is like a programmer’s brain dump.
 Write out a simple list of the steps this guessing game will go through.</description>
     </item>
     
+    <item>
+      <title>Shells</title>
+      <link>//localhost:1313/shells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/shells/</guid>
+      <description>python -c &amp;#34;import pty; pty.spawn(&amp;#39;/bin/bash&amp;#39;)&amp;#34; python3 -c &amp;#34;import pty; pty.spawn(&amp;#39;/bin/bash&amp;#39;)&amp;#34; /bin/sh -i [CTRL+Z] stty raw -ech;fg export TERM=xterm Thanks for reading</description>
+    </item>
+    
   </channel>
 </rss>

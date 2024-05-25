@@ -439,9 +439,17 @@
   </url><url>
     <loc>//localhost:1313/dilemma/</loc>
   </url><url>
+    <loc>//localhost:1313/categories/enum/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/enumeration/</loc>
+  </url><url>
+    <loc>//localhost:1313/enum/</loc>
+  </url><url>
     <loc>//localhost:1313/epic-outlook/</loc>
   </url><url>
     <loc>//localhost:1313/finance/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/full-tty/</loc>
   </url><url>
     <loc>//localhost:1313/get-help/</loc>
   </url><url>
@@ -467,6 +475,8 @@
   </url><url>
     <loc>//localhost:1313/lets-write/</loc>
   </url><url>
+    <loc>//localhost:1313/tags/linux-enum/</loc>
+  </url><url>
     <loc>//localhost:1313/looking-inward/</loc>
   </url><url>
     <loc>//localhost:1313/measuring-success/</loc>
@@ -479,6 +489,8 @@
   </url><url>
     <loc>//localhost:1313/put-yourself-out/</loc>
   </url><url>
+    <loc>//localhost:1313/tags/recon/</loc>
+  </url><url>
     <loc>//localhost:1313/relax-do-it/</loc>
   </url><url>
     <loc>//localhost:1313/rustscan/</loc>
@@ -487,11 +499,19 @@
   </url><url>
     <loc>//localhost:1313/categories/shell/</loc>
   </url><url>
+    <loc>//localhost:1313/tags/shells/</loc>
+  </url><url>
+    <loc>//localhost:1313/categories/shells/</loc>
+  </url><url>
+    <loc>//localhost:1313/shells/</loc>
+  </url><url>
     <loc>//localhost:1313/staying-creative-and-connected/</loc>
   </url><url>
     <loc>//localhost:1313/todo-writing-check/</loc>
   </url><url>
     <loc>//localhost:1313/categories/tool/</loc>
+  </url><url>
+    <loc>//localhost:1313/tags/windows-enum/</loc>
   </url><url>
     <loc>//localhost:1313/you-dreamn/</loc>
   </url>
