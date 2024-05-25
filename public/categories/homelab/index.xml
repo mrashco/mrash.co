@@ -11,18 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2024 09:47:04 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/homelab/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rustscan</title>
-      <link>//localhost:1313/rustscan/</link>
-      <pubDate>Sat, 25 May 2024 09:47:04 +1000</pubDate>
-      
-      <guid>//localhost:1313/rustscan/</guid>
-      <description>Make sure you&amp;rsquo;ve Installed Docker.
-Here&amp;rsquo;s a bash script to automate the installation:
-#!/bin/bash sudo apt update sudo apt install -y docker.io sudo systemctl enable docker --now sudo usermod -aG docker $USER Thanks for reading</description>
-    </item>
-    
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/homelab/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Docker</title>
       <link>//localhost:1313/docker/</link>

@@ -1,14 +1,14 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 published: {{ .Date }}
-lastUpdated: {{ .Date }}
-url:
+# lastUpdated: {{ .Date }}
+url: {{ .Name }}
 alias: # aliases for multiple
     - 
     - 
 
 cover:
-    image: "<image path/url>"
+    #image: "<image path/url>"
     # alt: "<alt text>"
     # caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
@@ -27,7 +27,7 @@ draft: false
 # searchHidden: true # Make false to hide page from search
 ---
 
-<!-- MAINCONTENT -->
+<!-- CONTENT HERE -->
 
 ---
 

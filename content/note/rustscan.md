@@ -1,6 +1,6 @@
 ---
 title: "Rustscan"
-published: 2024-05-25T09:47:04+10:00
+#published: 2024-05-25T09:47:04+10:00
 # lastUpdated: 2024-05-25T09:47:04+10:00
 url: rustscan
 alias: # aliases for multiple
@@ -8,13 +8,13 @@ alias: # aliases for multiple
     - 
 
 cover:
-    image: "<image path/url>"
+    #image: "<image path/url>"
     # alt: "<alt text>"
     # caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
-type: post # letter, note, page
-categories: Homelab # Homelab, Writeup, Personal
+type: note # letter, note, page
+categories: tool # Homelab, Writeup, Personal
 tags:
     - 
     - 
@@ -27,9 +27,9 @@ draft: false
 # searchHidden: true # Make false to hide page from search
 ---
 
-Make sure you've [Installed Docker](https://mrash.co/docker/).
+[Installing Docker](https://mrash.co/docker/).
 
-Here's a bash script to automate the installation:
+Bash script:
 
 ```bash
 #!/bin/bash

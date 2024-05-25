@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Tools on Mr Ash Co</title>
+    <link>//localhost:1313/categories/tools/</link>
+    <description>Recent content in Tools on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 25 May 2024 09:47:04 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/tools/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Rustscan</title>
+      <link>//localhost:1313/rustscan/</link>
+      <pubDate>Sat, 25 May 2024 09:47:04 +1000</pubDate>
+      
+      <guid>//localhost:1313/rustscan/</guid>
+      <description>Installing Docker.
+Bash script:
+#!/bin/bash # Update, install and enable Docker sudo apt update -y &amp;amp;&amp;amp; sudo apt upgrade -y sudo apt install -y docker.io sudo systemctl enable docker --now # Add current use into docker group sudo usermod -aG docker $USER # Pull latest Rustscan docker pull rustscan/rustscan:latest # Create a ZSH Aliases File touch ~/.zsh_aliases # Add it to ZSH RC echo &amp;#34;&amp;#34;&amp;#34;if [ -f ~/.zsh_aliases ]; then .</description>
+    </item>
+    
+  </channel>
+</rss>

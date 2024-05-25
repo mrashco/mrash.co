@@ -65,24 +65,26 @@ params:
     iconHeight: 35
 
   # profile-mode
-  profileMode:
-    enabled: false # needs to be explicitly set
-    title: "Mr Ash Co"
-    subtitle: "Curious about cybersec, python & hacking."
-    imageUrl: "https://p146.p4.n0.cdn.getcloudapp.com/items/Jrum0N6q/4ab8cbb7-d222-4c3c-963d-f0ec6c30568c.jpg?source=viewer&v=db94595858aad20b777e4f130cbe5006"
-    imageWidth: 120
-    imageHeight: 120
-    imageTitle: my image
-    buttons:
-      - name: Posts
-        url: posts
-      - name: Tags
-        url: tags
+  # profileMode:
+  #   enabled: false # needs to be explicitly set
+  #   title: "Mr Ash Co"
+  #   subtitle: "Curious about cybersec, python & hacking."
+  #   imageUrl: "https://p146.p4.n0.cdn.getcloudapp.com/items/Jrum0N6q/4ab8cbb7-d222-4c3c-963d-f0ec6c30568c.jpg?source=viewer&v=db94595858aad20b777e4f130cbe5006"
+  #   imageWidth: 120
+  #   imageHeight: 120
+  #   imageTitle: my image
+  #   buttons:
+  #     - name: Posts
+  #       url: posts
+  #     - name: Notes
+  #       url: notes
+  #     - name: Tags
+  #       url: tags
 
   # home-info mode
   homeInfoParams:
     Title: "CTF Writeups, Walkthroughs & Videos"
-    Content: Welcome to my blog for cybersec, python & hacking. Subscribe to my newsletter. {{< rawhtml >}}<br><br><div class="gist-embed-form" data-form-type="embedded" data-form-id="93692129" data-workspace-id="aw3xhcat" version=3></div><script type="text/javascript" src="https://forms-widget.getgist.com/" defer></script>{{< /rawhtml >}}
+    Content: Welcome to my blog for cybersec, python & hacking. Subscribe to my newsletter. Search (ALT+/) my site for notes, posts, and letters. {{< rawhtml >}}<br><br><div class="gist-embed-form" data-form-type="embedded" data-form-id="93692129" data-workspace-id="aw3xhcat" version=3></div><script type="text/javascript" src="https://forms-widget.getgist.com/" defer></script>{{< /rawhtml >}}
 
   socialIcons:
     - name: youtube
@@ -136,10 +138,14 @@ menu:
       name: posts
       url: /post
       weight: 20
+    - identifier: notes
+      name: notes
+      url: /note
+      weight: 30
     - identifier: letters
       name: letters
       url: /letter
-      weight: 30
+      weight: 40
     # - identifier: tags
     #   name: tags
     #   url: /tags/
