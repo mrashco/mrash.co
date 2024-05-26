@@ -29,10 +29,13 @@ TocOpen: false
 
 Quick guide for pentest CTFs like Boot2Roots.
 
-Links
-- [Alex Olsen AppSecExplained](https://appsecexplained.gitbook.io/appsecexplained)
+Wikis
 - [HackTricks](https://book.hacktricks.xyz/)
-- [Ryan Yager Overgrowncarrot1](https://overgrowncarrot1.medium.com)
+- [AppSecExplained](https://appsecexplained.gitbook.io/appsecexplained)
+- [Red Team Notes](https://www.ired.team/)
+
+Blogs
+- [Overgrowncarrot1](https://overgrowncarrot1.medium.com)
 
 ## Enumerate
 - Open ports? [rustscan](https://mrash.co/rustscan), nmap.

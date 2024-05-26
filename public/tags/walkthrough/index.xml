@@ -11,7 +11,24 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/walkthrough/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/walkthrough/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Network Services 2 TryHackMe Part 2 SMTP</title>
+      <link>//localhost:1313/network-services-2-tryhackme-part-2-smtp/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/network-services-2-tryhackme-part-2-smtp/</guid>
+      <description>Welcome back.
+We are going to be doing the restof Network services two.
+And this is now part two.
+We’re going on to SMTP.
+So we’re going to be doingtasks five, six and seven.
+And then we’ll be finishing off8910 eleven in the next video.
+If you want a written write up,the link will be below.
+And if you need anythingelse, please reach out.
+And if you want to like videosubscribe, do all that stuff.</description>
+    </item>
+    
     <item>
       <title>Agent Sudo TryHackMe Walkthrough</title>
       <link>//localhost:1313/agent-sudo/</link>

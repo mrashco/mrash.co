@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Project on Mr Ash Co</title>
+    <link>//localhost:1313/categories/project/</link>
+    <description>Recent content in Project on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 15 Dec 2023 15:47:45 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/project/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hack Notes</title>
+      <link>//localhost:1313/hacknotes/</link>
+      <pubDate>Fri, 15 Dec 2023 15:47:45 +1000</pubDate>
+      
+      <guid>//localhost:1313/hacknotes/</guid>
+      <description>🚩 A collection of notes, commands, &amp;amp; links to help w/ hacking &amp;amp; cybersec. Work in progress, please be patient while it’s updated.
+CyberChef // GTFOBins // HackTricks // RevShells // PayloadsAllTheThings
+🔥 Kill Chain General
+CTRL + SHIFT + UP|DOWN # scroll
+CTRL + SHIFT C|V # Copy|Paste
+nl # cat w/ line nums
+sed # stream editor
+ip= # set alias env var
+echo $ip # test alias</description>
+    </item>
+    
+  </channel>
+</rss>

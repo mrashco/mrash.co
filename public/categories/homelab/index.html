@@ -8,7 +8,19 @@ Docker allows networking and lots more.
 Installing Docker Best way is to follow the docs.
 Kali Linux If you’re on Kali Linux, don’t follow the official guide.
 Go to Installing Docker on Kali Linux from Kali.org instead.
-sudo apt update sudo apt install -y docker....</p></div><footer class=entry-footer><span title='2024-05-24 00:00:00 +0000 UTC'>24/05/2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;124 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Docker" href=//localhost:1313/docker/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src="https://images.unsplash.com/photo-1642176849879-92f85770f212?q=80&amp;w=1080&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Photo by Sunrise King on Unsplash"></figure><header class=entry-header><h2>Winget</h2></header><div class=entry-content><p>How to use winget for Windows 11.
+sudo apt update sudo apt install -y docker....</p></div><footer class=entry-footer><span title='2024-05-24 00:00:00 +0000 UTC'>24/05/2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;124 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Docker" href=//localhost:1313/docker/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src=//localhost:1313/%3Cimage%20path/url%3E alt></figure><header class=entry-header><h2>Syncthing<sup><span class=entry-isdraft>&nbsp;&nbsp;[draft]</span></sup></h2></header><div class=entry-content><p>Let’s install syncthing on Windows. Open Terminal > type winget install synctrayzor.
+This is a standalone app that just makes using syncthing more user friendly.
+Synctrayzor should be in your taskbar, click it to open the GUI.
+Go to Actions > Settings > Connections > Untick ‘Global Discovery’ and ‘Enable Relaying’.
+Thanks for reading</p></div><footer class=entry-footer><span title='2023-12-22 06:18:12 +1000 AEST'>22/12/2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;54 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Syncthing" href=//localhost:1313/syncthing/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src="https://i.imgur.com/REP8Ksb_d.webp?maxwidth=760&amp;fidelity=grand" alt="Generated with Microsoft's AI Image Creator"></figure><header class=entry-header><h2>Remote Desktop Protocol<sup><span class=entry-isdraft>&nbsp;&nbsp;[draft]</span></sup></h2></header><div class=entry-content><p>Let’s setup Remote Desktop Protocol on Ubuntu.
+Start with following this guide.
+Make sure you’re not logged in as the same user, thanks to this.
+If you’re using a laptop, thanks to this.
+sudo nano /etc/systemd/logind.conf HandleSuspendKey=ignore
+HandleHibernateKey=ignore
+HandleLidSwitch=ignore
+HandleLidSwitchExternalPower=ignore
+HandleLidSwitchDocked=ignore Thanks for reading</p></div><footer class=entry-footer><span title='2023-12-21 10:06:22 +1000 AEST'>21/12/2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;44 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Remote Desktop Protocol" href=//localhost:1313/rdp/></a></article><article class="post-entry tag-entry"><figure class=entry-cover><img loading=lazy src="https://images.unsplash.com/photo-1642176849879-92f85770f212?q=80&amp;w=1080&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Photo by Sunrise King on Unsplash"></figure><header class=entry-header><h2>Winget</h2></header><div class=entry-content><p>How to use winget for Windows 11.
 What is winget? It’s a package manager for Windows, like choco or apt for debian based linux distros.
 If that means nothing to you, then it installs and updates apps. Cool? Cool.
 How to use winget Let’s install syncthing for this example.

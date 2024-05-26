@@ -130,10 +130,10 @@ outputs:
       - JSON # is necessary
 menu:
   main:
-    # - identifier: now
-    #   name: now
-    #   url: now
-    #   weight: 10
+      # - identifier: now
+      #   name: now
+      #   url: now
+      #   weight: 10
     - identifier: post
       name: posts
       url: /post

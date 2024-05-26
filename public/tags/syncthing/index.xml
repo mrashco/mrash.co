@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Syncthing on Mr Ash Co</title>
+    <link>//localhost:1313/tags/syncthing/</link>
+    <description>Recent content in Syncthing on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 22 Dec 2023 06:18:12 +1000</lastBuildDate><atom:link href="//localhost:1313/tags/syncthing/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Syncthing</title>
+      <link>//localhost:1313/syncthing/</link>
+      <pubDate>Fri, 22 Dec 2023 06:18:12 +1000</pubDate>
+      
+      <guid>//localhost:1313/syncthing/</guid>
+      <description>Let&amp;rsquo;s install syncthing on Windows. Open Terminal &amp;gt; type winget install synctrayzor.
+This is a standalone app that just makes using syncthing more user friendly.
+Synctrayzor should be in your taskbar, click it to open the GUI.
+Go to Actions &amp;gt; Settings &amp;gt; Connections &amp;gt; Untick &amp;lsquo;Global Discovery&amp;rsquo; and &amp;lsquo;Enable Relaying&amp;rsquo;.
+Thanks for reading</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -11,7 +11,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 12:05:12 +1000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2024 17:13:48 +1000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative</title>
+      <link>//localhost:1313/creative/</link>
+      <pubDate>Sun, 26 May 2024 17:13:48 +1000</pubDate>
+      
+      <guid>//localhost:1313/creative/</guid>
+      <description>To try
+SQL Injection (SQLi) Cross-Site Scripting (XSS) &amp;lt;script&amp;gt; alert(&amp;quot;XSS&amp;quot;);&amp;lt;/script&amp;gt; Local File Inclusion (LFI) Remote File Inclusion (RFI) Server-Side Request Forgery (SSRF) Directory Traversal Command Injection http://example.com/ alert(&amp;ldquo;XSS&amp;rdquo;); # Made it hang for a while
+curl &amp;lsquo;http://beta.creative.thm/&#39; -X HEAD -H &amp;lsquo;Content-Type: application/x-www-form-urlencoded&amp;rsquo; &amp;ndash;data-raw &amp;lsquo;url=&amp;quot;&amp;quot;&amp;rsquo;
+curl &amp;lsquo;http://beta.creative.thm/&#39; -I
+Quick reverse connection test
+&amp;lt;img src=&amp;quot;http://$YOUR_IP/&amp;quot; /&amp;gt; nc -lnvp 80 Thanks for reading</description>
+    </item>
+    
     <item>
       <title>CyberLens TryHackMe Writeup</title>
       <link>//localhost:1313/cyberlens/</link>
@@ -40,6 +54,32 @@ Installing Docker Best way is to follow the docs.
 Kali Linux If you&amp;rsquo;re on Kali Linux, don&amp;rsquo;t follow the official guide.
 Go to Installing Docker on Kali Linux from Kali.org instead.
 sudo apt update sudo apt install -y docker.</description>
+    </item>
+    
+    <item>
+      <title>Syncthing</title>
+      <link>//localhost:1313/syncthing/</link>
+      <pubDate>Fri, 22 Dec 2023 06:18:12 +1000</pubDate>
+      
+      <guid>//localhost:1313/syncthing/</guid>
+      <description>Let&amp;rsquo;s install syncthing on Windows. Open Terminal &amp;gt; type winget install synctrayzor.
+This is a standalone app that just makes using syncthing more user friendly.
+Synctrayzor should be in your taskbar, click it to open the GUI.
+Go to Actions &amp;gt; Settings &amp;gt; Connections &amp;gt; Untick &amp;lsquo;Global Discovery&amp;rsquo; and &amp;lsquo;Enable Relaying&amp;rsquo;.
+Thanks for reading</description>
+    </item>
+    
+    <item>
+      <title>Remote Desktop Protocol</title>
+      <link>//localhost:1313/rdp/</link>
+      <pubDate>Thu, 21 Dec 2023 10:06:22 +1000</pubDate>
+      
+      <guid>//localhost:1313/rdp/</guid>
+      <description>Let&amp;rsquo;s setup Remote Desktop Protocol on Ubuntu.
+Start with following this guide.
+Make sure you&amp;rsquo;re not logged in as the same user, thanks to this.
+If you&amp;rsquo;re using a laptop, thanks to this.
+sudo nano /etc/systemd/logind.conf HandleSuspendKey=ignoreHandleHibernateKey=ignoreHandleLidSwitch=ignoreHandleLidSwitchExternalPower=ignoreHandleLidSwitchDocked=ignore Thanks for reading</description>
     </item>
     
     <item>
@@ -78,6 +118,23 @@ Previously, I&amp;rsquo;ve always used Kali Rolling inside of VirtualBox. But le
 Why? Mainly the boot times, slow browsing and general laggy annoyances.
 I want a fast, simple system without the need to boot a VM and deal with stutters.
 The thinking is, use Windows Subset for Linux (WSL) with headless Kali Linux.</description>
+    </item>
+    
+    <item>
+      <title>Hack Notes</title>
+      <link>//localhost:1313/hacknotes/</link>
+      <pubDate>Fri, 15 Dec 2023 15:47:45 +1000</pubDate>
+      
+      <guid>//localhost:1313/hacknotes/</guid>
+      <description>🚩 A collection of notes, commands, &amp;amp; links to help w/ hacking &amp;amp; cybersec. Work in progress, please be patient while it’s updated.
+CyberChef // GTFOBins // HackTricks // RevShells // PayloadsAllTheThings
+🔥 Kill Chain General
+CTRL + SHIFT + UP|DOWN # scroll
+CTRL + SHIFT C|V # Copy|Paste
+nl # cat w/ line nums
+sed # stream editor
+ip= # set alias env var
+echo $ip # test alias</description>
     </item>
     
     <item>
@@ -238,6 +295,40 @@ AFK Away From Keyboard (AFK), coined by PC gamers to quickly chat “I’m getti
       <description>ATTENTION! If you’d like to do the course yourself, join up using this link for FREE.
 And don’t forget to watch the video walkthrough.
 Welcome to your Intro to PyScript, a simple replit that teaches you the basics of the modern Python web dev technology. You’re going to set up your own simple HTML page with a linked Python program. You’ll enable PyScript, take user data, run it through your program and print it back out to the user.</description>
+    </item>
+    
+    <item>
+      <title>Network Services 2 P3 MySQL - TryHackMe Walkthrough</title>
+      <link>//localhost:1313/tyryhackme-network-services-2-p3-mysql/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tyryhackme-network-services-2-p3-mysql/</guid>
+      <description>Welcome back to another video.
+We are going to be doing Network Servicestwo, part three
+enumerating exploiting more commonnetwork Services and misconfigs.
+We’re up to task eight, nine and ten,
+and we’ll finish off with elevenrounding out this whole thing.
+Cool.
+All right, let’s start off with taskeight, understanding MySQL.
+Just before I do, got to remind you,
+if you want a written write up,you can catch the link to that below.</description>
+    </item>
+    
+    <item>
+      <title>Network Services 2 TryHackMe Part 2 SMTP</title>
+      <link>//localhost:1313/network-services-2-tryhackme-part-2-smtp/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/network-services-2-tryhackme-part-2-smtp/</guid>
+      <description>Welcome back.
+We are going to be doing the restof Network services two.
+And this is now part two.
+We’re going on to SMTP.
+So we’re going to be doingtasks five, six and seven.
+And then we’ll be finishing off8910 eleven in the next video.
+If you want a written write up,the link will be below.
+And if you need anythingelse, please reach out.
+And if you want to like videosubscribe, do all that stuff.</description>
     </item>
     
     <item>
@@ -873,6 +964,15 @@ I never understood business coaching, sports coaching makes sense though!</descr
     </item>
     
     <item>
+      <title>Bandit Level 10 &amp;#8211; 14</title>
+      <link>//localhost:1313/bandit-level-10-14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/bandit-level-10-14/</guid>
+      <description>Over The Wire’s Bandit is a Linux Capture The Flag that tests your hacking skills. In this video, we walk through Bandit levels 10 to 14. These are some of the more difficult levels, but our clear and concise explanations will help you get through them. By the end of this video, you’ll be one step closer to becoming a master hacker!</description>
+    </item>
+    
+    <item>
       <title>Beginner&#39;s Guide To Passive Investing 2023 Income, Tax, Super, Stocks and ETFs</title>
       <link>//localhost:1313/passive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -918,6 +1018,18 @@ Hacking, work-life and web design will be the three focus categories for blog p
       <description>Hi friend,
 We&amp;rsquo;ve passed 2022’s halfway point, how about a check-in? Let&amp;rsquo;s talk about goals, work, courses and current learning path. Disclaimer, this newsletter is from Mr Ash (that’s me), and you’re subscribed or downloaded a freebie. Read online or listen here, enjoy!
 Checking In, Halfway Point It&amp;rsquo;s been a good year so far, I completed TryHackMe’s Beginner Path and it spawned me starting up YouTube again. Let&amp;rsquo;s look at the Key Point Indicators (KPIs) in a bit more detail.</description>
+    </item>
+    
+    <item>
+      <title>Checklist</title>
+      <link>//localhost:1313/checklist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/checklist/</guid>
+      <description>Quick guide for pentest CTFs like Boot2Roots.
+Wikis
+HackTricks AppSecExplained Red Team Notes Blogs
+Overgrowncarrot1 Enumerate Open ports? rustscan, nmap. Running services? Version numbers? Operating System (Linux/Windows)? Domains? /etc/hosts Webserver (Apache/Ngnix)? Subdomins? DNS nslookup $domain dig -query=ANY $domain Common Files robots.txt sitemap.xml .htaccess security.txt manifest.json browserconfig.xml etc Thanks for reading</description>
     </item>
     
     <item>
@@ -1113,6 +1225,22 @@ My week feels long. Not sure why. It’s been full of family gatherings and time
 Can you believe it&amp;rsquo;s the end of 2020?
 I hope you&amp;rsquo;ve had a good week since we last spoke, for me, it&amp;rsquo;s been really nice as it&amp;rsquo;s the second week left of work for the year! Woo-hoo! Very excited for the holidays.
 My wife and I, with a few friends, managed to take a short trip to Rainbow Beach for a few days. If you&amp;rsquo;re ever in Queensland, make sure to visit the sand dunes called the “Blow Hole”, it&amp;rsquo;s incredible.</description>
+    </item>
+    
+    <item>
+      <title>Network Services 2 TryHackMe Part 1 NFS</title>
+      <link>//localhost:1313/thm-nfs-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/thm-nfs-1/</guid>
+      <description>Hello, welcome back.
+We are doing some more Trihack me
+walkthroughs and it’s goingto be Network services too.
+Put my phone on silent orat least turn it down.
+Today we’re going to be doing this roomand it reads enumerating and exploiting
+the more common networkservices and misconfigs.
+If you want to catch Network services one
+there will be a card popping up or a linkdescription in the description or</description>
     </item>
     
     <item>

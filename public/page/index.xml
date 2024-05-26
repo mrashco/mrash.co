@@ -12,5 +12,22 @@
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Fri, 15 Dec 2023 15:47:45 +1000</lastBuildDate><atom:link href="//localhost:1313/page/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hack Notes</title>
+      <link>//localhost:1313/hacknotes/</link>
+      <pubDate>Fri, 15 Dec 2023 15:47:45 +1000</pubDate>
+      
+      <guid>//localhost:1313/hacknotes/</guid>
+      <description>🚩 A collection of notes, commands, &amp;amp; links to help w/ hacking &amp;amp; cybersec. Work in progress, please be patient while it’s updated.
+CyberChef // GTFOBins // HackTricks // RevShells // PayloadsAllTheThings
+🔥 Kill Chain General
+CTRL + SHIFT + UP|DOWN # scroll
+CTRL + SHIFT C|V # Copy|Paste
+nl # cat w/ line nums
+sed # stream editor
+ip= # set alias env var
+echo $ip # test alias</description>
+    </item>
+    
   </channel>
 </rss>

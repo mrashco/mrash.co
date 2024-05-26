@@ -11,7 +11,21 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 24 May 2024 12:05:12 +1000</lastBuildDate><atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 26 May 2024 17:13:48 +1000</lastBuildDate><atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative</title>
+      <link>//localhost:1313/creative/</link>
+      <pubDate>Sun, 26 May 2024 17:13:48 +1000</pubDate>
+      
+      <guid>//localhost:1313/creative/</guid>
+      <description>To try
+SQL Injection (SQLi) Cross-Site Scripting (XSS) &amp;lt;script&amp;gt; alert(&amp;quot;XSS&amp;quot;);&amp;lt;/script&amp;gt; Local File Inclusion (LFI) Remote File Inclusion (RFI) Server-Side Request Forgery (SSRF) Directory Traversal Command Injection http://example.com/ alert(&amp;ldquo;XSS&amp;rdquo;); # Made it hang for a while
+curl &amp;lsquo;http://beta.creative.thm/&#39; -X HEAD -H &amp;lsquo;Content-Type: application/x-www-form-urlencoded&amp;rsquo; &amp;ndash;data-raw &amp;lsquo;url=&amp;quot;&amp;quot;&amp;rsquo;
+curl &amp;lsquo;http://beta.creative.thm/&#39; -I
+Quick reverse connection test &amp;lt;img src=&amp;quot;http://$YOUR_IP/&amp;quot; /&amp;gt; nc -lnvp 80
+Thanks for reading</description>
+    </item>
+    
     <item>
       <title>CyberLens TryHackMe Writeup</title>
       <link>//localhost:1313/cyberlens/</link>
@@ -40,6 +54,32 @@ Installing Docker Best way is to follow the docs.
 Kali Linux If you&amp;rsquo;re on Kali Linux, don&amp;rsquo;t follow the official guide.
 Go to Installing Docker on Kali Linux from Kali.org instead.
 sudo apt update sudo apt install -y docker.</description>
+    </item>
+    
+    <item>
+      <title>Syncthing</title>
+      <link>//localhost:1313/syncthing/</link>
+      <pubDate>Fri, 22 Dec 2023 06:18:12 +1000</pubDate>
+      
+      <guid>//localhost:1313/syncthing/</guid>
+      <description>Let&amp;rsquo;s install syncthing on Windows. Open Terminal &amp;gt; type winget install synctrayzor.
+This is a standalone app that just makes using syncthing more user friendly.
+Synctrayzor should be in your taskbar, click it to open the GUI.
+Go to Actions &amp;gt; Settings &amp;gt; Connections &amp;gt; Untick &amp;lsquo;Global Discovery&amp;rsquo; and &amp;lsquo;Enable Relaying&amp;rsquo;.
+Thanks for reading</description>
+    </item>
+    
+    <item>
+      <title>Remote Desktop Protocol</title>
+      <link>//localhost:1313/rdp/</link>
+      <pubDate>Thu, 21 Dec 2023 10:06:22 +1000</pubDate>
+      
+      <guid>//localhost:1313/rdp/</guid>
+      <description>Let&amp;rsquo;s setup Remote Desktop Protocol on Ubuntu.
+Start with following this guide.
+Make sure you&amp;rsquo;re not logged in as the same user, thanks to this.
+If you&amp;rsquo;re using a laptop, thanks to this.
+sudo nano /etc/systemd/logind.conf HandleSuspendKey=ignoreHandleHibernateKey=ignoreHandleLidSwitch=ignoreHandleLidSwitchExternalPower=ignoreHandleLidSwitchDocked=ignore Thanks for reading</description>
     </item>
     
     <item>
@@ -168,6 +208,40 @@ You’re here to either copy my answers OR learn. Can I ask you to please focus 
       <description>ATTENTION! If you’d like to do the course yourself, join up using this link for FREE.
 And don’t forget to watch the video walkthrough.
 Welcome to your Intro to PyScript, a simple replit that teaches you the basics of the modern Python web dev technology. You’re going to set up your own simple HTML page with a linked Python program. You’ll enable PyScript, take user data, run it through your program and print it back out to the user.</description>
+    </item>
+    
+    <item>
+      <title>Network Services 2 P3 MySQL - TryHackMe Walkthrough</title>
+      <link>//localhost:1313/tyryhackme-network-services-2-p3-mysql/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tyryhackme-network-services-2-p3-mysql/</guid>
+      <description>Welcome back to another video.
+We are going to be doing Network Servicestwo, part three
+enumerating exploiting more commonnetwork Services and misconfigs.
+We’re up to task eight, nine and ten,
+and we’ll finish off with elevenrounding out this whole thing.
+Cool.
+All right, let’s start off with taskeight, understanding MySQL.
+Just before I do, got to remind you,
+if you want a written write up,you can catch the link to that below.</description>
+    </item>
+    
+    <item>
+      <title>Network Services 2 TryHackMe Part 2 SMTP</title>
+      <link>//localhost:1313/network-services-2-tryhackme-part-2-smtp/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/network-services-2-tryhackme-part-2-smtp/</guid>
+      <description>Welcome back.
+We are going to be doing the restof Network services two.
+And this is now part two.
+We’re going on to SMTP.
+So we’re going to be doingtasks five, six and seven.
+And then we’ll be finishing off8910 eleven in the next video.
+If you want a written write up,the link will be below.
+And if you need anythingelse, please reach out.
+And if you want to like videosubscribe, do all that stuff.</description>
     </item>
     
     <item>
@@ -777,6 +851,15 @@ My Job as an IT Teacher 2019 was full of highlights like being featured in the c
     </item>
     
     <item>
+      <title>Bandit Level 10 &amp;#8211; 14</title>
+      <link>//localhost:1313/bandit-level-10-14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/bandit-level-10-14/</guid>
+      <description>Over The Wire’s Bandit is a Linux Capture The Flag that tests your hacking skills. In this video, we walk through Bandit levels 10 to 14. These are some of the more difficult levels, but our clear and concise explanations will help you get through them. By the end of this video, you’ll be one step closer to becoming a master hacker!</description>
+    </item>
+    
+    <item>
       <title>Beginner&#39;s Guide To Passive Investing 2023 Income, Tax, Super, Stocks and ETFs</title>
       <link>//localhost:1313/passive/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
@@ -808,6 +891,22 @@ Hi, my name&amp;rsquo;s Ash, I&amp;rsquo;m 27 and a cyber security enthusiast sh
       <guid>//localhost:1313/learn-cyber/</guid>
       <description>Let&amp;rsquo;s look back at the last 31 days, discuss the best way to learn cyber security and I’ll share a new project I’m working on. Disclaimer, you’ve received this newsletter as you subscribed to Mr Ash .co.
 the BEST way to learn CyberSec?! If you want into CyberSec then get into Capture The Flags (CTFs), simple. CTFs are gamified learning, I mean, why do people spend so many hours playing video games?</description>
+    </item>
+    
+    <item>
+      <title>Network Services 2 TryHackMe Part 1 NFS</title>
+      <link>//localhost:1313/thm-nfs-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/thm-nfs-1/</guid>
+      <description>Hello, welcome back.
+We are doing some more Trihack me
+walkthroughs and it’s goingto be Network services too.
+Put my phone on silent orat least turn it down.
+Today we’re going to be doing this roomand it reads enumerating and exploiting
+the more common networkservices and misconfigs.
+If you want to catch Network services one
+there will be a card popping up or a linkdescription in the description or</description>
     </item>
     
   </channel>
