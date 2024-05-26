@@ -247,8 +247,17 @@ I went down a few Rabbit Holes:
 - I thought I found a **Windows 17763** exploit on **exploit.db**... nope. 
 - Then I followed [Windows 11 Privilege Escalation via UAC Bypass (GUI based)](https://www.pwndefend.com/2021/08/23/windows-11-privilege-escalation-via-uac-bypass-gui-based/)... again, nope.
 
-With more Linux priv esc experience, this was a good room for me.
+Since I have more Linux priv esc experience, this was a good room for me. I need to sharpen my Windows priv esc skills up, a lot.
 
----
+Some key takeaways:
+- Metasploit makes things easier. It'd be good to do this room again without using it though. Push myself a bit.
+- Research is king. I spent more time reading up about services and vulnerabilities. Even though I went down rabbit holes, I learner more.
+- Stay calm and take breaks. I've rushed rooms to push content out in the past. Instead I took my time and just focused on learning.
 
-Thanks for reading
+Thanks again to Tyler and TryHackMe. 
+
+I'm already on my next room.
+
+Subscribe to the (not so) Monthly Monitor below.
+
+Thanks for reading.
