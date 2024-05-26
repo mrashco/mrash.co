@@ -14,7 +14,7 @@ cover:
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
 type: note # letter, note, page
-categories: Homelab # Homelab, Writeup, Personal
+categories: # Homelab, Writeup, Personal
 tags:
     - 
     - 
@@ -30,8 +30,9 @@ TocOpen: false
 Quick guide for pentest CTFs like Boot2Roots.
 
 Links
-- [AppSecExplained](https://appsecexplained.gitbook.io/appsecexplained)
+- [Alex Olsen AppSecExplained](https://appsecexplained.gitbook.io/appsecexplained)
 - [HackTricks](https://book.hacktricks.xyz/)
+- [Ryan Yager Overgrowncarrot1](https://overgrowncarrot1.medium.com)
 
 ## Enumerate
 - Open ports? [rustscan](https://mrash.co/rustscan), nmap.
