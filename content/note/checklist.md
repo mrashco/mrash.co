@@ -42,7 +42,7 @@ Blogs
 ## Enumerate
 - Open ports? [rustscan](https://mrash.co/rustscan), nmap.
 - Running services? 
-- Version numbers?
+- Version numbers?  
 - Operating System (Linux/Windows)?
 - Domains? `/etc/hosts`
 - Webserver (Apache/Ngnix)?

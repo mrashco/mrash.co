@@ -18,6 +18,7 @@
       
       <guid>//localhost:1313/checklist/</guid>
       <description>Quick guide for pentest CTFs like Boot2Roots.
+Methodology: identify problem(s), gather info, analyze clues, test/iterate/repeat, and avoid common mistakes.
 Wikis
 HackTricks AppSecExplained Red Team Notes Blogs
 Overgrowncarrot1 Enumerate Open ports? rustscan, nmap. Running services? Version numbers? Operating System (Linux/Windows)? Domains? /etc/hosts Webserver (Apache/Ngnix)? Subdomins? DNS nslookup $domain dig -query=ANY $domain Common Files robots.txt sitemap.xml .htaccess security.txt manifest.json browserconfig.xml etc Thanks for reading</description>
