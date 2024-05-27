@@ -29,6 +29,8 @@ TocOpen: false
 
 Quick guide for pentest CTFs like Boot2Roots.
 
+Methodology: identify problem(s), gather info, analyze clues, test/iterate/repeat, and avoid common mistakes.
+
 Wikis
 - [HackTricks](https://book.hacktricks.xyz/)
 - [AppSecExplained](https://appsecexplained.gitbook.io/appsecexplained)
