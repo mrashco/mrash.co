@@ -1,6 +1,6 @@
 ---
 title: "Syncthing"
-published: 2024-05-31T17:37:36+10:00
+# published: 2024-05-31T17:37:36+10:00
 # lastUpdated: 2024-05-31T17:37:36+10:00
 url: syncthing
 alias: # aliases for multiple
