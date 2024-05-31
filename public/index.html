@@ -6,7 +6,12 @@ And two flags like usual, user and root.
 Okay, let’s get into it.
 Enumeration We know we’re starting with a web application.
 But like usual, let’s scan for open ports and services.
-Quick rustscan shows SSH on 22, and HTTP on port 80....</p></div><footer class=entry-footer><span title='2024-05-27 16:42:31 +1000 AEST'>27/05/2024</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;231 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Creative" href=//localhost:1313/creative/></a></article><article class=post-entry><figure class=entry-cover><img loading=lazy src="https://i.imgur.com/zfu4dRJ_d.webp?maxwidth=1520&amp;fidelity=grand" alt></figure><header class=entry-header><h2>CyberLens TryHackMe Writeup</h2></header><div class=entry-content><p>Okay, it’s been a while. Last writeup on the blog is Chill Hack… but she (and other writeups) need a refresher.
+Quick rustscan shows SSH on 22, and HTTP on port 80....</p></div><footer class=entry-footer><span title='2024-05-27 16:42:31 +1000 AEST'>27/05/2024</span>&nbsp;·&nbsp;2 min&nbsp;·&nbsp;231 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Creative" href=//localhost:1313/creative/></a></article><article class=post-entry><header class=entry-header><h2>Creative<sup><span class=entry-isdraft>&nbsp;&nbsp;[draft]</span></sup></h2></header><div class=entry-content><p>To try
+SQL Injection (SQLi) Cross-Site Scripting (XSS) &lt;script> alert("XSS");&lt;/script> Local File Inclusion (LFI) Remote File Inclusion (RFI) Server-Side Request Forgery (SSRF) Directory Traversal Command Injection http://example.com/ alert(“XSS”); # Made it hang for a while
+curl ‘http://beta.creative.thm/' -X HEAD -H ‘Content-Type: application/x-www-form-urlencoded’ –data-raw ‘url=""’
+curl ‘http://beta.creative.thm/' -I
+Quick reverse connection test
+&lt;img src="http://$YOUR_IP/" /> nc -lnvp 80 Thanks for reading</p></div><footer class=entry-footer><span title='2024-05-26 17:13:48 +1000 AEST'>26/05/2024</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;60 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Creative" href=//localhost:1313/creative/></a></article><article class=post-entry><figure class=entry-cover><img loading=lazy src="https://i.imgur.com/zfu4dRJ_d.webp?maxwidth=1520&amp;fidelity=grand" alt></figure><header class=entry-header><h2>CyberLens TryHackMe Writeup</h2></header><div class=entry-content><p>Okay, it’s been a while. Last writeup on the blog is Chill Hack… but she (and other writeups) need a refresher.
 Anyway, here’s CyberLens, a newish TryHackMe room from Tyler Ramsbey who make’s great content, give them a follow/subscribe.
 The Challenge First up, the Challenge Description.
 Welcome to the clandestine world of CyberLens, where shadows dance amidst the digital domain and metadata reveals the secrets that lie concealed within every image....</p></div><footer class=entry-footer><span title='2024-05-24 12:05:12 +1000 AEST'>24/05/2024</span>&nbsp;·&nbsp;6 min&nbsp;·&nbsp;1266 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to CyberLens TryHackMe Writeup" href=//localhost:1313/cyberlens/></a></article><article class=post-entry><figure class=entry-cover><img loading=lazy src="https://images.unsplash.com/photo-1568430462989-44163eb1752f?q=80&amp;w=1080&amp;auto=format&amp;fit=crop&amp;ixlib=rb-4.0.3&amp;ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Photo by Todd Cravens on Unsplash"></figure><header class=entry-header><h2>Docker</h2></header><div class=entry-content><p>Let’s learn Docker and set it up.
@@ -22,15 +27,7 @@ sudo apt update sudo apt install -y docker....</p></div><footer class=entry-foot
 This is a standalone app that just makes using syncthing more user friendly.
 Synctrayzor should be in your taskbar, click it to open the GUI.
 Go to Actions > Settings > Connections > Untick ‘Global Discovery’ and ‘Enable Relaying’.
-Thanks for reading</p></div><footer class=entry-footer><span title='2023-12-22 06:18:12 +1000 AEST'>22/12/2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;54 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Syncthing" href=//localhost:1313/syncthing/></a></article><article class=post-entry><figure class=entry-cover><img loading=lazy src="https://i.imgur.com/REP8Ksb_d.webp?maxwidth=760&amp;fidelity=grand" alt="Generated with Microsoft's AI Image Creator"></figure><header class=entry-header><h2>Remote Desktop Protocol<sup><span class=entry-isdraft>&nbsp;&nbsp;[draft]</span></sup></h2></header><div class=entry-content><p>Let’s setup Remote Desktop Protocol on Ubuntu.
-Start with following this guide.
-Make sure you’re not logged in as the same user, thanks to this.
-If you’re using a laptop, thanks to this.
-sudo nano /etc/systemd/logind.conf HandleSuspendKey=ignore
-HandleHibernateKey=ignore
-HandleLidSwitch=ignore
-HandleLidSwitchExternalPower=ignore
-HandleLidSwitchDocked=ignore Thanks for reading</p></div><footer class=entry-footer><span title='2023-12-21 10:06:22 +1000 AEST'>21/12/2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;44 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Remote Desktop Protocol" href=//localhost:1313/rdp/></a></article><footer class=page-footer><nav class=pagination><a class=next href=//localhost:1313/page/2/>Next&nbsp;&nbsp;»</a></nav></footer></main><footer class=footer><span>Made with ♥ from Australia</span> •
+Thanks for reading</p></div><footer class=entry-footer><span title='2023-12-22 06:18:12 +1000 AEST'>22/12/2023</span>&nbsp;·&nbsp;1 min&nbsp;·&nbsp;54 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Syncthing" href=//localhost:1313/syncthing/></a></article><footer class=page-footer><nav class=pagination><a class=next href=//localhost:1313/page/2/>Next&nbsp;&nbsp;»</a></nav></footer></main><footer class=footer><span>Made with ♥ from Australia</span> •
 <span>&copy; 2017-2024 <a href=/policies>Policies</a><br>Site by <a href=//localhost:1313/>Mr Ash Co</a></span>
 <span>• Powered by
 <a href=https://gohugo.io/ rel="noopener noreferrer" target=_blank>Hugo</a>

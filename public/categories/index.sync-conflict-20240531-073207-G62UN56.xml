@@ -1,0 +1,223 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on Mr Ash Co</title>
+    <link>//localhost:1313/categories/</link>
+    <description>Recent content in Categories on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 26 May 2024 17:13:48 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Writeup</title>
+      <link>//localhost:1313/categories/writeup/</link>
+      <pubDate>Sun, 26 May 2024 17:13:48 +1000</pubDate>
+      
+      <guid>//localhost:1313/categories/writeup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Homelab</title>
+      <link>//localhost:1313/categories/homelab/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/homelab/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Setup</title>
+      <link>//localhost:1313/categories/setup/</link>
+      <pubDate>Fri, 15 Dec 2023 19:53:10 +1000</pubDate>
+      
+      <guid>//localhost:1313/categories/setup/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Project</title>
+      <link>//localhost:1313/categories/project/</link>
+      <pubDate>Fri, 15 Dec 2023 15:47:45 +1000</pubDate>
+      
+      <guid>//localhost:1313/categories/project/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Code</title>
+      <link>//localhost:1313/categories/code/</link>
+      <pubDate>Fri, 15 Dec 2023 11:51:09 +1000</pubDate>
+      
+      <guid>//localhost:1313/categories/code/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Page</title>
+      <link>//localhost:1313/categories/page/</link>
+      <pubDate>Sun, 03 Dec 2023 18:47:12 +1000</pubDate>
+      
+      <guid>//localhost:1313/categories/page/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Letter</title>
+      <link>//localhost:1313/categories/letter/</link>
+      <pubDate>Wed, 01 Mar 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/letter/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Personal</title>
+      <link>//localhost:1313/categories/personal/</link>
+      <pubDate>Thu, 19 Jan 2023 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/personal/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Cyber</title>
+      <link>//localhost:1313/categories/cyber/</link>
+      <pubDate>Sat, 22 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/cyber/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Hacking</title>
+      <link>//localhost:1313/categories/hacking/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Programming</title>
+      <link>//localhost:1313/categories/programming/</link>
+      <pubDate>Thu, 28 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[&#39;Hacking&#39;]</title>
+      <link>//localhost:1313/categories/hacking/</link>
+      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/hacking/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Post</title>
+      <link>//localhost:1313/categories/post/</link>
+      <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/post/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Web</title>
+      <link>//localhost:1313/categories/web/</link>
+      <pubDate>Thu, 21 Apr 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/web/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Note</title>
+      <link>//localhost:1313/categories/note/</link>
+      <pubDate>Sat, 12 Mar 2022 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/note/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Work-Life</title>
+      <link>//localhost:1313/categories/work-life/</link>
+      <pubDate>Wed, 13 Oct 2021 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/work-life/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Other</title>
+      <link>//localhost:1313/categories/other/</link>
+      <pubDate>Fri, 22 May 2020 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/other/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>[&#39;Linux&#39;]</title>
+      <link>//localhost:1313/categories/linux/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Enum</title>
+      <link>//localhost:1313/categories/enum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/enum/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Language</title>
+      <link>//localhost:1313/categories/language/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/language/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shell</title>
+      <link>//localhost:1313/categories/shell/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/shell/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Shells</title>
+      <link>//localhost:1313/categories/shells/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/shells/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tool</title>
+      <link>//localhost:1313/categories/tool/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/categories/tool/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

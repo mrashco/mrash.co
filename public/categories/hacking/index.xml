@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>[&#39;Hacking&#39;] on Mr Ash Co</title>
+    <title>Hacking on Mr Ash Co</title>
     <link>//localhost:1313/categories/hacking/</link>
-    <description>Recent content in [&#39;Hacking&#39;] on Mr Ash Co</description>
+    <description>Recent content in Hacking on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
       <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,22 +11,19 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 19 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/hacking/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 17 Oct 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/categories/hacking/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Network Services 2 P3 MySQL - TryHackMe Walkthrough</title>
-      <link>//localhost:1313/tyryhackme-network-services-2-p3-mysql/</link>
-      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
+      <title>100 Days Of Hacking</title>
+      <link>//localhost:1313/100daysofhacking/</link>
+      <pubDate>Mon, 17 Oct 2022 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/tyryhackme-network-services-2-p3-mysql/</guid>
-      <description>Welcome back to another video.
-We are going to be doing Network Servicestwo, part three
-enumerating exploiting more commonnetwork Services and misconfigs.
-We’re up to task eight, nine and ten,
-and we’ll finish off with elevenrounding out this whole thing.
-Cool.
-All right, let’s start off with taskeight, understanding MySQL.
-Just before I do, got to remind you,
-if you want a written write up,you can catch the link to that below.</description>
+      <guid>//localhost:1313/100daysofhacking/</guid>
+      <description>Programming, terminals, networking, and pen testing. There’s a lot to love in computer hacking.
+Are you learning to hack?
+Maybe you’ve started but can’t keep motivated or you might not know where to start, let’s fix that!
+Here’s 100 days of hacking, a flexible learning path to keep you on track.
+Are you in? Yes, good, let’s go!
+*Disclaimer, this is designed for self-paced learning and uses multiple resources from various creators.</description>
     </item>
     
   </channel>
