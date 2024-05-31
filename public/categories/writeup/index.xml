@@ -11,45 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 May 2024 16:42:31 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/writeup/index.xml" rel="self" type="application/rss+xml" />
-    <item>
-      <title>Creative</title>
-      <link>//localhost:1313/creative/</link>
-      <pubDate>Mon, 27 May 2024 16:42:31 +1000</pubDate>
-      
-      <guid>//localhost:1313/creative/</guid>
-      <description>Let&amp;rsquo;s get creative!
-Here&amp;rsquo;s my writeup for the TryHackMe challenge, Creative.
-The Challenge A simple description Exploit a vulnerable web application and some misconfigurations to gain root privileges.
-And two flags like usual, user and root.
-Okay, let&amp;rsquo;s get into it.
-Enumeration We know we&amp;rsquo;re starting with a web application.
-But like usual, let&amp;rsquo;s scan for open ports and services.
-Quick rustscan shows SSH on 22, and HTTP on port 80.</description>
-    </item>
-    
-    <item>
-      <title>Creative</title>
-      <link>//localhost:1313/creative/</link>
-      <pubDate>Sun, 26 May 2024 17:13:48 +1000</pubDate>
-      
-      <guid>//localhost:1313/creative/</guid>
-      <description>To try
-SQL Injection (SQLi) Cross-Site Scripting (XSS) &amp;lt;script&amp;gt; alert(&amp;quot;XSS&amp;quot;);&amp;lt;/script&amp;gt; Local File Inclusion (LFI) Remote File Inclusion (RFI) Server-Side Request Forgery (SSRF) Directory Traversal Command Injection http://example.com/ alert(&amp;ldquo;XSS&amp;rdquo;); # Made it hang for a while
-curl &amp;lsquo;http://beta.creative.thm/&#39; -X HEAD -H &amp;lsquo;Content-Type: application/x-www-form-urlencoded&amp;rsquo; &amp;ndash;data-raw &amp;lsquo;url=&amp;quot;&amp;quot;&amp;rsquo;
-curl &amp;lsquo;http://beta.creative.thm/&#39; -I
-Quick reverse connection test
-&amp;lt;img src=&amp;quot;http://$YOUR_IP/&amp;quot; /&amp;gt; nc -lnvp 80 Thanks for reading</description>
-    </item>
-    
+    <lastBuildDate>Fri, 24 May 2024 12:05:12 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/writeup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CyberLens TryHackMe Writeup</title>
       <link>//localhost:1313/cyberlens/</link>
       <pubDate>Fri, 24 May 2024 12:05:12 +1000</pubDate>
       
       <guid>//localhost:1313/cyberlens/</guid>
-      <description>Okay, it&amp;rsquo;s been a while. Last writeup on the blog is Chill Hack&amp;hellip; but she (and other writeups) need a refresher.
+      <description>Okay, it&amp;rsquo;s been a while. Last writeup on the blog was Chill Hack&amp;hellip; but she (and others) need refreshers.
 Anyway, here&amp;rsquo;s CyberLens, a newish TryHackMe room from Tyler Ramsbey who make&amp;rsquo;s great content, give them a follow/subscribe.
+PS - I&amp;rsquo;ve got a video walkthrough if you want.
 The Challenge First up, the Challenge Description.
 Welcome to the clandestine world of CyberLens, where shadows dance amidst the digital domain and metadata reveals the secrets that lie concealed within every image.</description>
     </item>

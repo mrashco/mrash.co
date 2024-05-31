@@ -41,5 +41,14 @@ getconf LONG_BIT check for 32bit or 64bit. cat /etc/os-release check the version
 E: Package &amp;#39;docker-ce&amp;#39; has no installation candidateE: Unable to locate package docker-ce-cliE: Unable to locate package containerd.ioE: Couldn&amp;#39;t find any package by glob &amp;#39;containerd.io&amp;#39;E: Couldn&amp;#39;t find any package by regex &amp;#39;containerd.io&amp;#39;E: Unable to locate package docker-buildx-pluginE: Unable to locate package docker-compose-**plugin** Switch over to this guide to manually install docker with the deb files.</description>
     </item>
     
+    <item>
+      <title>Syncthing</title>
+      <link>//localhost:1313/syncthing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/syncthing/</guid>
+      <description>rm -rf /media/$USER/$DRIVE/config/ Thanks for reading</description>
+    </item>
+    
   </channel>
 </rss>

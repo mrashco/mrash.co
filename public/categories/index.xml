@@ -11,11 +11,11 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 27 May 2024 16:42:31 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 12:05:12 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Writeup</title>
       <link>//localhost:1313/categories/writeup/</link>
-      <pubDate>Mon, 27 May 2024 16:42:31 +1000</pubDate>
+      <pubDate>Fri, 24 May 2024 12:05:12 +1000</pubDate>
       
       <guid>//localhost:1313/categories/writeup/</guid>
       <description></description>
@@ -36,15 +36,6 @@
       <pubDate>Fri, 15 Dec 2023 19:53:10 +1000</pubDate>
       
       <guid>//localhost:1313/categories/setup/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Project</title>
-      <link>//localhost:1313/categories/project/</link>
-      <pubDate>Fri, 15 Dec 2023 15:47:45 +1000</pubDate>
-      
-      <guid>//localhost:1313/categories/project/</guid>
       <description></description>
     </item>
     
@@ -112,15 +103,6 @@
     </item>
     
     <item>
-      <title>[&#39;Hacking&#39;]</title>
-      <link>//localhost:1313/categories/hacking/</link>
-      <pubDate>Tue, 19 Jul 2022 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/categories/hacking/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Post</title>
       <link>//localhost:1313/categories/post/</link>
       <pubDate>Sun, 17 Jul 2022 00:00:00 +0000</pubDate>
@@ -166,11 +148,11 @@
     </item>
     
     <item>
-      <title>[&#39;Linux&#39;]</title>
-      <link>//localhost:1313/categories/linux/</link>
+      <title>Docker</title>
+      <link>//localhost:1313/categories/docker/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>//localhost:1313/categories/linux/</guid>
+      <guid>//localhost:1313/categories/docker/</guid>
       <description></description>
     </item>
     

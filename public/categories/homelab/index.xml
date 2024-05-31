@@ -31,32 +31,6 @@ sudo apt update sudo apt install -y docker.</description>
     </item>
     
     <item>
-      <title>Syncthing</title>
-      <link>//localhost:1313/syncthing/</link>
-      <pubDate>Fri, 22 Dec 2023 06:18:12 +1000</pubDate>
-      
-      <guid>//localhost:1313/syncthing/</guid>
-      <description>Let&amp;rsquo;s install syncthing on Windows. Open Terminal &amp;gt; type winget install synctrayzor.
-This is a standalone app that just makes using syncthing more user friendly.
-Synctrayzor should be in your taskbar, click it to open the GUI.
-Go to Actions &amp;gt; Settings &amp;gt; Connections &amp;gt; Untick &amp;lsquo;Global Discovery&amp;rsquo; and &amp;lsquo;Enable Relaying&amp;rsquo;.
-Thanks for reading</description>
-    </item>
-    
-    <item>
-      <title>Remote Desktop Protocol</title>
-      <link>//localhost:1313/rdp/</link>
-      <pubDate>Thu, 21 Dec 2023 10:06:22 +1000</pubDate>
-      
-      <guid>//localhost:1313/rdp/</guid>
-      <description>Let&amp;rsquo;s setup Remote Desktop Protocol on Ubuntu.
-Start with following this guide.
-Make sure you&amp;rsquo;re not logged in as the same user, thanks to this.
-If you&amp;rsquo;re using a laptop, thanks to this.
-sudo nano /etc/systemd/logind.conf HandleSuspendKey=ignoreHandleHibernateKey=ignoreHandleLidSwitch=ignoreHandleLidSwitchExternalPower=ignoreHandleLidSwitchDocked=ignore Thanks for reading</description>
-    </item>
-    
-    <item>
       <title>Winget</title>
       <link>//localhost:1313/winget/</link>
       <pubDate>Wed, 20 Dec 2023 11:06:47 +1000</pubDate>

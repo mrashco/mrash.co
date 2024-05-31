@@ -2,529 +2,529 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>/</loc>
+    <loc>//localhost:1313/</loc>
     <lastmod>2024-05-27T16:42:31+10:00</lastmod>
   </url><url>
-    <loc>/post/</loc>
+    <loc>//localhost:1313/post/</loc>
     <lastmod>2024-05-27T16:42:31+10:00</lastmod>
   </url><url>
-    <loc>/categories/</loc>
+    <loc>//localhost:1313/categories/</loc>
     <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
-    <loc>/cyberlens/</loc>
+    <loc>//localhost:1313/cyberlens/</loc>
     <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
-    <loc>/tags/</loc>
+    <loc>//localhost:1313/tags/</loc>
     <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
-    <loc>/tags/tryhackme/</loc>
+    <loc>//localhost:1313/tags/tryhackme/</loc>
     <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
-    <loc>/tags/writeup/</loc>
+    <loc>//localhost:1313/tags/writeup/</loc>
     <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
-    <loc>/categories/writeup/</loc>
+    <loc>//localhost:1313/categories/writeup/</loc>
     <lastmod>2024-05-24T12:05:12+10:00</lastmod>
   </url><url>
-    <loc>/tags/docker/</loc>
+    <loc>//localhost:1313/tags/docker/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/docker/</loc>
+    <loc>//localhost:1313/docker/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/homelab/</loc>
+    <loc>//localhost:1313/tags/homelab/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/homelab/</loc>
+    <loc>//localhost:1313/categories/homelab/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/kali-linux/</loc>
+    <loc>//localhost:1313/tags/kali-linux/</loc>
     <lastmod>2024-05-24T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/windows/</loc>
+    <loc>//localhost:1313/tags/windows/</loc>
     <lastmod>2023-12-20T11:06:47+10:00</lastmod>
   </url><url>
-    <loc>/winget/</loc>
+    <loc>//localhost:1313/winget/</loc>
     <lastmod>2023-12-20T11:06:47+10:00</lastmod>
   </url><url>
-    <loc>/pihole/</loc>
+    <loc>//localhost:1313/pihole/</loc>
     <lastmod>2023-12-18T12:09:01+10:00</lastmod>
   </url><url>
-    <loc>/tags/pihole/</loc>
+    <loc>//localhost:1313/tags/pihole/</loc>
     <lastmod>2023-12-18T12:09:01+10:00</lastmod>
   </url><url>
-    <loc>/hack-box/</loc>
+    <loc>//localhost:1313/hack-box/</loc>
     <lastmod>2023-12-15T19:53:10+10:00</lastmod>
   </url><url>
-    <loc>/tags/kali/</loc>
+    <loc>//localhost:1313/tags/kali/</loc>
     <lastmod>2023-12-15T19:53:10+10:00</lastmod>
   </url><url>
-    <loc>/tags/setup/</loc>
+    <loc>//localhost:1313/tags/setup/</loc>
     <lastmod>2023-12-15T19:53:10+10:00</lastmod>
   </url><url>
-    <loc>/categories/setup/</loc>
+    <loc>//localhost:1313/categories/setup/</loc>
     <lastmod>2023-12-15T19:53:10+10:00</lastmod>
   </url><url>
-    <loc>/tags/wsl/</loc>
+    <loc>//localhost:1313/tags/wsl/</loc>
     <lastmod>2023-12-15T19:53:10+10:00</lastmod>
   </url><url>
-    <loc>/page/</loc>
+    <loc>//localhost:1313/page/</loc>
     <lastmod>2023-12-15T15:47:45+10:00</lastmod>
   </url><url>
-    <loc>/tags/code/</loc>
+    <loc>//localhost:1313/tags/code/</loc>
     <lastmod>2023-12-15T11:51:09+10:00</lastmod>
   </url><url>
-    <loc>/categories/code/</loc>
+    <loc>//localhost:1313/categories/code/</loc>
     <lastmod>2023-12-15T11:51:09+10:00</lastmod>
   </url><url>
-    <loc>/tags/git/</loc>
+    <loc>//localhost:1313/tags/git/</loc>
     <lastmod>2023-12-15T11:51:09+10:00</lastmod>
   </url><url>
-    <loc>/git/</loc>
+    <loc>//localhost:1313/git/</loc>
     <lastmod>2023-12-15T11:51:09+10:00</lastmod>
   </url><url>
-    <loc>/chill-hack/</loc>
+    <loc>//localhost:1313/chill-hack/</loc>
     <lastmod>2023-12-08T05:23:04+10:00</lastmod>
   </url><url>
-    <loc>/tags/boot2root/</loc>
+    <loc>//localhost:1313/tags/boot2root/</loc>
     <lastmod>2023-12-08T04:52:51+10:00</lastmod>
   </url><url>
-    <loc>/opacity/</loc>
+    <loc>//localhost:1313/opacity/</loc>
     <lastmod>2023-12-08T04:52:51+10:00</lastmod>
   </url><url>
-    <loc>/policies/</loc>
+    <loc>//localhost:1313/policies/</loc>
     <lastmod>2023-12-06T22:55:41+10:00</lastmod>
   </url><url>
-    <loc>/blog/</loc>
+    <loc>//localhost:1313/blog/</loc>
     <lastmod>2023-12-03T19:04:07+10:00</lastmod>
   </url><url>
-    <loc>/search/</loc>
+    <loc>//localhost:1313/search/</loc>
     <lastmod>2023-12-03T19:04:07+10:00</lastmod>
   </url><url>
-    <loc>/now/</loc>
+    <loc>//localhost:1313/now/</loc>
     <lastmod>2023-12-03T18:47:12+10:00</lastmod>
   </url><url>
-    <loc>/categories/page/</loc>
+    <loc>//localhost:1313/categories/page/</loc>
     <lastmod>2023-12-03T18:47:12+10:00</lastmod>
   </url><url>
-    <loc>/curious/</loc>
+    <loc>//localhost:1313/curious/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/letter/</loc>
+    <loc>//localhost:1313/categories/letter/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/letter/</loc>
+    <loc>//localhost:1313/letter/</loc>
     <lastmod>2023-03-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2022/</loc>
+    <loc>//localhost:1313/2022/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/annual-review/</loc>
+    <loc>//localhost:1313/tags/annual-review/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/personal/</loc>
+    <loc>//localhost:1313/categories/personal/</loc>
     <lastmod>2023-01-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/cyber/</loc>
+    <loc>//localhost:1313/categories/cyber/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</loc>
+    <loc>//localhost:1313/how-to-fix-tryhackme-vpn-not-working-troubleshooting-openvpn/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/linux/</loc>
+    <loc>//localhost:1313/tags/linux/</loc>
     <lastmod>2022-10-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/100daysofhacking/</loc>
+    <loc>//localhost:1313/100daysofhacking/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/capture-the-flag/</loc>
+    <loc>//localhost:1313/tags/capture-the-flag/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/crack-the-hash-tryhackme-walkthrough/</loc>
+    <loc>//localhost:1313/crack-the-hash-tryhackme-walkthrough/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cyber/</loc>
+    <loc>//localhost:1313/tags/cyber/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hacking/</loc>
+    <loc>//localhost:1313/tags/hacking/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/hacking/</loc>
+    <loc>//localhost:1313/categories/hacking/</loc>
     <lastmod>2022-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/100daysofhacking/</loc>
+    <loc>//localhost:1313/tags/100daysofhacking/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/over-the-wire/</loc>
+    <loc>//localhost:1313/tags/over-the-wire/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/overthewire-bandit/</loc>
+    <loc>//localhost:1313/overthewire-bandit/</loc>
     <lastmod>2022-10-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/i-won/</loc>
+    <loc>//localhost:1313/i-won/</loc>
     <lastmod>2022-10-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/afk/</loc>
+    <loc>//localhost:1313/afk/</loc>
     <lastmod>2022-08-31T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/programming/</loc>
+    <loc>//localhost:1313/categories/programming/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/pyscript/</loc>
+    <loc>//localhost:1313/tags/pyscript/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/python/</loc>
+    <loc>//localhost:1313/tags/python/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/replit/</loc>
+    <loc>//localhost:1313/tags/replit/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/replit-edfest-2022-jam-intro-to-pyscript/</loc>
+    <loc>//localhost:1313/replit-edfest-2022-jam-intro-to-pyscript/</loc>
     <lastmod>2022-07-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/cs50/</loc>
+    <loc>//localhost:1313/tags/cs50/</loc>
     <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/cs50-python-problem-set-guide/</loc>
+    <loc>//localhost:1313/cs50-python-problem-set-guide/</loc>
     <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/post/</loc>
+    <loc>//localhost:1313/categories/post/</loc>
     <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/programming/</loc>
+    <loc>//localhost:1313/tags/programming/</loc>
     <lastmod>2022-07-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/agent-sudo/</loc>
+    <loc>//localhost:1313/agent-sudo/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/walkthrough/</loc>
+    <loc>//localhost:1313/tags/walkthrough/</loc>
     <lastmod>2022-07-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/ohsint/</loc>
+    <loc>//localhost:1313/ohsint/</loc>
     <lastmod>2022-07-05T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/simplectf/</loc>
+    <loc>//localhost:1313/simplectf/</loc>
     <lastmod>2022-07-03T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/easily-learn-difficult-things-object-orientated-programming/</loc>
+    <loc>//localhost:1313/easily-learn-difficult-things-object-orientated-programming/</loc>
     <lastmod>2022-06-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/automate-the-boring-stuff/</loc>
+    <loc>//localhost:1313/tags/automate-the-boring-stuff/</loc>
     <lastmod>2022-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/automate-the-boring-stuff-with-python-practice-projects/</loc>
+    <loc>//localhost:1313/automate-the-boring-stuff-with-python-practice-projects/</loc>
     <lastmod>2022-06-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/privacy-why-you-should-care-about-data/</loc>
+    <loc>//localhost:1313/privacy-why-you-should-care-about-data/</loc>
     <lastmod>2022-04-25T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/learning-http-requests-a-mini-http-exercise/</loc>
+    <loc>//localhost:1313/learning-http-requests-a-mini-http-exercise/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/networking/</loc>
+    <loc>//localhost:1313/tags/networking/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/web/</loc>
+    <loc>//localhost:1313/categories/web/</loc>
     <lastmod>2022-04-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tryhackme-network-services-1-part-2-telnet/</loc>
+    <loc>//localhost:1313/tryhackme-network-services-1-part-2-telnet/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tryhackme-network-services-1-part-3-ftp/</loc>
+    <loc>//localhost:1313/tryhackme-network-services-1-part-3-ftp/</loc>
     <lastmod>2022-04-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/learning-path-for-beginner-hacker/</loc>
+    <loc>//localhost:1313/learning-path-for-beginner-hacker/</loc>
     <lastmod>2022-03-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hosting/</loc>
+    <loc>//localhost:1313/tags/hosting/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/updating-domains-with-cloudways-301-redirects/</loc>
+    <loc>//localhost:1313/updating-domains-with-cloudways-301-redirects/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/wordpress/</loc>
+    <loc>//localhost:1313/tags/wordpress/</loc>
     <lastmod>2022-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/cowsays-what-ctf/</loc>
+    <loc>//localhost:1313/cowsays-what-ctf/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/project/</loc>
+    <loc>//localhost:1313/tags/project/</loc>
     <lastmod>2022-03-23T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ftp/</loc>
+    <loc>//localhost:1313/tags/ftp/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/nmap/</loc>
+    <loc>//localhost:1313/tags/nmap/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/smb/</loc>
+    <loc>//localhost:1313/tags/smb/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/telnet/</loc>
+    <loc>//localhost:1313/tags/telnet/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tryhackme-network-services-room-notes/</loc>
+    <loc>//localhost:1313/tryhackme-network-services-room-notes/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tryhackme-nmap-walkthrough/</loc>
+    <loc>//localhost:1313/tryhackme-nmap-walkthrough/</loc>
     <lastmod>2022-03-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tryhackme-network-services-walkthrough-smb-part-1-3/</loc>
+    <loc>//localhost:1313/tryhackme-network-services-walkthrough-smb-part-1-3/</loc>
     <lastmod>2022-03-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/note/</loc>
+    <loc>//localhost:1313/categories/note/</loc>
     <lastmod>2022-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tryhackme-nmap-room-notes/</loc>
+    <loc>//localhost:1313/tryhackme-nmap-room-notes/</loc>
     <lastmod>2022-03-12T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/linux-fundamentals-1-tryhackme-walkthrough/</loc>
+    <loc>//localhost:1313/linux-fundamentals-1-tryhackme-walkthrough/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/linux-fundamentals-2-tryhackme-walkthrough/</loc>
+    <loc>//localhost:1313/linux-fundamentals-2-tryhackme-walkthrough/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/linux-fundamentals-3-tryhackme-walkthrough/</loc>
+    <loc>//localhost:1313/linux-fundamentals-3-tryhackme-walkthrough/</loc>
     <lastmod>2022-02-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/comptia/</loc>
+    <loc>//localhost:1313/tags/comptia/</loc>
     <lastmod>2022-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/comptia-a-plus-study-notes/</loc>
+    <loc>//localhost:1313/comptia-a-plus-study-notes/</loc>
     <lastmod>2022-02-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/basic-home-network-analysis-beginner-cyber-sec-project/</loc>
+    <loc>//localhost:1313/basic-home-network-analysis-beginner-cyber-sec-project/</loc>
     <lastmod>2022-02-04T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/hardware/</loc>
+    <loc>//localhost:1313/tags/hardware/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/pc-build/</loc>
+    <loc>//localhost:1313/pc-build/</loc>
     <lastmod>2022-01-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2021/</loc>
+    <loc>//localhost:1313/2021/</loc>
     <lastmod>2022-01-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/python-range-function-quick-python-project-lesson/</loc>
+    <loc>//localhost:1313/python-range-function-quick-python-project-lesson/</loc>
     <lastmod>2021-11-18T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/homelab/</loc>
+    <loc>//localhost:1313/homelab/</loc>
     <lastmod>2021-11-07T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/zigzag-beginner-python-project/</loc>
+    <loc>//localhost:1313/zigzag-beginner-python-project/</loc>
     <lastmod>2021-10-19T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/random-number-generator-easy-python-project/</loc>
+    <loc>//localhost:1313/random-number-generator-easy-python-project/</loc>
     <lastmod>2021-10-17T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/bagels/</loc>
+    <loc>//localhost:1313/bagels/</loc>
     <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/hashing-passwords-python-module-basics/</loc>
+    <loc>//localhost:1313/hashing-passwords-python-module-basics/</loc>
     <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/username-generator-beginner-python-program/</loc>
+    <loc>//localhost:1313/username-generator-beginner-python-program/</loc>
     <lastmod>2021-10-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/microsoft-word/</loc>
+    <loc>//localhost:1313/tags/microsoft-word/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/paste-text-only-word-ctrl-shift-v-to-microsoft-word/</loc>
+    <loc>//localhost:1313/paste-text-only-word-ctrl-shift-v-to-microsoft-word/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/work-life/</loc>
+    <loc>//localhost:1313/categories/work-life/</loc>
     <lastmod>2021-10-13T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/mad-lib-game-beginner-python-project/</loc>
+    <loc>//localhost:1313/mad-lib-game-beginner-python-project/</loc>
     <lastmod>2021-10-11T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/python-intro/</loc>
+    <loc>//localhost:1313/python-intro/</loc>
     <lastmod>2021-10-09T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/pearler/</loc>
+    <loc>//localhost:1313/pearler/</loc>
     <lastmod>2021-09-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/guide-to-seo-ultimate-beginners-guide-for-seo/</loc>
+    <loc>//localhost:1313/guide-to-seo-ultimate-beginners-guide-for-seo/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/seo/</loc>
+    <loc>//localhost:1313/tags/seo/</loc>
     <lastmod>2021-09-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/cyberwox/</loc>
+    <loc>//localhost:1313/cyberwox/</loc>
     <lastmod>2021-08-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/bash/</loc>
+    <loc>//localhost:1313/tags/bash/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/quick-linux/</loc>
+    <loc>//localhost:1313/quick-linux/</loc>
     <lastmod>2021-08-14T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/unhatched/</loc>
+    <loc>//localhost:1313/unhatched/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/wordpress-app-wont-connect-to-website-cloudways-self-hosted/</loc>
+    <loc>//localhost:1313/wordpress-app-wont-connect-to-website-cloudways-self-hosted/</loc>
     <lastmod>2021-07-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/basic-python-project-is-it-raining/</loc>
+    <loc>//localhost:1313/basic-python-project-is-it-raining/</loc>
     <lastmod>2021-06-06T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/anonymity/</loc>
+    <loc>//localhost:1313/tags/anonymity/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/anonymity/</loc>
+    <loc>//localhost:1313/anonymity/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/tor/</loc>
+    <loc>//localhost:1313/tags/tor/</loc>
     <lastmod>2021-05-21T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/guess/</loc>
+    <loc>//localhost:1313/guess/</loc>
     <lastmod>2021-05-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/kali-wsl/</loc>
+    <loc>//localhost:1313/kali-wsl/</loc>
     <lastmod>2021-04-30T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tryhackme-rootme/</loc>
+    <loc>//localhost:1313/tryhackme-rootme/</loc>
     <lastmod>2021-04-02T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/ctf/</loc>
+    <loc>//localhost:1313/tags/ctf/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/picoctf/</loc>
+    <loc>//localhost:1313/picoctf/</loc>
     <lastmod>2021-03-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/starting-out-in-cyber-security/</loc>
+    <loc>//localhost:1313/starting-out-in-cyber-security/</loc>
     <lastmod>2021-03-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/how-to-setup-ubuntu-using-virtualbox/</loc>
+    <loc>//localhost:1313/how-to-setup-ubuntu-using-virtualbox/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/virtual-machine/</loc>
+    <loc>//localhost:1313/tags/virtual-machine/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/virtualbox/</loc>
+    <loc>//localhost:1313/tags/virtualbox/</loc>
     <lastmod>2021-03-27T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/yearly-review-2020/</loc>
+    <loc>//localhost:1313/yearly-review-2020/</loc>
     <lastmod>2020-12-28T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/notion/</loc>
+    <loc>//localhost:1313/tags/notion/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/onenote/</loc>
+    <loc>//localhost:1313/tags/onenote/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/onenote-to-notion-moving-apps/</loc>
+    <loc>//localhost:1313/onenote-to-notion-moving-apps/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/categories/other/</loc>
+    <loc>//localhost:1313/categories/other/</loc>
     <lastmod>2020-05-22T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/2019/</loc>
+    <loc>//localhost:1313/2019/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/tags/event/</loc>
+    <loc>//localhost:1313/tags/event/</loc>
     <lastmod>2019-12-16T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>/advise-n-review/</loc>
+    <loc>//localhost:1313/advise-n-review/</loc>
   </url><url>
-    <loc>/align-yourself/</loc>
+    <loc>//localhost:1313/align-yourself/</loc>
   </url><url>
-    <loc>/tags/backup/</loc>
+    <loc>//localhost:1313/tags/backup/</loc>
   </url><url>
-    <loc>/passive/</loc>
+    <loc>//localhost:1313/passive/</loc>
   </url><url>
-    <loc>/biz-plan/</loc>
+    <loc>//localhost:1313/biz-plan/</loc>
   </url><url>
-    <loc>/buckets/</loc>
+    <loc>//localhost:1313/buckets/</loc>
   </url><url>
-    <loc>/check-in/</loc>
+    <loc>//localhost:1313/check-in/</loc>
   </url><url>
-    <loc>/checklist/</loc>
+    <loc>//localhost:1313/checklist/</loc>
   </url><url>
-    <loc>/tags/container/</loc>
+    <loc>//localhost:1313/tags/container/</loc>
   </url><url>
-    <loc>/dilemma/</loc>
+    <loc>//localhost:1313/dilemma/</loc>
   </url><url>
-    <loc>/categories/docker/</loc>
+    <loc>//localhost:1313/categories/docker/</loc>
   </url><url>
-    <loc>/categories/enum/</loc>
+    <loc>//localhost:1313/categories/enum/</loc>
   </url><url>
-    <loc>/tags/enumeration/</loc>
+    <loc>//localhost:1313/tags/enumeration/</loc>
   </url><url>
-    <loc>/enum/</loc>
+    <loc>//localhost:1313/enum/</loc>
   </url><url>
-    <loc>/epic-outlook/</loc>
+    <loc>//localhost:1313/epic-outlook/</loc>
   </url><url>
-    <loc>/finance/</loc>
+    <loc>//localhost:1313/finance/</loc>
   </url><url>
-    <loc>/get-help/</loc>
+    <loc>//localhost:1313/get-help/</loc>
   </url><url>
-    <loc>/grow-smart/</loc>
+    <loc>//localhost:1313/grow-smart/</loc>
   </url><url>
-    <loc>/hard-work-pays-off/</loc>
+    <loc>//localhost:1313/hard-work-pays-off/</loc>
   </url><url>
-    <loc>/home-worklife/</loc>
+    <loc>//localhost:1313/home-worklife/</loc>
   </url><url>
-    <loc>/tags/hugo/</loc>
+    <loc>//localhost:1313/tags/hugo/</loc>
   </url><url>
-    <loc>/hugo/</loc>
+    <loc>//localhost:1313/hugo/</loc>
   </url><url>
-    <loc>/in-progress/</loc>
+    <loc>//localhost:1313/in-progress/</loc>
   </url><url>
-    <loc>/its-me-again/</loc>
+    <loc>//localhost:1313/its-me-again/</loc>
   </url><url>
-    <loc>/categories/language/</loc>
+    <loc>//localhost:1313/categories/language/</loc>
   </url><url>
-    <loc>/lazy-n-lost/</loc>
+    <loc>//localhost:1313/lazy-n-lost/</loc>
   </url><url>
-    <loc>/learn-cyber/</loc>
+    <loc>//localhost:1313/learn-cyber/</loc>
   </url><url>
-    <loc>/lets-write/</loc>
+    <loc>//localhost:1313/lets-write/</loc>
   </url><url>
-    <loc>/tags/linux-enum/</loc>
+    <loc>//localhost:1313/tags/linux-enum/</loc>
   </url><url>
-    <loc>/looking-inward/</loc>
+    <loc>//localhost:1313/looking-inward/</loc>
   </url><url>
-    <loc>/measuring-success/</loc>
+    <loc>//localhost:1313/measuring-success/</loc>
   </url><url>
-    <loc>/note/</loc>
+    <loc>//localhost:1313/note/</loc>
   </url><url>
-    <loc>/oh-shiny/</loc>
+    <loc>//localhost:1313/oh-shiny/</loc>
   </url><url>
-    <loc>/powershell/</loc>
+    <loc>//localhost:1313/powershell/</loc>
   </url><url>
-    <loc>/put-yourself-out/</loc>
+    <loc>//localhost:1313/put-yourself-out/</loc>
   </url><url>
-    <loc>/tags/recon/</loc>
+    <loc>//localhost:1313/tags/recon/</loc>
   </url><url>
-    <loc>/relax-do-it/</loc>
+    <loc>//localhost:1313/relax-do-it/</loc>
   </url><url>
-    <loc>/rustscan/</loc>
+    <loc>//localhost:1313/rustscan/</loc>
   </url><url>
-    <loc>/scammed/</loc>
+    <loc>//localhost:1313/scammed/</loc>
   </url><url>
-    <loc>/categories/shell/</loc>
+    <loc>//localhost:1313/categories/shell/</loc>
   </url><url>
-    <loc>/tags/shells/</loc>
+    <loc>//localhost:1313/tags/shells/</loc>
   </url><url>
-    <loc>/categories/shells/</loc>
+    <loc>//localhost:1313/categories/shells/</loc>
   </url><url>
-    <loc>/shells/</loc>
+    <loc>//localhost:1313/shells/</loc>
   </url><url>
-    <loc>/staying-creative-and-connected/</loc>
+    <loc>//localhost:1313/staying-creative-and-connected/</loc>
   </url><url>
-    <loc>/tags/syncthing/</loc>
+    <loc>//localhost:1313/tags/syncthing/</loc>
   </url><url>
-    <loc>/syncthing/</loc>
+    <loc>//localhost:1313/syncthing/</loc>
   </url><url>
-    <loc>/todo-writing-check/</loc>
+    <loc>//localhost:1313/todo-writing-check/</loc>
   </url><url>
-    <loc>/categories/tool/</loc>
+    <loc>//localhost:1313/categories/tool/</loc>
   </url><url>
-    <loc>/tags/tty/</loc>
+    <loc>//localhost:1313/tags/tty/</loc>
   </url><url>
-    <loc>/tags/windows-enum/</loc>
+    <loc>//localhost:1313/tags/windows-enum/</loc>
   </url><url>
-    <loc>/you-dreamn/</loc>
+    <loc>//localhost:1313/you-dreamn/</loc>
   </url>
 </urlset>

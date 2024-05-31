@@ -27,9 +27,11 @@ draft: false
 # searchHidden: true # Make false to hide page from search
 ---
 
-Okay, it's been a while. Last writeup on the blog is [Chill Hack](https://mrash.co/chill-hack/)... but she (and other writeups) need a refresher.
+Okay, it's been a while. Last writeup on the blog was [Chill Hack](https://mrash.co/chill-hack/)... but she (and others) need refreshers.
 
 Anyway, here's [CyberLens](https://tryhackme.com/r/room/cyberlensp6), a newish TryHackMe room from [Tyler Ramsbey](https://www.youtube.com/@TylerRamsbey) who make's great content, give them a follow/subscribe.
+
+PS - I've got a [video walkthrough](https://youtu.be/Gmhhv1b3xEE) if you want.
 
 ## The Challenge
 
@@ -271,3 +273,7 @@ I'm already on my next room.
 Subscribe to the (not so) Monthly Monitor below.
 
 Thanks for reading.
+
+PS - oh hey, you're still here? Why not watch the video walkthough?
+
+{{< youtube Gmhhv1b3xEE >}}

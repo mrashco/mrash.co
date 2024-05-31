@@ -185,21 +185,5 @@ PicoCTF is a great place to start CTF’s, their beginner friendly options provi
 Disclaimer, I didn’t realise they were getting more difficult. So I couldn’t complete all the General Skills, 10/12 so far.</description>
     </item>
     
-    <item>
-      <title>Network Services 2 TryHackMe Part 1 NFS</title>
-      <link>//localhost:1313/thm-nfs-1/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>//localhost:1313/thm-nfs-1/</guid>
-      <description>Hello, welcome back.
-We are doing some more Trihack me
-walkthroughs and it’s goingto be Network services too.
-Put my phone on silent orat least turn it down.
-Today we’re going to be doing this roomand it reads enumerating and exploiting
-the more common networkservices and misconfigs.
-If you want to catch Network services one
-there will be a card popping up or a linkdescription in the description or</description>
-    </item>
-    
   </channel>
 </rss>
