@@ -61,6 +61,10 @@ Blogs
 - browserconfig.xml
 - etc
 
+## PrivEsc
+
+- `sudo -l`
+- curl [^](https://youtu.be/szOQHJL2Bs8?si=cLCwvQVX5FS3PzlA)
 
 
 ---
