@@ -3,7 +3,7 @@
 Methodology: identify problem(s), gather info, analyze clues, test/iterate/repeat, and avoid common mistakes.
 Wikis
 HackTricks AppSecExplained Red Team Notes Blogs
-Overgrowncarrot1 Enumerate Open ports? rustscan, nmap. Running services? Version numbers? Operating System (Linux/Windows)? Domains? /etc/hosts Webserver (Apache/Ngnix)? Subdomins? DNS nslookup $domain dig -query=ANY $domain Common Files robots.txt sitemap.xml .htaccess security.txt manifest.json browserconfig.xml etc Thanks for reading</p></div><footer class=entry-footer>1 min&nbsp;·&nbsp;62 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Checklist" href=//localhost:1313/checklist/></a></article><article class=post-entry><header class=entry-header><h2>Enumeration</h2></header><div class=entry-content><p>rustscan
+Overgrowncarrot1 Enumerate Open ports? rustscan, nmap. Running services? Version numbers? Operating System (Linux/Windows)? Domains? /etc/hosts Webserver (Apache/Ngnix)? Subdomins? DNS nslookup $domain dig -query=ANY $domain Common Files robots.txt sitemap.xml .htaccess security.txt manifest.json browserconfig.xml etc PrivEsc sudo -l curl ^ Thanks for reading</p></div><footer class=entry-footer>1 min&nbsp;·&nbsp;67 words&nbsp;·&nbsp;Mr Ash</footer><a class=entry-link aria-label="post link to Checklist" href=//localhost:1313/checklist/></a></article><article class=post-entry><header class=entry-header><h2>Enumeration</h2></header><div class=entry-content><p>rustscan
 rustscan -a $ip -g rustscan -a $ip -p $ports -- -sC -sV | tee scan.init nmap
 nmap -vv -Pn $ip nmap -vv -Pn -p $ports -A $ip feroxbuster
 feroxbuster -u http://$ipa -w $wordlist | tee fuzz.init FFUF
