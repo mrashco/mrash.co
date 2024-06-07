@@ -58,7 +58,9 @@ Just a heads-up:
 The antivirus might flag the Kali Linux download as a Trojan. This is a false positive since Trojans are part of the tools included in Kali Linux.
 We trust the source (Kali Linux website) and can safely allow the download.
 
-Stay tuned for the next video where we'll walk you through configuring the virtual machine in VirtualBox!
+Check out the video of a walkthrough of the Kali Linux virtual machine in VirtualBox!
+
+{{< youtube B94XCbnmauQ >}}
 
 ---
 
