@@ -3,7 +3,7 @@ title: "How To Install Kali Linux VirtualBox"
 published: 2024-06-07T20:06:28+10:00
 # lastUpdated: 2024-06-07T20:06:28+10:00
 url: kali-vm
-alias: # aliases for multiple
+aliases: # aliases for multiple
     - how-to-install-kali-linux-virtualbox
     - kali-install
 
