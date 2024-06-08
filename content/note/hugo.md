@@ -49,3 +49,17 @@ Hands down the best extension to use within VSCode is [Markdown All in One](http
 - Paste links over text for automatic linking
 - Continues ordered and unordered lists when typing
 
+## Working Checkbox Items
+
+Add the below snippet to footer e.g. `extend_footer.html` in PaperMod.
+
+```javascript
+// Clickable checkboxes
+const checkboxes = document.querySelectorAll('input[type="checkbox"]');
+checkboxes.forEach(checkbox => {
+  // remove the disabled attribute; added by kramdown by default
+  checkbox.removeAttribute('disabled');
+});
+```
+
+Thanks to [Gurjot](https://thatgurjot.com/til/clickable-checkboxes-on-jekyll-hugo/)
