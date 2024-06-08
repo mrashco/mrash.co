@@ -40,31 +40,31 @@ Blogs
 - [Overgrowncarrot1](https://overgrowncarrot1.medium.com)
 
 ## Enumerate
-- Open ports? [rustscan](https://mrash.co/rustscan), nmap.
-- Running services? 
-- Version numbers?  
-- Operating System (Linux/Windows)?
-- Domains? `/etc/hosts`
-- Webserver (Apache/Ngnix)?
-- Subdomins?
+- [ ] Open ports? [rustscan](https://mrash.co/rustscan), nmap.
+- [ ] Running services? 
+- [ ] Version numbers?  
+- [ ] Operating System (Linux/Windows)?
+- [ ] Domains? `/etc/hosts`
+- [ ] Webserver (Apache/Ngnix)?
+- [ ] Subdomins?
 
 ### DNS
-- `nslookup $domain`
-- `dig -query=ANY $domain`
+- [ ] `nslookup $domain`
+- [ ] `dig -query=ANY $domain`
 
 ### Common Files
-- robots.txt
-- sitemap.xml
-- .htaccess
-- security.txt
-- manifest.json
-- browserconfig.xml
-- etc
+- [ ] robots.txt
+- [ ] sitemap.xml
+- [ ] .htaccess
+- [ ] security.txt
+- [ ] manifest.json
+- [ ] browserconfig.xml
+- [ ] etc
 
 ## PrivEsc
 
-- `sudo -l`
-- curl [^](https://youtu.be/szOQHJL2Bs8?si=cLCwvQVX5FS3PzlA)
+- [ ] `sudo -l`
+- [ ] curl [^](https://youtu.be/szOQHJL2Bs8?si=cLCwvQVX5FS3PzlA)
 
 
 ---
