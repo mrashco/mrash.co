@@ -4,9 +4,9 @@ published: 2024-06-10T10:09:07+10:00
 lastUpdated: 2024-06-10T10:09:07+10:00
 url: migrate-from-google-workspace-to-personal-gmail
 description: "Considering switching from Google Workspace to a personal Gmail account? This guide simplifies the process! We'll walk you through data transfer options, explain limitations, and explore alternative solutions for a smooth transition. Learn how to Migrate From Google Workspace to Personal Gmail."
-alias: # aliases for multiple
+aliases: # aliases for multiple
     - g-workspace
-    - 
+    - migrate-google-workspace
 
 cover:
     image: https://i.imgur.com/Kkdc7Gv.png
