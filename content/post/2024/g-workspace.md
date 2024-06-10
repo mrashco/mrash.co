@@ -51,10 +51,11 @@ Hold your horses, partner. Before you make the leap, make sure you've got your d
 But before you even think about migrating, back everything up. Here's a quick checklist for you:
 
 - [ ] Google Drive
-  - [ ] Drive > Storage (Highlight, scroll, highlight, scroll... download all)
+- [ ] Drive > Storage
 - [ ] Google Photos
 - [ ] Google Mail
 - [ ] Google Calendar
+- [ ] Other Google Apps/Features like Meet
 
 Download everything locally and sift through it. Delete the clutter and manually upload what you need to your new account.
 
@@ -110,9 +111,11 @@ As of writing this post, my ~700MB is still uploading.
 
 It's stalled around ~40%, but I'm keeping my fingers crossed that it continues.
 
-But the ~40% of emails so far are all there. Confirmed on other devices.
+But the emails uploaded so far are all there. Confirmed on other devices.
 
-So, here's hoping it works!
+[UPDATE] Thunderbird times out and stops the upload. After 8+ more tries, it's at ~60% complete... this process feels dodgey. But it's slowly working.
+
+So, here's hoping it ~~works~~ finishes!
 
 Thanks to this [video](https://www.youtube.com/watch?v=k9KpS4e1voc).
 
