@@ -1,0 +1,147 @@
+---
+title: "Migrate From Google Workspace to Personal Gmail"
+published: 2024-06-10T10:09:07+10:00
+lastUpdated: 2024-06-10T10:09:07+10:00
+url: migrate-from-google-workspace-to-personal-gmail
+alias: # aliases for multiple
+    - g-workspace
+    - 
+
+cover:
+    image: https://i.imgur.com/Kkdc7Gv.png
+    # alt: "<alt text>"
+    # caption: "<text>"
+    relative: false # To use relative path for cover image, used in hugo Page-bundles 
+
+type: post # Options: post, letter, note, page
+categories: Tech # Options: Writeup, Personal
+tags:
+    - google workspace to gmail
+    - migrate from workspace
+    - workspace to personal email
+    - transfer workspace emails
+    - move from workspace to gmail
+    - google apps to gmail
+    - export workspace emails
+    - import emails to gmail
+    - switch from workspace
+    - personal gmail account
+
+draft: false
+
+# ShowToc: false
+# TocOpen: false
+
+# searchHidden: true # Make false to hide page from search
+---
+
+Ah, the eternal quest to save some extra coin. Inflation, am I right? So, the latest target on my budget hit list? **Google Workspace.**
+
+I've been a loyal user of Google Workspace for years. Back when it was called G Suite, those were the days, weren't they?
+
+But now, for me, there's hardly any difference between Workspace and free Gmail. So, it's time to migrate from Google Workspace to a personal Gmail account.
+
+## Before You Dive In
+
+Hold your horses, partner. Before you make the leap, make sure you've got your ducks in a row:
+
+- Your old Google Workspace Account
+- Your shiny new Google Personal Account
+
+But before you even think about migrating, back everything up. Here's a quick checklist for you:
+
+- [ ] Google Drive
+  - [ ] Drive > Storage (Highlight, scroll, highlight, scroll... download all)
+- [ ] Google Photos
+- [ ] Google Mail
+- [ ] Google Calendar
+
+Download everything locally and sift through it. Delete the clutter and manually upload what you need to your new account.
+
+A word of caution:
+- Once you've migrated your emails, they might lose their organization. Say goodbye to those neat labels and folders.
+- Take your time. Rushing through backing up your data could lead to regrets. Once you delete your Google Workspace account, there's no turning back.
+- Don't miss a thing! Triple-check Google Drive Storage to ensure you haven't left any important data behind.
+
+Okay, let's get this party started!
+
+## The Migration Conundrum
+
+Your initial search might lead you to ask, "How do I migrate Google Workspace email to personal Gmail?" and you'll find yourself on a [Google Workspace page](https://knowledge.workspace.google.com/kb/how-to-migrate-emails-from-google-workspace-to-gmail-000008566), which unfortunately, isn't as helpful as you'd hoped.
+
+"The short answer is: no. Takeout is useless for most Google services because you can only export data and can't import anything back." says a helpful Redditor from [Reddit](https://www.reddit.com/r/gsuite/comments/tqb26l/is_it_possible_to_migrate_google_workspace_to_a/).
+
+Even the all-knowing [Google Gemini AI](https://g.co/gemini/share/bdbed8193188) is vague.
+
+## Takeout Troubles - Google Mail
+
+After painstakingly downloading your Google Drive data, head over to [Google Takeout](https://takeout.google.com/). Select mail and opt to have it sent to your email.
+
+For me, after years of emails, it was only a ~700MB download.
+
+So what do you get?
+
+A zip folder with an `mbox` file and some other configs.
+
+Now, dear migrator, you have two paths:
+
+1. Utilize a trusted CLI tool called [Got Your Back (BYG)](https://github.com/GAM-team/got-your-back).
+2. Or, opt for a trusted email client with a random plugin.
+
+The choice is yours.
+
+If you choose path one, there's a [helpful video](https://www.youtube.com/watch?v=jV5kGfuzQcY) and [wiki](https://github.com/GAM-team/got-your-back/wiki).
+
+After dabbling with both, option two worked for me. Mostly.
+
+### Thunderbird Takes Flight
+
+It's fairly straightforward, but here are the steps:
+
+1. Download Thunderbird.
+2. Log in to your new personal Gmail Account.
+3. Add the random import plugin.
+4. Right-click 'Local Folders' and select Import.
+5. Choose the 'Import... subfolder' option and locate the exported Google Takeout data.
+6. Drag and drop the backed-up email data from Local to Gmail.
+7. Sit back, relax, and grab yourself a drink.
+
+As of writing this post, my ~700MB is still uploading.
+
+It's stalled around ~40%, but I'm keeping my fingers crossed that it continues.
+
+But the ~40% of emails so far are all there. Confirmed on other devices.
+
+So, here's hoping it works!
+
+Thanks to this [video](https://www.youtube.com/watch?v=k9KpS4e1voc).
+
+## Keeping Email Functional
+
+If you're like me, you want to migrate off Google Workspace but still want to maintain a professional-looking email.
+
+Enter Cloudflare Email Routing.
+
+1. Sign up for Cloudflare if you haven't already.
+2. Head over to the domain from your old Google Workspace.
+3. Enable Cloudflare Email Routing.
+4. Ensure the old email is forwarding to your new personal Gmail.
+5. Remove any MX records.
+
+![MX Records](https://i.imgur.com/kNdwtEG.png)
+
+6. Add new MX records and save.
+
+![Add new MX records](https://i.imgur.com/qkMk3cO.png)
+
+## Wrapping Up
+
+Let's be real, this process is annoying. In the era of modern advancements, it's moments like these that make you question technology a little.
+
+But looking back, it's not as painful as it felt during the process.
+
+I say that now... but I'll be doing it all over again for my wife's workspace account soon.
+
+So, maybe a video walkthrough is in order?
+
+Stay tuned on [YouTube](https://www.youtube.com/@mrashco/) for that!
