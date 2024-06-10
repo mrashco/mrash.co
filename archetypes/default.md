@@ -1,9 +1,9 @@
 ---
-title: "{{ replace .Name "-" " " | title }}"
+title: {{ replace .Name "-" " " | title }}
 published: {{ .Date }}
 # lastUpdated: {{ .Date }}
 url: {{ .Name }}
-description: "" # Prompt:
+description: "" # Prompt: Write an SEO description for the blog post {{ replace .Name "-" " " | title }}
 alias: # Use aliases for multiple
     - 
     - 
@@ -14,9 +14,9 @@ cover:
     # caption: "CAPTION_TEXT"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
-type: # post, letter, note, page
-categories:  # Homelab, Writeup, Personal
-tags: # Prompt: 
+type: TYPE_HERE # post, letter, note, page
+categories: CATEGORY_HERE # Homelab, Writeup, Personal
+tags: # Prompt: Write 10 tags for {{ replace .Name "-" " " | title }} in YAML format, use code block 
     - 
     - 
 
