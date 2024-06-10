@@ -3,19 +3,20 @@ title: "{{ replace .Name "-" " " | title }}"
 published: {{ .Date }}
 # lastUpdated: {{ .Date }}
 url: {{ .Name }}
-alias: # aliases for multiple
+description: "" # Prompt:
+alias: # Use aliases for multiple
     - 
     - 
 
 cover:
-    #image: "<image path/url>"
-    # alt: "<alt text>"
-    # caption: "<text>"
+    # image: "IMAGE_URL"
+    # alt: "ALT_TEXT"
+    # caption: "CAPTION_TEXT"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 
 
-type: post # letter, note, page
-categories: Homelab # Homelab, Writeup, Personal
-tags:
+type: # post, letter, note, page
+categories:  # Homelab, Writeup, Personal
+tags: # Prompt: 
     - 
     - 
 
@@ -27,7 +28,7 @@ draft: false
 # searchHidden: true # Make false to hide page from search
 ---
 
-<!-- CONTENT HERE -->
+<!--CONTENT_HERE-->
 
 ---
 
