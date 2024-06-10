@@ -29,7 +29,3 @@ draft: false
 ---
 
 <!--CONTENT_HERE-->
-
----
-
-Thanks for reading
