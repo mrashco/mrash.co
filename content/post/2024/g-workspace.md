@@ -96,6 +96,8 @@ If you choose path one, there's a [helpful video](https://www.youtube.com/watch?
 
 After dabbling with both, option two worked for me. Mostly.
 
+Take note of the number of emails and their total size.
+
 ### Thunderbird Takes Flight
 
 It's fairly straightforward, but here are the steps:
@@ -124,6 +126,16 @@ But the emails uploaded so far are all there. Confirmed on other devices.
 So, here's hoping it ~~works~~ finishes!
 
 Thanks to this [video](https://www.youtube.com/watch?v=k9KpS4e1voc).
+
+### Check All Is Good
+
+Check the file size usage.
+
+![Checking the file size usage](https://i.imgur.com/ngalvxB.png)
+
+Ding ding ding! Looks like all my emails are now uploaded.
+
+![](https://i.imgur.com/W048ppo.png)
 
 ## Keeping Email Functional
 
