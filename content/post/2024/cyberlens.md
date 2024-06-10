@@ -2,10 +2,11 @@
 title: "CyberLens TryHackMe Writeup"
 published: 2024-05-24T12:05:12+10:00
 lastUpdated: 2024-05-24T12:05:12+10:00
-url: cyberlens
-alias: # aliases for multiple
-    - cyberLens-tryHackMe-writeup
-    - 
+url: cyberlens-tryhackme-writeup
+description: "Conquer the CyberLens TryHackMe room! This writeup guides you through exploiting a vulnerable web application and uncovering hidden flags. Learn Windows hacking and web app security concepts in this step-by-step walkthrough. Master CyberLens and level up your TryHackMe skills!"
+aliases: # aliases for multiple
+    - cyberlens
+    - cyber-lens
 
 cover:
     image: "https://i.imgur.com/zfu4dRJ_d.webp?maxwidth=1520&fidelity=grand"
@@ -16,8 +17,16 @@ cover:
 type: post # letter, note, page
 categories: Writeup # Homelab, Writeup, Personal
 tags:
-    - TryHackMe
-    - Writeup
+    - tryhackme
+    - cyberlens
+    - writeup
+    - walkthrough
+    - windows
+    - hacking
+    - webapplicationsecurity
+    - ctf
+    - cybersecurity
+    - flags
 
 draft: false
 

@@ -3,7 +3,7 @@ title: {{ replace .Name "-" " " | title }}
 published: {{ .Date }}
 # lastUpdated: {{ .Date }}
 url: {{ .Name }}
-description: "" # Prompt: Write an SEO description for the blog post {{ replace .Name "-" " " | title }}. Keep it 320 characters or less.
+description: "" # Prompt: Write an SEO description for the blog post {{ replace .Name "-" " " | title }}. Keep it 320 characters or less, use the title exactly as is once.
 alias: # Use aliases for multiple
     - 
     - 
