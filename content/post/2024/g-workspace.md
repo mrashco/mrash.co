@@ -105,7 +105,10 @@ It's fairly straightforward, but here are the steps:
 4. Right-click 'Local Folders' and select Import.
 5. Choose the 'Import... subfolder' option and locate the exported Google Takeout data.
 6. Drag and drop the backed-up email data from Local to Gmail.
-7. Sit back, relax, and grab yourself a drink.
+
+![Thunderbird upload](https://i.imgur.com/gFoDz5o.png)
+
+7. Sit back, ~~relax~~ and grab a drink.
 
 As of writing this post, my ~700MB is still uploading.
 
@@ -113,7 +116,9 @@ It's stalled around ~40%, but I'm keeping my fingers crossed that it continues.
 
 But the emails uploaded so far are all there. Confirmed on other devices.
 
-[UPDATE] Thunderbird times out and stops the upload. After 8+ more tries, it's at ~60% complete... this process feels dodgey. But it's slowly working.
+[UPDATE] Thunderbird repeatedly times out and stops uploading. After 8+ tries, it's at ~60% complete... this process feels dodge. But it's slowly working.
+
+[UPDATE] More timing out, more dragging and dropping. But it's working.
 
 So, here's hoping it ~~works~~ finishes!
 
