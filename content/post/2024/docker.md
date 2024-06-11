@@ -18,7 +18,13 @@ categories: Homelab # Homelab, Writeup, Personal
 tags:
     - docker 
     - homelab
-    - kali linux
+    - virtualization
+    - containerization
+    - linux
+    - devops
+    - server management
+    - technology
+    - programming
 
 draft: false
 
