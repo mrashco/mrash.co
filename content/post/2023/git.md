@@ -38,3 +38,5 @@ Typical git process:
 Switch branches from master to main
 - `git branch -m master main`
 
+If errors:
+`git pull --rebase`
