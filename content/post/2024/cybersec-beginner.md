@@ -6,7 +6,7 @@ url: cybersec-beginner
 description: "" # Prompt: Write an SEO description for the blog post Cybersec Beginner. Keep it 320 characters or less, use the title exactly as is once.
 aliases: # Use aliases for multiple
     - cyber-security-for-beginners
-    - 
+    - cyber-sec-beginner
 
 cover:
     image: "https://i9.ytimg.com/vi_webp/2om3wb9spg4/maxresdefault.webp?v=66724d40&sqp=CLyWz7MG&rs=AOn4CLCGH4QGMUBNgUiZ9D6MR50CsbqTHQ"
