@@ -90,8 +90,8 @@ params:
   socialIcons:
     - name: youtube
       url: "https://youtube.com/@mrashco"
-    - name: substack
-      url: "https://mrashco.substack.com"
+    # - name: substack
+    #   url: "https://mrashco.substack.com"
     #- name: github
     #  url: "https://github.com/mrashco"
 
@@ -141,11 +141,11 @@ menu:
       weight: 20
     - identifier: notes
       name: notes
-      url: /note
+      url: https://notes.mrash.co
       weight: 30
     - identifier: letters
       name: letters
-      url: /letter
+      url: https://mrashco.substack.com
       weight: 40
     # - identifier: tags
     #   name: tags
