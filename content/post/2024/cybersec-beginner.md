@@ -4,7 +4,7 @@ published: 2024-06-20T16:27:58+10:00
 # lastUpdated: 2024-06-20T16:27:58+10:00
 url: cybersec-beginner
 description: "" # Prompt: Write an SEO description for the blog post Cybersec Beginner. Keep it 320 characters or less, use the title exactly as is once.
-alias: # Use aliases for multiple
+aliases: # Use aliases for multiple
     - cyber-security-for-beginners
     - 
 
