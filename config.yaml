@@ -20,7 +20,7 @@ params:
   title: Mr Ash Co
   description: "Curious about cybersec, python and hacking"
   keywords: [Blog, Portfolio, CyberSec]
-  author: Mr Ash
+  author: Ash
   # author: ["Me", "You"] # multiple authors
   images: ["<link or path of image for opengraph, twitter-cards>"]
   DateFormat: "02/01/2006" # January 2, 2006
@@ -84,13 +84,13 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "CTF Writeups, Walkthroughs & Videos"
-    Content: Welcome to my blog for cybersec, python & hacking. Subscribe to my newsletter. Search (ALT+/) my site for notes, posts, and letters. {{< rawhtml >}}<br><br><div class="gist-embed-form" data-form-type="embedded" data-form-id="93692129" data-workspace-id="aw3xhcat" version=3></div><script type="text/javascript" src="https://forms-widget.getgist.com/" defer></script>{{< /rawhtml >}}
+    Content: Welcome to my blog for cybersec, python & hacking. Subscribe to my newsletter. Search (ALT+/) my site for notes, posts, and letters.
 
   socialIcons:
     - name: youtube
       url: "https://youtube.com/@mrashco"
-    #- name: twitter
-    #  url: "https://twitter.com/mrashc0"
+    - name: substack
+      url: "https://mrashco.substack.com"
     #- name: github
     #  url: "https://github.com/mrashco"
 
