@@ -103,5 +103,4 @@ Happy learning, and stay safe online!
 ---
 
 *For more detailed guides and resources, check out the links in the description below.*
-
-[Cyber Security for Beginners - YouTube](https://www.youtube.com/watch?v=WrHTUDdx6xk)
+{{< youtube id=2om3wb9spg4 >}}
