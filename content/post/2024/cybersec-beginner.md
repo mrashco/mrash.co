@@ -9,7 +9,7 @@ aliases: # Use aliases for multiple
     - cyber-sec-beginner
 
 cover:
-    image: "https://i9.ytimg.com/vi_webp/2om3wb9spg4/maxresdefault.webp?v=66724d40&sqp=CLyWz7MG&rs=AOn4CLCGH4QGMUBNgUiZ9D6MR50CsbqTHQ"
+    image: "https://i.imgur.com/lYM7h1f.png"
     # alt: "ALT_TEXT"
     # caption: "CAPTION_TEXT"
     relative: false # To use relative path for cover image, used in hugo Page-bundles 

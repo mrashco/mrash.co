@@ -21,7 +21,7 @@
       <description>Just a few notes/things to remember while using git.
 Typical git process:
 git pull $link git add . git commit -m &#39;v0.1&#39; git push $link Switch branches from master to main
-git branch -m master main </description>
+git branch -m master main If errors: git pull --rebase</description>
     </item>
     
     <item>
@@ -35,7 +35,7 @@ Alias(es)
 Here&amp;rsquo;s what I use for my urls:
 url: hugoalias: # aliases for multiple- post/hugo- But in order for aliases to work, I have to change aslias to asliases, save. Then change it back to aslias. Strange.
 Markdown All in One Hands down the best extension to use within VSCode is Markdown All in One.
-Paste links over text for automatic linking Continues ordered and unordered lists when typing </description>
+Paste links over text for automatic linking Continues ordered and unordered lists when typing Working Checkbox Items Add the below snippet to footer e.</description>
     </item>
     
   </channel>

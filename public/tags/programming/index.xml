@@ -11,7 +11,25 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/programming/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>//localhost:1313/docker/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docker/</guid>
+      <description>Let&amp;rsquo;s learn Docker and set it up.
+So what&amp;rsquo;s Docker?
+Well it&amp;rsquo;s complicated.
+It&amp;rsquo;s a way to install, maintain and run applications.
+But apps are self-contained, hence the term containers.
+Docker allows networking and lots more.
+Installing Docker Best way is to follow the docs.
+Kali Linux If you&amp;rsquo;re on Kali Linux, don&amp;rsquo;t follow the official guide.
+Go to Installing Docker on Kali Linux from Kali.org instead.
+sudo apt update sudo apt install -y docker.</description>
+    </item>
+    
     <item>
       <title>CS50P Problem Set Guide</title>
       <link>//localhost:1313/cs50-python-problem-set-guide/</link>

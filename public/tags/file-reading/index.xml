@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>File-Reading on Mr Ash Co</title>
+    <link>//localhost:1313/tags/file-reading/</link>
+    <description>Recent content in File-Reading on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/file-reading/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Python Ollama File</title>
+      <link>//localhost:1313/python-ollama-file/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/python-ollama-file/</guid>
+      <description>Python and Ollama: Unlocking Local Files&amp;#39; Secrets! Learn how to harness the power of AI-empowered chatbot Ollama with Python scripting. Discover how to read text files, play audio clips, and display images - all without leaving your terminal window. Dive into this comprehensive guide today!</description>
+    </item>
+    
+  </channel>
+</rss>

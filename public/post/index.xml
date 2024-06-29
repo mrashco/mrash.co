@@ -11,27 +11,59 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 07 Jun 2024 20:06:28 +1000</lastBuildDate><atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Kali Install</title>
-      <link>//localhost:1313/kali-install/</link>
+      <title>Python Ollama File</title>
+      <link>//localhost:1313/python-ollama-file/</link>
+      <pubDate>Sat, 29 Jun 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/python-ollama-file/</guid>
+      <description>Python and Ollama: Unlocking Local Files&amp;#39; Secrets! Learn how to harness the power of AI-empowered chatbot Ollama with Python scripting. Discover how to read text files, play audio clips, and display images - all without leaving your terminal window. Dive into this comprehensive guide today!</description>
+    </item>
+    
+    <item>
+      <title>Cyber Security for Beginners</title>
+      <link>//localhost:1313/cybersec-beginner/</link>
+      <pubDate>Thu, 20 Jun 2024 16:27:58 +1000</pubDate>
+      
+      <guid>//localhost:1313/cybersec-beginner/</guid>
+      <description>Cyber Security for Beginners: Your Ultimate Guide Cyber security can seem daunting with the vast amount of information available. As a beginner, it can be challenging to know where to start. In this guide, we&amp;rsquo;ll cover the three most important areas of cyber security. Stick around to the end for some free resources to help you dive deeper.
+What is Cyber Security? A simple way to describe cyber security is protecting people and their computers from bad actors and their malicious activities.</description>
+    </item>
+    
+    <item>
+      <title>Migrate From Google Workspace to Personal Gmail</title>
+      <link>//localhost:1313/migrate-from-google-workspace-to-personal-gmail/</link>
+      <pubDate>Mon, 10 Jun 2024 10:09:07 +1000</pubDate>
+      
+      <guid>//localhost:1313/migrate-from-google-workspace-to-personal-gmail/</guid>
+      <description>Considering switching from Google Workspace to a personal Gmail account? This guide simplifies the process! We&amp;#39;ll walk you through data transfer options, explain limitations, and explore alternative solutions for a smooth transition. Learn how to Migrate From Google Workspace to Personal Gmail.</description>
+    </item>
+    
+    <item>
+      <title>How To Install Kali Linux VirtualBox</title>
+      <link>//localhost:1313/kali-vm/</link>
       <pubDate>Fri, 07 Jun 2024 20:06:28 +1000</pubDate>
       
-      <guid>//localhost:1313/kali-install/</guid>
-      <description>Thanks for reading</description>
+      <guid>//localhost:1313/kali-vm/</guid>
+      <description>Welcome to the blog.
+Let&amp;rsquo;s get you started with Kali Linux.
+We&amp;rsquo;ll download VirtualBox which runs virtual machines (VM).
+Then we&amp;rsquo;ll get Kali Linux, and setup the VM.
+Download VirtualBox Head to VirtualBox.org to download the latest version of VirtualBox.
+Get the right version for your operating system (Windows, Mac, Linux, etc.).
+Download Kali Linux Next, get Kali Linux itself.
+Visit get-kali to find a pre-made VM.
+Check the architecture (32-bit or 64-bit).</description>
     </item>
     
     <item>
       <title>CyberLens TryHackMe Writeup</title>
-      <link>//localhost:1313/cyberlens/</link>
+      <link>//localhost:1313/cyberlens-tryhackme-writeup/</link>
       <pubDate>Fri, 24 May 2024 12:05:12 +1000</pubDate>
       
-      <guid>//localhost:1313/cyberlens/</guid>
-      <description>Okay, it&amp;rsquo;s been a while. Last writeup on the blog was Chill Hack&amp;hellip; but she (and others) need refreshers.
-Anyway, here&amp;rsquo;s CyberLens, a newish TryHackMe room from Tyler Ramsbey who make&amp;rsquo;s great content, give them a follow/subscribe.
-PS - I&amp;rsquo;ve got a video walkthrough if you want.
-The Challenge First up, the Challenge Description.
-Welcome to the clandestine world of CyberLens, where shadows dance amidst the digital domain and metadata reveals the secrets that lie concealed within every image.</description>
+      <guid>//localhost:1313/cyberlens-tryhackme-writeup/</guid>
+      <description>Conquer the CyberLens TryHackMe room! This writeup guides you through exploiting a vulnerable web application and uncovering hidden flags. Learn Windows hacking and web app security concepts in this step-by-step walkthrough. Master CyberLens and level up your TryHackMe skills!</description>
     </item>
     
     <item>
@@ -99,7 +131,7 @@ The thinking is, use Windows Subset for Linux (WSL) with headless Kali Linux.</d
       <description>Just a few notes/things to remember while using git.
 Typical git process:
 git pull $link git add . git commit -m &#39;v0.1&#39; git push $link Switch branches from master to main
-git branch -m master main </description>
+git branch -m master main If errors: git pull --rebase</description>
     </item>
     
     <item>

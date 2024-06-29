@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Guide on Mr Ash Co</title>
+    <link>//localhost:1313/categories/guide/</link>
+    <description>Recent content in Guide on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 20 Jun 2024 16:27:58 +1000</lastBuildDate><atom:link href="//localhost:1313/categories/guide/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Cyber Security for Beginners</title>
+      <link>//localhost:1313/cybersec-beginner/</link>
+      <pubDate>Thu, 20 Jun 2024 16:27:58 +1000</pubDate>
+      
+      <guid>//localhost:1313/cybersec-beginner/</guid>
+      <description>Cyber Security for Beginners: Your Ultimate Guide Cyber security can seem daunting with the vast amount of information available. As a beginner, it can be challenging to know where to start. In this guide, we&amp;rsquo;ll cover the three most important areas of cyber security. Stick around to the end for some free resources to help you dive deeper.
+What is Cyber Security? A simple way to describe cyber security is protecting people and their computers from bad actors and their malicious activities.</description>
+    </item>
+    
+  </channel>
+</rss>

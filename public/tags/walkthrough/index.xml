@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 09 Jul 2022 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/walkthrough/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 12:05:12 +1000</lastBuildDate><atom:link href="//localhost:1313/tags/walkthrough/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CyberLens TryHackMe Writeup</title>
+      <link>//localhost:1313/cyberlens-tryhackme-writeup/</link>
+      <pubDate>Fri, 24 May 2024 12:05:12 +1000</pubDate>
+      
+      <guid>//localhost:1313/cyberlens-tryhackme-writeup/</guid>
+      <description>Conquer the CyberLens TryHackMe room! This writeup guides you through exploiting a vulnerable web application and uncovering hidden flags. Learn Windows hacking and web app security concepts in this step-by-step walkthrough. Master CyberLens and level up your TryHackMe skills!</description>
+    </item>
+    
     <item>
       <title>Agent Sudo TryHackMe Walkthrough</title>
       <link>//localhost:1313/agent-sudo/</link>

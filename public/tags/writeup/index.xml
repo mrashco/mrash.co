@@ -14,15 +14,11 @@
     <lastBuildDate>Fri, 24 May 2024 12:05:12 +1000</lastBuildDate><atom:link href="//localhost:1313/tags/writeup/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>CyberLens TryHackMe Writeup</title>
-      <link>//localhost:1313/cyberlens/</link>
+      <link>//localhost:1313/cyberlens-tryhackme-writeup/</link>
       <pubDate>Fri, 24 May 2024 12:05:12 +1000</pubDate>
       
-      <guid>//localhost:1313/cyberlens/</guid>
-      <description>Okay, it&amp;rsquo;s been a while. Last writeup on the blog was Chill Hack&amp;hellip; but she (and others) need refreshers.
-Anyway, here&amp;rsquo;s CyberLens, a newish TryHackMe room from Tyler Ramsbey who make&amp;rsquo;s great content, give them a follow/subscribe.
-PS - I&amp;rsquo;ve got a video walkthrough if you want.
-The Challenge First up, the Challenge Description.
-Welcome to the clandestine world of CyberLens, where shadows dance amidst the digital domain and metadata reveals the secrets that lie concealed within every image.</description>
+      <guid>//localhost:1313/cyberlens-tryhackme-writeup/</guid>
+      <description>Conquer the CyberLens TryHackMe room! This writeup guides you through exploiting a vulnerable web application and uncovering hidden flags. Learn Windows hacking and web app security concepts in this step-by-step walkthrough. Master CyberLens and level up your TryHackMe skills!</description>
     </item>
     
     <item>

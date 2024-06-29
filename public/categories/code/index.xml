@@ -21,7 +21,7 @@
       <description>Just a few notes/things to remember while using git.
 Typical git process:
 git pull $link git add . git commit -m &#39;v0.1&#39; git push $link Switch branches from master to main
-git branch -m master main </description>
+git branch -m master main If errors: git pull --rebase</description>
     </item>
     
   </channel>

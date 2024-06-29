@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>CTF on Mr Ash Co</title>
+    <title>Ctf on Mr Ash Co</title>
     <link>//localhost:1313/tags/ctf/</link>
-    <description>Recent content in CTF on Mr Ash Co</description>
+    <description>Recent content in Ctf on Mr Ash Co</description>
     <image>
       <title>Mr Ash Co</title>
       <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Mar 2021 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 24 May 2024 12:05:12 +1000</lastBuildDate><atom:link href="//localhost:1313/tags/ctf/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>CyberLens TryHackMe Writeup</title>
+      <link>//localhost:1313/cyberlens-tryhackme-writeup/</link>
+      <pubDate>Fri, 24 May 2024 12:05:12 +1000</pubDate>
+      
+      <guid>//localhost:1313/cyberlens-tryhackme-writeup/</guid>
+      <description>Conquer the CyberLens TryHackMe room! This writeup guides you through exploiting a vulnerable web application and uncovering hidden flags. Learn Windows hacking and web app security concepts in this step-by-step walkthrough. Master CyberLens and level up your TryHackMe skills!</description>
+    </item>
+    
     <item>
       <title>PicoCTF General Skills</title>
       <link>//localhost:1313/picoctf/</link>

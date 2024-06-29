@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Server Management on Mr Ash Co</title>
+    <link>//localhost:1313/tags/server-management/</link>
+    <description>Recent content in Server Management on Mr Ash Co</description>
+    <image>
+      <title>Mr Ash Co</title>
+      <url>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</url>
+      <link>//localhost:1313/%3Clink%20or%20path%20of%20image%20for%20opengraph,%20twitter-cards%3E</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 May 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/tags/server-management/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Docker</title>
+      <link>//localhost:1313/docker/</link>
+      <pubDate>Fri, 24 May 2024 00:00:00 +0000</pubDate>
+      
+      <guid>//localhost:1313/docker/</guid>
+      <description>Let&amp;rsquo;s learn Docker and set it up.
+So what&amp;rsquo;s Docker?
+Well it&amp;rsquo;s complicated.
+It&amp;rsquo;s a way to install, maintain and run applications.
+But apps are self-contained, hence the term containers.
+Docker allows networking and lots more.
+Installing Docker Best way is to follow the docs.
+Kali Linux If you&amp;rsquo;re on Kali Linux, don&amp;rsquo;t follow the official guide.
+Go to Installing Docker on Kali Linux from Kali.org instead.
+sudo apt update sudo apt install -y docker.</description>
+    </item>
+    
+  </channel>
+</rss>
