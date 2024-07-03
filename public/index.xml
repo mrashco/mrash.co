@@ -11,7 +11,16 @@
     </image>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 29 Jun 2024 00:00:00 +0000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 03 Jul 2024 14:42:26 +1000</lastBuildDate><atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>RegreSSHion (2006&#39;s OpenSSH Vuln is Back Again)</title>
+      <link>//localhost:1313/regresshion/</link>
+      <pubDate>Wed, 03 Jul 2024 14:42:26 +1000</pubDate>
+      
+      <guid>//localhost:1313/regresshion/</guid>
+      <description>OpenSSH Zero-Day Vulnerability (CVE-2024-6387) A new zero-day vulnerability, &amp;ldquo;RegreSSHion&amp;rdquo;, allows Remote Code Execution (RCE) with root privileges due to a signal handler race condition. This regression of CVE-2006-5051 was inadvertently reintroduced in an update. An attacker can exploit it by repeatedly connecting without authenticating, aiming for a precise timing window. Versions 4.4p1 and earlier Detection and Mitigation Oligo ADR can detect abnormal behaviour, including exploitation attempts. Prioritize patching or using workarounds on OpenSSH servers running on glibc-based Linux systems to mitigate this high-risk vulnerability.</description>
+    </item>
+    
     <item>
       <title>Python Ollama File</title>
       <link>//localhost:1313/python-ollama-file/</link>
